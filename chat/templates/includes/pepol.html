@@ -1,0 +1,35 @@
+<div class="spase_pepol bg-dark">
+  {% for user in users %}
+
+  <div class="user_info">
+    <div class="img_user">
+      {% if user.image %} {% endif %}
+      <img src="{{user.image.url}}" alt="img_user" class="img-fluid" />
+    </div>
+    <div class="name_user">
+      <p>{{user.user}}</p>
+      <p>dynamite</p>
+
+    </div>
+  </div>
+  <hr />
+  {% endfor %}
+  <div class="add">
+    <div class="add_user">
+      <div class="add_user_spase">
+        <input
+          type="text"
+          name="add_username_for_user"
+          class="add_username_for_user"
+          id="add_username_for_user"
+          placeholder="add usernamee"
+        />
+      </div>
+      <div class="add_user_image">
+        <button type="submit" class="image_button_add_user">
+          <img src="/static/media/add_icon.png" alt="" />
+        </button>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,90 @@
+.spase_chat{
+    width: 70%;
+    height: 89%;
+    background-color:  #343a4a;
+    background-repeat: no-repeat;
+    background-size: 70.42%;
+    float: right;
+    position: absolute ;
+    /* position: fixed ; */
+    overflow-y: scroll ; 
+    right: 0px;
+    flex-direction: column;
+    display: flex;
+    overflow-x: hidden;
+    color: black;
+}
+.chat_info1 {
+    width: 100%;
+    /* margin-left: 20px ; */
+    float: right;
+}
+.chat_polder1{
+    color: black;
+    background-color: rgba(255, 255, 255, 0.601);
+    background-color:  white;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    float: right;
+    width: 40%;
+    margin-right: 30px ;
+}
+.user_name1{
+    /* margin-left: 15px; */
+    margin: 1% 4% 1% 0;
+    text-align: right;
+}
+.chat_text1{
+    margin: 0 3%;
+    text-align: right;
+
+}
+.date_msg1{
+    font-size: 12px;
+    margin: 0 3%;
+    text-align: right;
+
+}
+.chat_info2 {
+    width: 100%;
+    float: left;
+}
+.chat_polder2{
+    color: black;
+    background-color: rgba(255, 255, 255, 0.601);
+    background-color:  white;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    width: 40%;
+    margin-left: 30px ;
+}
+.user_name2{
+    /* margin-left: 15px; */
+    margin: 1% 0 1% 4%;
+    text-align: left;
+}
+.chat_text1{
+    margin: 0 3%;
+    text-align: right;
+
+}
+.chat_text2{
+    margin: 0 3%;
+    text-align: left;
+    
+}
+.date_msg2{
+    font-size: 12px;
+    margin: 0 3%;
+    text-align: left;
+
+}
+.div_image img{
+    width: 100%;
+    margin : 10px 0px;
+}
+.div_image_si{
+    margin: 10px;
+}

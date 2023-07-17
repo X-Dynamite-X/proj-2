@@ -1,0 +1,32 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {% block title %}{% endblock %}
+
+    <link rel="stylesheet" href="{% static 'css/nav.css' %}">
+    <link rel="stylesheet" href="{% static 'css/inputmsg.css' %}">
+    <link rel="stylesheet" href="{% static 'css/msg.css' %}">
+    <link rel="stylesheet" href="{% static 'css/pepol.css' %}">
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+
+
+
+
+</head>
+<body>
+    <nav class="nav">
+        <ul class="nav_list">
+          <li class="nav_list_par"><a href="{% url 'msg' %}" class="nav_liks" >msg</a></li>
+          <li class="nav_list_par"><a href="{% url 'singin' %}" class="nav_liks" >singin</a></li>
+          <li class="nav_list_par"><a href="{% url 'singup' %}" class="nav_liks" >singup</a></li>
+          <li class="nav_list_par"><a href="{% url 'logout' %}" class="nav_liks" >logout</a></li>
+        </u>
+        </nav>
+{% block body %}
+{% endblock body %}
+</body>
+</html>

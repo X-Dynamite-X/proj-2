@@ -1,0 +1,73 @@
+.spase_pepol{
+    width: 30%;
+    background-color: #343a40;
+    color: #ddd;
+    float: left;    
+    height: 92.90%;
+    overflow-y: scroll;
+    position: absolute;
+}
+.user_info{
+    margin:5% 0 ;
+    overflow: auto;
+    height: auto;
+}
+.name_user{
+    background-color: #65686b;
+    float: right;
+    width: 60%;
+    margin-right:7% ;
+    /* height: 30px; */
+    text-align: center;
+    border-radius: 30pc;
+}
+.name_user p{
+    /* margin-left: %; */
+    margin-top: 2%; 
+}
+
+.img_user img{
+    float: left;
+    width: 20%;
+    border-radius: 100%;
+    
+}
+.add{
+    background-color: #343a40;
+    overflow: absolute;
+    width: 96%;
+    margin:0 2%;
+    
+}
+.add_user{
+    margin:4% 0 ;
+    top: 0px;
+    overflow: auto;
+}
+.add_user_spase{
+    float: left;
+    width: 60%;
+    height: 40px;
+    margin-left:2% ;
+}
+.add_username_for_user{
+    width: 100%;
+    margin-top: 2%;
+    height: 100%;
+    font-size: 15px;
+    margin-bottom:2% ;
+
+}
+.add_user_image{
+    float: right;
+    width: 20%;
+    /* height: 40px; */
+    border-radius: 100px;
+    margin-right: 2%;
+    margin-top: 2%;
+    margin-bottom:1% ;
+}
+.image_button_add_user img{
+    width: 50%;
+    
+}

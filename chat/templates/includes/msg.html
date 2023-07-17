@@ -1,0 +1,52 @@
+<div class="chat_scan">
+  <div class="spase_chat">
+    {% for message in message %}
+    {% if message.created_by  !=  username %}
+      <div class="chat_info1">
+        <div class="user_name1">
+          {% else %}
+          <div class="chat_info2">
+            <div class="user_name2">
+              {% endif %}
+          <label>{{message.created_by}}</label>
+        </div>
+        {% if username !=  message.created_by %}
+        <div class="chat_polder1">
+          {% else %}
+          <div class="chat_polder2">
+        {% endif %}
+          <div class="div_image">
+            <div class="div_image_si">
+              {% if message.image %}
+                  <img src="{{ message.image.url }}" alt="" srcset=""> 
+
+
+                  {% endif %}
+
+            </div>
+          </div>
+          {% if message.created_by  !=  username %}
+          <div class="chat_text1">
+      {% else %}
+      <div class="chat_text2">
+      {%endif%}
+            <p>{{message.msg}}</p>
+          </div>
+        {% if message.image or message.msg %}
+          {% if message.created_by  !=  username %}
+          <div class="date_msg1">
+            {% else %}
+            <div class="date_msg2">
+                      {%endif%}
+            <p>{{message.created_dt}}</p>
+            <br>
+          </div>
+          {% endif %}
+        </div>
+        <br>
+      </div>
+      <br>
+      <hr>
+{% endfor %} 
+  </div>
+</div>

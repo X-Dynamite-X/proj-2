@@ -1,0 +1,66 @@
+.form_send_msg{
+    background-color: #343a40;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    height: auto;
+    width: 70%;
+}
+.send_msg{
+    float: right;
+    width: 100%;
+}
+.input_img{
+    width: 10%;
+    height: 30px;
+    color: white;
+    height: 30px;
+    /* margin-top: 2%; */
+    margin-left: 0.5%;
+
+}
+ .input_text {
+    width: 75%;
+    height: 35px;
+    /* margin: 0 0.5%; */
+}
+.input_sub  {
+    height: 35px;
+    left: 0px;
+    margin-left: 0.5%;
+    width: 10%;
+    color: #fff;
+    background-color: #28292d;
+
+    border: 1px solid #fff;
+
+}
+
+@media (max-width: 850px) {
+    .input_sub  {
+   height: 40px;
+   left: 0px;
+   margin-left: 0.5%;
+   width: 10%;
+    }
+    .input_text {
+        width: 70%;
+        height: 35px;
+        margin: 0 0.5%;
+    }
+}
+
+ @media (max-width: 425px) {
+     .input_sub  {
+    height: 40px;
+    left: 0px;
+    margin-left: 0.5%;
+    width: 10%;
+}
+.input_text {
+    width: 65%;
+    height: 35px;
+    margin: 0 0.5%;
+}
+
+}
