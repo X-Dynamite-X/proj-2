@@ -7,7 +7,6 @@
   font-family: "Quicksand", sans-serif;
 }
 body {
-  /* display: flex; */
   justify-content: center;
   align-items: center;
   background: #000;
@@ -39,6 +38,35 @@ section::before {
     transform: translateY(100%);
   }
 }
+.fiestChois ,.secandChois{
+  display: flex;
+  margin:2%  4%;
+  width: 100%;
+}
+.fiestChois .inputRadio {
+  padding:2% 2%;
+  display: flex;
+  width: 50%;
+  color:#fff
+}
+.secandChois .inputRadio{
+  padding:2% 2%;
+  display: flex;
+  width: 100%;
+  color:#fff
+}
+.fiestChois .inputRadio .type_crepto{
+  margin: 0 5%;
+  color: #000;
+}
+.secandChois .inputRadio .cipher_Type{
+  margin: 0 5%;
+  color: #000;
+}
+
+
+
+
 section .span {
   position: relative;
   display: block;
@@ -52,149 +80,38 @@ section .span:hover {
   background: #fff;
   transition: 0s;
 }
-.signin {
+.cryptography {
   position: relative;
-  width: 300px;
+  width: 600px;
   height: 480px;
   background: #1c1c1c;
   border-radius: 8px;
   overflow: hidden;
 }
-.signin::before {
+.cryptography::before {
   content: "";
   position: absolute;
   top: -50%;
   left: -50%;
-  width: 380px;
-  height: 480px;
+  width: 600px;
+  height: 420px;
   background: linear-gradient(0deg, transparent, #fff, #fff);
   transform-origin: bottom right;
   animation: animate 6s linear infinite;
 }
-.signin::after {
+.cryptography::after {
   content: "";
   position: absolute;
   top: -50%;
   left: -50%;
-  width: 380px;
-  height: 480px;
-  background: linear-gradient(0deg, transparent, #fff, #fff);
-  transform-origin: bottom right;
-  animation: animate 6s linear infinite;
-  animation-delay: -3s;
-}
-.signup {
-  height: 700px;
-}
-.signup::before {
-  content: "";
-  position: absolute;
-  top: -50%;
-  left: -50%;
-  width: 380px;
-  height: 700px;
-  background: linear-gradient(0deg, transparent, #fff, #fff);
-  transform-origin: bottom right;
-  animation: animate 6s linear infinite;
-}
-.signup::after {
-  content: "";
-  position: absolute;
-  top: -50%;
-  left: -50%;
-  width: 380px;
-  height: 700px;
-  background: linear-gradient(0deg, transparent, #fff, #fff);
-  transform-origin: bottom right;
-  animation: animate 6s linear infinite;
-  animation-delay: -3s;
-}
-.password_change {
-  height: 550px;
-}
-.password_change::before {
-  content: "";
-  position: absolute;
-  top: -50%;
-  left: -50%;
-  width: 380px;
-  height: 550px;
-  background: linear-gradient(0deg, transparent, #fff, #fff);
-  transform-origin: bottom right;
-  animation: animate 6s linear infinite;
-}
-.password_change::after {
-  content: "";
-  position: absolute;
-  top: -50%;
-  left: -50%;
-  width: 380px;
-  height: 550px;
+  width: 600px;
+  height: 420px;
   background: linear-gradient(0deg, transparent, #fff, #fff);
   transform-origin: bottom right;
   animation: animate 6s linear infinite;
   animation-delay: -3s;
 }
 
-.password_reset_email {
-  height: 350px;
-}
-.password_reset_email::before {
-  content: "";
-  position: absolute;
-  top: -50%;
-  left: -50%;
-  width: 380px;
-  height: 350px;
-  background: linear-gradient(0deg, transparent, #fff, #fff);
-  transform-origin: bottom right;
-  animation: animate 6s linear infinite;
-}
-.password_reset_email::after {
-  content: "";
-  position: absolute;
-  top: -50%;
-  left: -50%;
-  width: 380px;
-  height: 350px;
-  background: linear-gradient(0deg, transparent, #fff, #fff);
-  transform-origin: bottom right;
-  animation: animate 6s linear infinite;
-  animation-delay: -3s;
-}
-
-
-.password_reset_confirm {
-  position: relative;
-  width: 380px;
-  height: 480px;
-  background: #1c1c1c;
-  border-radius: 8px;
-  overflow: hidden;
-}
-.password_reset_confirm::before {
-  content: "";
-  position: absolute;
-  top: -50%;
-  left: -50%;
-  width: 380px;
-  height: 480px;
-  background: linear-gradient(0deg, transparent, #fff, #fff);
-  transform-origin: bottom right;
-  animation: animate 6s linear infinite;
-}
-.password_reset_confirm::after {
-  content: "";
-  position: absolute;
-  top: -50%;
-  left: -50%;
-  width: 380px;
-  height: 480px;
-  background: linear-gradient(0deg, transparent, #fff, #fff);
-  transform-origin: bottom right;
-  animation: animate 6s linear infinite;
-  animation-delay: -3s;
-}
 
 @keyframes animate {
   0% {
@@ -220,10 +137,17 @@ section .span:hover {
   align-items: center;
   letter-spacing: 0.1em;
 }
+.inputKeyText{
+  display: flex;
+  width: 100%;
+}
 .inputBox {
   position: relative;
-  width: 300px;
-  margin-top: 35px;
+  width: 50%;
+  
+  margin:5% 5%;
+  /* padding: 0 5%; */
+
 }
 .inputBox input {
   position: relative;
@@ -304,9 +228,9 @@ button[type="submit"]:active {
   opacity: 0.8;
 }
 
-section .signin {
+section .cryptography {
   position: absolute;
-  width: 400px;
+  width: 600px;
   background: #222;
   z-index: 1000;
   display: flex;
@@ -316,7 +240,7 @@ section .signin {
   border-radius: 4px;
   box-shadow: 0 15px 35px rgba(0, 0, 0, 9);
 }
-section .signin .content {
+section .cryptography .content {
   width: 100%;
   justify-content: center;
   align-items: center;

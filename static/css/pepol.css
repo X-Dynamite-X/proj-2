@@ -30,6 +30,7 @@
     float: left;
     width: 20%;
     border-radius: 100%;
+    background-color: #343a40;
     
 }
 .add{
@@ -46,7 +47,7 @@
 }
 .add_user_spase{
     float: left;
-    width: 60%;
+    width: 80%;
     height: 40px;
     margin-left:2% ;
 }
@@ -56,18 +57,26 @@
     height: 100%;
     font-size: 15px;
     margin-bottom:2% ;
+    color: #000;
 
 }
 .add_user_image{
     float: right;
-    width: 20%;
-    /* height: 40px; */
+    width: 15%;
+     /* height: 40px;  */
     border-radius: 100px;
     margin-right: 2%;
     margin-top: 2%;
     margin-bottom:1% ;
 }
-.image_button_add_user img{
+.image_button_add_user {
+    background-color: #343a40;
+    border: 0;
+}
+
+.imge_add_user{    
     width: 50%;
-    
+    background-color: #343a40;
+    border-radius: 50%;
+
 }

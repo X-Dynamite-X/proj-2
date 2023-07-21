@@ -4,7 +4,7 @@ from django.contrib.auth import authenticate, login
 from django.contrib.auth.models import User
 def singin(request):
     if request.method == 'POST':
-        username = request.POST['username']
+        username = request.POST['username'].lower()
         password = request.POST['password']
         user = authenticate(request, username=username, password=password)
         print(user)
@@ -19,13 +19,13 @@ def singin(request):
 
 def singup(request):
     if request.method =="POST":
-        username=request.POST['username']
+        username=request.POST['username'].lower()
         email = request.POST['email']
         password = request.POST['password']
         myuser = User.objects.create_user(username,email,password)
-        first_name= request.POST['first_name']
+        first_name= request.POST['first_name'].title()
         myuser.first_name=first_name
-        last_name = request.POST['last_name']
+        last_name = request.POST['last_name'].lower()
         myuser.last_name=last_name
         myuser.save()
         return redirect("singin")
@@ -44,3 +44,4 @@ def password_change(request):
                 return redirect("logout")
             else:
                 print("new_password1 != new_password2")
+    return render(request, 'password_change.html')
