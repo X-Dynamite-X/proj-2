@@ -1,21 +1,26 @@
 <div class="spase_pepol">
-  {% for user in user %}
-  <div class="user_info">
-    <div class="img_user">
-      {% if user.image %} 
-      <img src="{{user.image.url}}" alt="img_user" class="img-fluid" />
-      {% else %}
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG2h3dtkFclxksGm2bXE8R53sUemVyVGmJTg&usqp=CAU"  class="img-fluid" />
+  {% for user in users %} {% if   request.user.username != user.username  %}
+  <a class="link_id" href="{% url 'msg_id' user.pk %}">
+    <div class="user_info">
+      <div class="img_user">
+        {% if user.image %}
+        <img src="{{user.image.url}}" alt="img_user" class="img-fluid" />
+        {% else %}
+        <img
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG2h3dtkFclxksGm2bXE8R53sUemVyVGmJTg&usqp=CAU"
+          class="img-fluid"
+        />
+        {% endif %}
+      </div>
+      <div class="name_user">
+        <p>{{user.username}}</p>
 
-      {% endif %}
+      </div>
     </div>
-    <div class="name_user">
-      <p>{{user.username}}</p>
-
-    </div>
-  </div>
+  </a>
   <hr />
-  {% endfor %}
+
+  {%endif%} {% endfor %}
   <div class="add">
     <div class="add_user">
       <div class="add_user_spase">
@@ -29,7 +34,11 @@
       </div>
       <div class="add_user_image">
         <button type="submit" class="image_button_add_user">
-          <img class="imge_add_user" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAM1BMVEX///8AAABoaGhYWFhGRkb8/Pzv7+9eXl5MTExsbGw4ODjy8vJbW1sqKiojIyMcHBwXFxeYiN1aAAABFElEQVR4nO3dO1LDQBRFQWMM8gcw+18tuVUkUxbDUXUv4NU96SRzOAAAAAAAAAAAAADw/ywvj86zJz3ZcVX4OnvSkynsU9insE9hn8I+hX0K+xT2KexT2KewT2Gfwj6FfQr7FPYp7FPYp7BPYZ/CPoV9CvsU9insU9i3/8LLqvBj9qRfLMchl89V4ddl7NTytm3haujfU6hQ4XwKFSqcT6FChfMpVKhwvo0Lr6ch5/tq6PfYpdN148LR8897ido4cNj+39oU9insU9insE9hn8I+hX0K+xT2KexT2KewT2Gfwj6FfQr7FPYp7FPYp7BPYZ/CPoV9CvsU9ins23/h/v+wvL0/us2eBAAAAAAAAAAAADDgB/GwFoGeeKF9AAAAAElFTkSuQmCC" alt="" />
+          <img
+            class="imge_add_user"
+            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAM1BMVEX///8AAABoaGhYWFhGRkb8/Pzv7+9eXl5MTExsbGw4ODjy8vJbW1sqKiojIyMcHBwXFxeYiN1aAAABFElEQVR4nO3dO1LDQBRFQWMM8gcw+18tuVUkUxbDUXUv4NU96SRzOAAAAAAAAAAAAADw/ywvj86zJz3ZcVX4OnvSkynsU9insE9hn8I+hX0K+xT2KexT2KewT2Gfwj6FfQr7FPYp7FPYp7BPYZ/CPoV9CvsU9insU9i3/8LLqvBj9qRfLMchl89V4ddl7NTytm3haujfU6hQ4XwKFSqcT6FChfMpVKhwvo0Lr6ch5/tq6PfYpdN148LR8897ido4cNj+39oU9insU9insE9hn8I+hX0K+xT2KexT2KewT2Gfwj6FfQr7FPYp7FPYp7BPYZ/CPoV9CvsU9ins23/h/v+wvL0/us2eBAAAAAAAAAAAADDgB/GwFoGeeKF9AAAAAElFTkSuQmCC"
+            alt=""
+          />
         </button>
       </div>
     </div>

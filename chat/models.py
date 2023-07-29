@@ -6,3 +6,4 @@ class Message(models.Model):
     created_by = models.ForeignKey(User,related_name="user",on_delete=models.CASCADE)
     created_dt = models.DateTimeField(auto_now_add=True)
     image = models.ImageField(default="pgb.png",upload_to="images/")
+#    user =models.ForeignKey(User,related_name="username",on_delete=models.CASCADE)

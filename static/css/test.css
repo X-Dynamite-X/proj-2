@@ -1,0 +1,79 @@
+.ferstChois,
+.secandChois {
+  display: flex;
+  margin: 2% 4%;
+  width: 100%;
+}
+.ferstChois .inputRadio {
+  padding: 2% 2%;
+  display: flex;
+  width: 50%;
+  color: #fff;
+}
+.secandChois .inputRadio {
+  padding: 2% 2%;
+  display: flex;
+  width: 100%;
+  color: #fff;
+}
+.ferstChois .inputRadio .type_crepto {
+  margin: 0 5%;
+  color: #000;
+}
+.secandChois .inputRadio .cipher_Type {
+  margin: 0 5%;
+  color: #000;
+}
+.h4_type_crept {
+  margin: 2% 40%;
+}
+.inputKeyText {
+  display: flex;
+  width: 100%;
+}
+.output {
+  color: #fff;
+  width: 80%;
+  padding: 3%;
+  margin: 0 5% 3% 5%;
+  border: dashed #fff 1px;
+  border-radius: 35px;
+}
+.h2_type_crepto {
+  margin: 0 40%;
+}
+.js-code-copy {
+  top: 6px;
+  inset-inline-end: 6px;
+  margin: 0px;
+  background: var(--cib-color-background-surface-solid-tertiary);
+  color: var(--cib-color-foreground-neutral-primary);
+  fill: var(--cib-color-foreground-neutral-primary);
+  width: 35px;
+  height: 35px;
+
+  float: right;
+  margin: 0 0% 3% 3%;
+  border-radius: var(--cib-border-radius-medium);
+  border: 1px solid #000;
+}
+
+
+.js-code-copy:hover {
+  background-color: #fff;
+  border-radius: 35px;
+}
+.out {
+  background-color: #323232;
+  overflow-y: auto;
+  max-height: 50vh;
+  margin: 3% 4%;
+  padding: 2% 2%;
+  border-radius: 35px;
+}
+.out p {
+  margin: 1%;
+  overflow-wrap: break-word;
+  width: 95%;
+  padding: 1%;
+}

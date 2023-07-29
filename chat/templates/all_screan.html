@@ -2,9 +2,13 @@
 {% load static %}
 <!DOCTYPE html>
 {% block title %}<title>msg</title>
-{% comment %} <link rel="stylesheet" href="{% static 'css/inputmsg.css' %}">
+ <link rel="stylesheet" href="{% static 'css/inputmsg.css' %}">
 <link rel="stylesheet" href="{% static 'css/msg.css' %}">
-<link rel="stylesheet" href="{% static 'css/pepol.css' %}"> {% endcomment %}
+<link rel="stylesheet" href="{% static 'css/pepol.css' %}"> 
+<link rel="stylesheet" href="{% static 'css/start_page.css' %}"> 
+
+
+
 {% endblock %}
 <html lang="en">
     <head>
@@ -18,9 +22,16 @@
         {% block body %}
         {% csrf_token %}
         <div class="spase_scren">
-            {% include "includes/msg.html"  %}
-            {% include "includes/pepol.html" %}
+            
+            {% if  request.path == '/msg/' %}
+            {% include "includes/start_page.html"  %}
+            {% else %}
+            {% include "includes/msg.html" %}
             {% include "includes/inputmsg.html" %}
+            {% endif %}
+
+            {% include "includes/pepol.html" %}
+            
         </div>
         {% endblock body %}
     </body>

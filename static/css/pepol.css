@@ -7,11 +7,20 @@
     overflow-y: scroll;
     position: absolute;
 }
+a.link_id{
+    color:#fff
+}
+
 .user_info{
     margin:5% 0 ;
     overflow: auto;
     height: auto;
 }
+
+.user_info:hover{
+    background: #272b2e;
+}
+
 .name_user{
     background-color: #65686b;
     float: right;
