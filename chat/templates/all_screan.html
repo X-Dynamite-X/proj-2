@@ -2,21 +2,19 @@
 {% load static %}
 <!DOCTYPE html>
 {% block title %}<title>msg</title>
- <link rel="stylesheet" href="{% static 'css/inputmsg.css' %}">
+<link rel="stylesheet" href="{% static 'css/inputmsg.css' %}">
 <link rel="stylesheet" href="{% static 'css/msg.css' %}">
 <link rel="stylesheet" href="{% static 'css/pepol.css' %}"> 
+
+{% if  request.path == '/msg/' %}
 <link rel="stylesheet" href="{% static 'css/start_page.css' %}"> 
+{% endif %}
+
 
 
 
 {% endblock %}
-<html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>sing in</title>
-    </head>
+
     <body>
         
         {% block body %}
@@ -29,10 +27,8 @@
             {% include "includes/msg.html" %}
             {% include "includes/inputmsg.html" %}
             {% endif %}
-
             {% include "includes/pepol.html" %}
             
         </div>
         {% endblock body %}
     </body>
-</html>    

@@ -5,3 +5,8 @@
     max-width: 100%;
     font-family: "Quicksand", sans-serif;
 }
+::-webkit-scrollbar {
+    width: 7px;
+    background-color: #343a40;
+
+}

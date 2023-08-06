@@ -8,6 +8,7 @@ section {
     gap: 2px;
     flex-wrap: wrap;
     overflow: hidden;
+
   }
   section::before {
     content: "";
@@ -38,3 +39,20 @@ section {
     background: #fff;
     transition: 0s;
   }
+  @media (max-width: 900px) {
+    body{
+      position: fixed;
+      width: 100%;
+    }
+    section .span {
+      width: calc(10vw - 2px);
+      height: calc(10vw - 2px);
+    }
+  }
+  @media (max-width: 600px) {
+    section .span {
+      width: calc(20vw - 2px);
+      height: calc(20vw - 2px);
+    }
+  }
+  

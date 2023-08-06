@@ -6,6 +6,7 @@
   max-width: 100%;
   font-family: "Quicksand", sans-serif;
 }
+
 body {
   /* display: flex; */
   justify-content: center;
@@ -277,14 +278,11 @@ section .cryptography .content {
   fill: var(--cib-color-foreground-neutral-primary);
   width: 35px;
   height: 35px;
-
   float: right;
   margin: 0 0% 3% 3%;
   border-radius: var(--cib-border-radius-medium);
   border: 1px solid #000;
 }
-
-
 .js-code-copy:hover {
   background-color: #fff;
   border-radius: 35px;
