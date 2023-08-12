@@ -25,11 +25,7 @@
 .nav_liks:hover {
     background-color: #fff;
     color: #000;
-  }
-
-
-
-
+}
 @media (max-width: 850px) {
     .nav_liks{
         display: grid;
@@ -52,7 +48,6 @@
         text-align: center;
     }
 }
-
 @media (max-width: 425px) {
     .nav_liks{
         display: grid;

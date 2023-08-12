@@ -173,6 +173,7 @@ section .span:hover {
 .links a:hover {
   color: #fff;
 }
+
 input[type="submit"] {
   border: 1px solid #fff;
   outline: none;
@@ -230,6 +231,8 @@ section .cryptography .content {
   display: flex;
   margin: 2% 4%;
   width: 100%;
+  flex-wrap: wrap;
+
 }
 .ferstChois .inputRadio {
   padding: 2% 2%;
@@ -240,7 +243,7 @@ section .cryptography .content {
 .secandChois .inputRadio {
   padding: 2% 2%;
   display: flex;
-  width: 100%;
+  width: 33%;
   color: #fff;
 }
 .ferstChois .inputRadio .type_crepto {
@@ -300,4 +303,8 @@ section .cryptography .content {
   overflow-wrap: break-word;
   width: 95%;
   padding: 1%;
+}
+.hr{
+  color: #fff;
+  background-color: #fff;
 }

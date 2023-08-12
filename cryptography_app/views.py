@@ -29,21 +29,28 @@ def cryptography(request):
                 out=fc.en_beliver(text,key)
                 print(out)
                 outtext=out
-
+            elif cipher_Type =="morse":
+                text=list(text)
+                out=fc.en_morse(text)
+                print(out)
+                outtext=out
         elif type_crepto =="decryption":
             if cipher_Type =="caesar":
                 key=int(key)
                 out=fc.de_caesar(text,key)
                 print(out)
                 outtext=out
-
             elif cipher_Type =="vigener":
                 text=list(text)
                 key=list(key)
                 out=fc.de_vigener(text,key)
                 print(out)
                 outtext=out
-
+            elif cipher_Type =="morse":
+                text=text
+                out=fc.de_morse(text)
+                print(out)
+                outtext=out
             elif cipher_Type =="beliver":
                 text=list(text)
                 key=list(key)

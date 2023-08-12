@@ -1,4 +1,15 @@
 import pandas as pan
+from morse3 import Morse as m
+############ ( شفرة مورس  Morse ) ############
+
+def en_morse(plain_text):
+    cipher_text=m(plain_text).stringToMorse()
+    print(cipher_text)
+    return cipher_text
+def de_morse(cipher):
+    plain_text=m(cipher).morseToString()
+    print(plain_text)
+    return plain_text
 ############ ( شفرة قيصر  caesar ) ############
 def en_caesar (plain_text,key):
     letters = ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z"]
