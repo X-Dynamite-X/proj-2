@@ -243,7 +243,7 @@ section .cryptography .content {
 .secandChois .inputRadio {
   padding: 2% 2%;
   display: flex;
-  width: 33%;
+  width: 25%;
   color: #fff;
 }
 .ferstChois .inputRadio .type_crepto {
@@ -255,7 +255,7 @@ section .cryptography .content {
   color: #000;
 }
 .h4_type_crept {
-  margin: 2% 40%;
+  margin: 2% 0%;
 }
 .inputKeyText {
   display: flex;
@@ -270,7 +270,7 @@ section .cryptography .content {
   border-radius: 35px;
 }
 .h2_type_crepto {
-  margin: 0 40%;
+  margin: 2% 0%;
 }
 .js-code-copy {
   top: 6px;
@@ -307,4 +307,53 @@ section .cryptography .content {
 .hr{
   color: #fff;
   background-color: #fff;
+}
+@media (max-width: 850px) {
+  .secandChois .inputRadio {
+    padding: 2% 2%;
+    display: flex;
+    width: 50%;
+    color: #fff;
+  }
+  .inputKeyText{
+    flex-wrap: wrap;
+    display: flex;
+  }
+  .inputBox{
+    width: 100%;
+  }
+  .ferstChois .inputRadio {
+    padding: 2% 2%;
+    display: flex;
+    width: 100%;
+    color: #fff;
+    margin: 0 30%;
+  }
+}
+@media (max-width: 425px) {
+  .secandChois .inputRadio {
+    padding: 2% 2%;
+    display: flex;
+    width: 100%;
+    color: #fff;
+    margin: 0 30%;
+
+  }
+  .ferstChois .inputRadio {
+    padding: 2% 2%;
+    display: flex;
+    width: 100%;
+    color: #fff;
+    margin: 0 30%;
+  }
+  .inputKeyText{
+    flex-wrap: wrap;
+    display: flex;
+  }
+  .inputBox{
+    width: 100%;
+  }
+
+
+
 }

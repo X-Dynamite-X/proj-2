@@ -1,6 +1,6 @@
 from django.shortcuts import render,redirect
 from . import full_cipher as fc
-# Create your views here.
+# Create your views here. Lexi Luna
 def cryptography(request):
     outtext = ""
     type_crept = ""
@@ -22,7 +22,6 @@ def cryptography(request):
                 out=fc.en_vigener(text,key)
                 print(out)
                 outtext=out
-
             elif cipher_Type =="beliver":
                 text=list(text)
                 key=list(key)
