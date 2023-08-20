@@ -29,7 +29,10 @@
     background-color: #28292d;
     border: 1px solid #fff;
 }
-@media (max-width: 850px) {
+@media (max-width: 600px) {
+    .form_send_msg{
+        width: 100%;
+    }
     .input_sub  {
         height: 4vh;
         left: 0px;
@@ -48,7 +51,10 @@
         margin-left: 0.5%;
     }
 }
-@media (max-width: 425px) {
+@media (max-width: 450px) {
+    .form_send_msg{
+        width: 100%;
+    }
     .input_sub  {
         height: 4vh;
         left: 0px;

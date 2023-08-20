@@ -83,8 +83,15 @@
 }
 .div_image img{
     width: 100%;
-    margin : 10px 0px;
+    margin : 1% 0px;
+    border-radius: 13px;
 }
 .div_image_si{
-    margin: 10px;
+    margin: 1%;
+}
+
+@media (max-width: 600px) {
+    .spase_chat{
+        width: 100%;
+    }
 }

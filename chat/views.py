@@ -15,13 +15,15 @@ def msg2(request,user_id):
     context={"message":message,"users":user,"username":username}
     if request.method == 'POST' :
         if 'image' in request.FILES:
+            
             image = request.FILES['image']
+            print(image)
         else :
             image = "/static/media/cv.png"
         text_msg = request.POST['text_msg']
-        print(image)
+        # print(image)
         if len(text_msg) !=0 or image !="/static/media/cv.png":
-            print(image)
+            # print(image)
             msg=Message.objects.create(
                 msg=text_msg,
                 image=image,
