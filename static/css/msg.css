@@ -14,6 +14,9 @@
     overflow-x: hidden;
     color: black;
 }
+.msg{
+    background-color: brown;
+}
 .chat_info1 {
     width: 100%;
     /* margin-left: 20px ; */
@@ -32,8 +35,14 @@
 }
 .user_name1{
     /* margin-left: 15px; */
-    margin: 1% 4% 1% 0;
+    margin: 1% 4% 1% 0%;
     text-align: right;
+    padding: 3% 0;
+}
+.user_name1 label{
+    background-color: #fff;
+    padding: 1% 6%;
+    border-radius: 14px 14px 0 14px;
 }
 .chat_text1{
     margin: 0 3%;
@@ -64,6 +73,12 @@
     /* margin-left: 15px; */
     margin: 1% 0 1% 4%;
     text-align: left;
+    padding: 3% 0;
+}
+.user_name2 label{
+    background-color: #fff;
+    padding: 1% 6%;
+    border-radius: 14px 14px 14px 0;
 }
 .chat_text1{
     margin: 0 3%;
@@ -81,12 +96,12 @@
     text-align: left;
 
 }
-.div_image img{
+.div_image img,.div_video video{
     width: 100%;
     margin : 1% 0px;
     border-radius: 13px;
 }
-.div_image_si{
+.div_image_si,.div_video_si{
     margin: 1%;
 }
 

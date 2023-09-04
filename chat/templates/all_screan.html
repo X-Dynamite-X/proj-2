@@ -19,6 +19,7 @@
         
         {% block body %}
         {% csrf_token %}
+        {% if request.user.is_authenticated  %}
         <div class="spase_scren">
 {% include "includes/pepol.html" %}
 {% include "includes/start_page.html"  %}
@@ -46,5 +47,6 @@
 
 
         </div>
+        {% endif %}
         {% endblock body %}
     </body>

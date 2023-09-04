@@ -1,3 +1,4 @@
+{% load static %}
 <div class="spase_pepol">
   {% for user in users %} {% if   request.user.username != user.username  %}
   <a class="link_id" href="{% url 'msg_id' user.pk %}">
@@ -6,10 +7,7 @@
         {% if user.image %}
         <img src="{{user.image.url}}" alt="img_user" class="img-fluid" />
         {% else %}
-        <img
-          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG2h3dtkFclxksGm2bXE8R53sUemVyVGmJTg&usqp=CAU"
-          class="img-fluid"
-        />
+        <img src="{% static 'media/user.png' %}" class="img-fluid" />
         {% endif %}
       </div>
       <div class="name_user">

@@ -4,5 +4,5 @@ from .views import *
 from django.contrib.auth.models import User
 urlpatterns = [
     path("msg/", msg, name="msg"),
-    path("msg/<user_id>/", msg2, name="msg_id"),
+    path("msg/<users_id>/", msg2, name="msg_id"),
 ]
