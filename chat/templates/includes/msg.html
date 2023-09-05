@@ -3,8 +3,7 @@
     {% for message in message %}
 {% comment %} {% if message.created_by ==
     username and message.created_to == createdTo %}
-     {% endcomment %} {% if
-    message.created_by != username %}
+     {% endcomment %} {% if message.created_by != username %}
     <div class="chat_info1">
       <div class="chat_sbase1">
         <div class="user_name1">
@@ -34,8 +33,8 @@
                       {%endif%}
                       <p>{{message.msg}}</p>
                     </div>
-                    {% if message.image or message.msg %} {% if
-                    message.created_by != username %}
+                    {% if message.image or message.msg %} 
+                    {% if message.created_by != username %}
                     <div class="date_msg1">
                       {% else %}
                       <div class="date_msg2">
