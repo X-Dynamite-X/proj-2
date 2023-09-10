@@ -15,38 +15,29 @@
 
 {% endblock %}
 
-    <body>
-        
-        {% block body %}
+<body>
+    {% block body %}
         {% csrf_token %}
-        {% if request.user.is_authenticated  %}
-        <div class="spase_scren">
-{% include "includes/pepol.html" %}
-{% include "includes/start_page.html"  %}
-        {% if width > 600 %}
-            {% if  request.path != '/msg/' %}
-                {% comment %} 
-                {% include "includes/start_page.html"  %}
-            {% else %}
-             {% endcomment %}
-                {% include "includes/msg.html" %}
-                {% include "includes/inputmsg.html" %}
+        {% with request_path=request.path %}
+            {% if request.user.is_authenticated %}
+                <div class="spase_scren">
+                    {% include "includes/start_page.html"  %}
+                    {% include "includes/pepol.html" %}
+                    {% if width > 820px %}
+                        {% if request_path != '/msg/' %}
+                            {% include "includes/msg.html" %}
+                            {% include "includes/inputmsg.html" %}
+                        {% endif %}
+                    {% else %}
+                        {% if request_path == '/msg/' %}
+                            {% include "includes/pepol.html" %}
+                        {% else %}
+                            {% include "includes/msg.html" %}
+                            {% include "includes/inputmsg.html" %}
+                        {% endif %}
+                    {% endif %}
+                </div>
             {% endif %}
-        {% else %}
-            {% if  request.path == '/msg/' %}
-                {% include "includes/pepol.html" %} 
-            {% else %}
-                {% include "includes/msg.html" %}
-                {% include "includes/inputmsg.html" %}
-            {% endif %}
-
-            
-        {% endif %}
-
-
-
-
-        </div>
-        {% endif %}
-        {% endblock body %}
-    </body>
+        {% endwith %}
+    {% endblock body %}
+</body>

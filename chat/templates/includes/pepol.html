@@ -1,42 +1,33 @@
 {% load static %}
 <div class="spase_pepol">
-  {% for user in users %} {% if   request.user.username != user.username  %}
+  {% for user in users %}
   <a class="link_id" href="{% url 'msg_id' user.pk %}">
     <div class="user_info">
-      <div class="img_user">
-        {% if user.image %}
-        <img src="{{user.image.url}}" alt="img_user" class="img-fluid" />
-        {% else %}
-        <img src="{% static 'media/user.png' %}" class="img-fluid" />
-        {% endif %}
-      </div>
-      <div class="name_user">
-        <p>{{user.username}}</p>
-
+      <div class="user_img_background" style="background-image:url('{{ user.userprofile.profile_picture_background.url }}');">
+        <div class="img_user">
+          <img src="{{ user.userprofile.profile_picture.url }}" alt="img_user" class="img_fluid" />
+        </div>
+        <div class="name_user">
+          <p>{{ user.username }}</p>
+          
+        </div>
       </div>
     </div>
   </a>
   <hr />
-
-  {%endif%} {% endfor %}
+  
+  {% endfor %}
   <div class="add">
     <div class="add_user">
       <div class="add_user_spase">
-        <input
-          type="text"
-          name="add_username_for_user"
-          class="add_username_for_user"
-          id="add_username_for_user"
-          placeholder="add usernamee"
-        />
+        <input type="text" name="add_username_for_user" class="add_username_for_user" id="add_username_for_user"
+          placeholder="add usernamee" />
       </div>
       <div class="add_user_image">
         <button type="submit" class="image_button_add_user">
-          <img
-            class="imge_add_user"
+          <img class="imge_add_user"
             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAM1BMVEX///8AAABoaGhYWFhGRkb8/Pzv7+9eXl5MTExsbGw4ODjy8vJbW1sqKiojIyMcHBwXFxeYiN1aAAABFElEQVR4nO3dO1LDQBRFQWMM8gcw+18tuVUkUxbDUXUv4NU96SRzOAAAAAAAAAAAAADw/ywvj86zJz3ZcVX4OnvSkynsU9insE9hn8I+hX0K+xT2KexT2KewT2Gfwj6FfQr7FPYp7FPYp7BPYZ/CPoV9CvsU9insU9i3/8LLqvBj9qRfLMchl89V4ddl7NTytm3haujfU6hQ4XwKFSqcT6FChfMpVKhwvo0Lr6ch5/tq6PfYpdN148LR8897ido4cNj+39oU9insU9insE9hn8I+hX0K+xT2KexT2KewT2Gfwj6FfQr7FPYp7FPYp7BPYZ/CPoV9CvsU9ins23/h/v+wvL0/us2eBAAAAAAAAAAAADDgB/GwFoGeeKF9AAAAAElFTkSuQmCC"
-            alt=""
-          />
+            alt="" />
         </button>
       </div>
     </div>

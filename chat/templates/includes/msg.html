@@ -1,9 +1,7 @@
 <div class="chat_scan">
   <div class="spase_chat">
     {% for message in message %}
-{% comment %} {% if message.created_by ==
-    username and message.created_to == createdTo %}
-     {% endcomment %} {% if message.created_by != username %}
+    {% if message.created_by != username %}
     <div class="chat_info1">
       <div class="chat_sbase1">
         <div class="user_name1">
@@ -12,6 +10,7 @@
             <div class="chat_sbase2">
               <div class="user_name2">
                 {% endif %}
+                
                 <label>{{message.created_by}}</label>
               </div>
               {% if username != message.created_by %}
@@ -40,7 +39,6 @@
                       <div class="date_msg2">
                         {%endif%}
                         <p>{{message.created_dt}}</p>
-                        <br />
                       </div>
                       {% endif %}
                     </div>

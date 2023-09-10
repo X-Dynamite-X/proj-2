@@ -210,6 +210,7 @@ section .span:hover {
   border-radius: 8px;
   background-color: #28292d;
   z-index: 10;
+  overflow: scroll;
   padding: 50px 40px;
   display: flex;
   flex-direction: column;
