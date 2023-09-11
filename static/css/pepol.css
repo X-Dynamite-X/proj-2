@@ -15,23 +15,29 @@ a.link_id{
     margin:1% 2% ;
     overflow: auto;
     height: 11vh;
+    border-radius: 45px;       
 
 }
 .user_img_background{
     background-size: cover;
     background-repeat: no-repeat;
-    width: 100%;
+    width: 96%;
     position: absolute;
+    border-radius: 45px;       
+
 } 
 .user_img_background:hover{
     height: 50%;
-    width: 100%;
+    width: 96%;
     background-size: cover;
     position: absolute;
+
 }
 .user_info:hover{
     background: #272b2e;
     height: 47vh;
+    border-radius: 35%;       
+
 }
 
 .name_user{
@@ -119,15 +125,18 @@ a.link_id{
         
     }
     .user_img_background:hover{
-        height: 80%;
-        width: 100%;
-        /* margin: 0 15%; */
         background-size: cover;
-    
+        background-repeat: no-repeat;
+        width: 90%;
+        border-radius: 45px;       
+        margin: 1% 2.5%;
+        position: absolute;
+        height: 10vh;
     }
     .user_info:hover{
         background: #272b2e;
-        height: 74vh;
+        /* height: 74vh; */height: 11vh;
+        border-radius: 45px;;
     }
     
 }
@@ -144,17 +153,7 @@ a.link_id{
         margin:  0 2% ;
         
     }
-    .user_img_background:hover{
-        height: 80%;
-        width: 100%;
-        /* margin: 0 5%; */
-        background-size: cover;
-    
-    }
-    .user_info:hover{
-        background: #272b2e;
-        height: 75vh;
-    }
+
     
 }
 
@@ -169,16 +168,6 @@ a.link_id{
   border-radius: 100%;
   background-color: #343a40;
   margin:  0 2% ;
-}
-.user_img_background:hover{
-    height: 50%;
-    width: 100%;
-    background-size: cover;
-
-}
-.user_info:hover{
-    background: #272b2e;
-    height: 47vh;
 }
 
 }
