@@ -1,6 +1,6 @@
 <div class="chat_scan">
   <div class="spase_chat">
-    {% for message in message %}
+    {% for message in messages %}
     <!-- بداية التكرار عبر الرسائل -->
     <div class="chat_info{% if message.created_by != username %}1{% else %}2{% endif %}">
       <!-- بداية العنصر (رسالة) مع تحديد فئة الـ 'chat_info' -->
