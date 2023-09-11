@@ -16,10 +16,16 @@ def msg2(request, users_id):
     message = Message.objects.all()
     user = User.objects.exclude(id=request.user.id)
 
-    user_id = get_object_or_404(User, pk=users_id)
+    # user_id = get_object_or_404(User, pk=users_id)
     username = request.user
-    createdTo = User.objects.get(id=users_id)
-    context = {"message": message, "users": user, "username": username, "createdTo": createdTo}
+    createdTo = get_object_or_404(User, pk=users_id)
+    context = {
+            "message": message, 
+            "users": user,
+            "username": username, 
+            "createdTo": createdTo
+                }
+    
     
     if request.method == 'POST':
         image = request.FILES.get('image', settings.MEDIA_URL + "cv.png")

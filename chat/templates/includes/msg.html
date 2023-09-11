@@ -1,56 +1,51 @@
 <div class="chat_scan">
   <div class="spase_chat">
     {% for message in message %}
-    {% if message.created_by != username %}
-    <div class="chat_info1">
-      <div class="chat_sbase1">
-        <div class="user_name1">
-          {% else %}
-          <div class="chat_info2">
-            <div class="chat_sbase2">
-              <div class="user_name2">
-                {% endif %}
-                
-                <label>{{message.created_by}}</label>
-              </div>
-              {% if username != message.created_by %}
-              <div class="chat_polder1">
-                {% else %}
-                <div class="chat_polder2">
-                  {% endif %}
-                  <div class="div_image">
-                    <div class="div_image_si">
-                      {% if message.image %}
-                      <img src="{{ message.image.url }}" alt="" srcset="" />
-                      {% endif %}
-                    </div>
-                  </div>
-                  {% if message.created_by != username %}
-                  <div class="chat_text1">
-                    {% else %}
-                    <div class="chat_text2">
-                      {%endif%}
-                      <p>{{message.msg}}</p>
-                    </div>
-                    {% if message.image or message.msg %} 
-                    {% if message.created_by != username %}
-                    <div class="date_msg1">
-                      {% else %}
-                      <div class="date_msg2">
-                        {%endif%}
-                        <p>{{message.created_dt}}</p>
-                      </div>
-                      {% endif %}
-                    </div>
-                  </div>
-                </div>
-                {% comment %} {% endif %} {% endcomment %} 
-                {% endfor %}
-              </div>
+    <!-- بداية التكرار عبر الرسائل -->
+    <div class="chat_info{% if message.created_by != username %}1{% else %}2{% endif %}">
+      <!-- بداية العنصر (رسالة) مع تحديد فئة الـ 'chat_info' -->
+      <div class="chat_sbase{% if message.created_by != username %}1{% else %}2{% endif %}">
+        <!-- بداية القسم الذي يحتوي على اسم المستخدم -->
+        <div class="user_name{% if message.created_by != username %}1{% else %}2{% endif %}">
+          <!-- عرض اسم المستخدم -->
+          <label>{{ message.created_by }}</label>
+        </div>
+        <!-- نهاية القسم الذي يحتوي على اسم المستخدم -->
+
+        <!-- بداية القسم الذي يحتوي على المحتوى والصورة (إذا وجدت) -->
+        <div class="chat_polder{% if message.created_by != username %}1{% else %}2{% endif %}">
+          <!-- بداية القسم الذي يحتوي على الصورة (إذا وجدت) -->
+          <div class="div_image">
+            <div class="div_image_si">
+              {% if message.image %}
+              <!-- إذا كانت هناك صورة، عرضها -->
+              <img src="{{ message.image.url }}" alt="" srcset="" />
+              {% endif %}
             </div>
           </div>
+          <!-- نهاية القسم الذي يحتوي على الصورة (إذا وجدت) -->
+
+          <!-- بداية القسم الذي يحتوي على نص الرسالة -->
+          <div class="chat_text{% if message.created_by != username %}1{% else %}2{% endif %}">
+            <!-- عرض نص الرسالة -->
+            <p>{{ message.msg }}</p>
+          </div>
+          <!-- نهاية القسم الذي يحتوي على نص الرسالة -->
+
+          <!-- بداية القسم الذي يحتوي على تاريخ الرسالة (إذا وجد) -->
+          {% if message.image or message.msg %}
+          <div class="date_msg{% if message.created_by != username %}1{% else %}2{% endif %}">
+            <!-- عرض تاريخ الرسالة -->
+            <p>{{ message.created_dt }}</p>
+          </div>
+          {% endif %}
+          <!-- نهاية القسم الذي يحتوي على تاريخ الرسالة (إذا وجد) -->
         </div>
+        <!-- نهاية القسم الذي يحتوي على المحتوى والصورة (إذا وجدت) -->
       </div>
+      <!-- نهاية العنصر (رسالة) مع تحديد فئة الـ 'chat_info' -->
     </div>
+    <!-- نهاية التكرار عبر الرسائل -->
+    {% endfor %}
   </div>
 </div>

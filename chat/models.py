@@ -10,4 +10,5 @@ class Message(models.Model):
     image = models.ImageField(default="user.png",null=True,upload_to="images/")
     # video = models.FileField(upload_to='video/', null=True, validators=[FileExtensionValidator(allowed_extensions=['MOV', 'avi', 'mp4', 'webm', 'mkv'])])
     # image = models.FileField(upload_to='video/', null=True, validators=[FileExtensionValidator(allowed_extensions=['MOV', 'avi', 'mp4', 'webm', 'mkv',"png"])])
-
+    def __str__(self):
+        return f"From {self.created_by.username} to {self.created_to.username}"
