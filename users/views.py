@@ -3,6 +3,7 @@ from django.contrib import messages
 from django.contrib.auth import authenticate, login
 from django.contrib.auth.models import User
 from .models import UserProfile  # استيراد نموذج UserProfile إذا كنت تستخدمه
+from django.contrib.auth.decorators import login_required
 
 def singin(request):
     if request.method == 'POST':
@@ -68,3 +69,8 @@ def password_change(request):
             else:
                 messages.error(request, 'كلمة المرور الجديدة غير متطابقة.')
     return render(request, 'password_change.html')
+
+@login_required
+def user_profile(request):
+
+    return render(request, 'user_profile.html')
