@@ -25,15 +25,12 @@ def singup(request):
         username = request.POST.get('username', '').lower()
         email = request.POST.get('email', '')
         password = request.POST.get('password', '')
-
         # التحقق من وجود المستخدم أولاً
         if User.objects.filter(username=username).exists():
             # المستخدم موجود بالفعل
             messages.error(request, 'اسم المستخدم موجود بالفعل.')
             return redirect("singup")
-
         myuser = User.objects.create_user(username, email, password)
-
         if myuser is not None:
             first_name = request.POST.get('first_name', '').title()
             myuser.first_name = first_name
@@ -49,12 +46,9 @@ def singup(request):
                 user_profile.save()
                 print(request.FILES["profile_picture"])
             return redirect("singin")
-
         else:
             messages.error(request, 'حدثت مشكلة أثناء إنشاء حساب المستخدم.')
-
     return render(request, 'singup.html')
-
 def password_change(request):
     user = request.user
     if request.method == 'POST':
@@ -69,8 +63,6 @@ def password_change(request):
             else:
                 messages.error(request, 'كلمة المرور الجديدة غير متطابقة.')
     return render(request, 'password_change.html')
-
 @login_required
 def user_profile(request):
-
     return render(request, 'user_profile.html')

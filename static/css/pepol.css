@@ -34,7 +34,7 @@ a.link_id{
 
 }
 .user_info:hover{
-    background: #272b2e;
+    
     height: 47vh;
     border-radius: 35%;       
 
@@ -87,7 +87,6 @@ a.link_id{
     font-size: 15px;
     margin-bottom:2% ;
     color: #000;
-
 }
 .add_user_image{
     float: right;
@@ -102,18 +101,15 @@ a.link_id{
     background-color: #343a40;
     border: 0;
 }
-
 .imge_add_user{    
     width: 50%;
     background-color: #343a40;
     border-radius: 50%;
-
 }
 @media (max-width: 820px) {
     .spase_pepol{
         width: 100%;
     }
-
     .img_user img{
         float: left;
         width: 10%;
@@ -122,27 +118,22 @@ a.link_id{
         border-radius: 100%;
         background-color: #343a40;
         margin:  0 2% ;
-        
+
     }
     .user_img_background:hover{
         background-size: cover;
         background-repeat: no-repeat;
-        width: 90%;
-        border-radius: 45px;       
-        margin: 1% 2.5%;
+        width: 96%;
+        border-radius: 45px;
         position: absolute;
-        height: 10vh;
+        height: 11vh;
     }
     .user_info:hover{
-        background: #272b2e;
-        /* height: 74vh; */height: 11vh;
+        height: 11vh; 
         border-radius: 45px;;
     }
-    
 }
 @media (max-width: 650px) {
-
-
     .img_user img{
         float: left;
         width: 10%;
@@ -151,14 +142,8 @@ a.link_id{
         border-radius: 100%;
         background-color: #343a40;
         margin:  0 2% ;
-        
     }
-
-    
 }
-
-
-
 @media (max-width: 450px){
 .img_user img {
   float: left;
