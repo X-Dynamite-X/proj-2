@@ -1,0 +1,256 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-family: "Quicksand", sans-serif;
+}
+body {
+  /* display: flex; */
+  justify-content: center;
+  align-items: center;
+  background: #000;
+}
+section {
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2px;
+  flex-wrap: wrap;
+  overflow: hidden;
+}
+section::before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(#000, #fff, #000);
+  animation: animate 5s linear infinite;
+}
+@keyframes animate {
+  0% {
+    transform: translateY(-100%);
+  }
+  100% {
+    transform: translateY(100%);
+  }
+}
+section .span {
+  position: relative;
+  display: block;
+  width: calc(6.25vw - 2px);
+  height: calc(6.25vw - 2px);
+  background: #181818;
+  z-index: 2;
+  transition: 1.5s;
+}
+section .span:hover {
+  background: #fff;
+  transition: 0s;
+}
+
+
+.user_profile {
+  height: 94vh;
+  background: #1c1c1c;
+  overflow: hidden;
+  position: absolute;
+  width: 95%;
+  background: #222;
+  z-index: 1000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+  border-radius: 4px;
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 9);
+}
+.user_profile::before {
+  content: "";
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 95%;
+  height: 94vh;
+  background: linear-gradient(0deg, transparent, #fff, #fff);
+  transform-origin: bottom right;
+  animation: animate 6s linear infinite;
+}
+.user_profile::after {
+  content: "";
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 95%;
+  height: 94vh;
+  background: linear-gradient(0deg, transparent, #fff, #fff);
+  transform-origin: bottom right;
+  animation: animate 6s linear infinite;
+  animation-delay: -3s;
+}
+.content {
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 40px;
+}
+@keyframes animate {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+.user_full_name {
+  position: absolute;
+  inset: 2px;
+  border-radius: 8px;
+  background-color: #28292d;
+  z-index: 1;
+  overflow: scroll;
+  padding: 50px 40px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.img_user_name{
+  height: 35vh;
+  width: 50%;
+ 
+  float: inherit;
+
+}
+.background_img_user{
+  background-size: cover; 
+  width: 225px;
+  border-radius: 50% ;
+  height: 225px;
+  margin: 10px 1.5%;
+  float: left;
+
+  background-repeat: no-repeat
+}
+.imag_user{
+  float: left;
+  margin: 20px 0 0 20px;
+}
+.img_fluid {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+.user_name{
+  float: left;
+  color: #fff;
+  width: 31%;
+  position: absolute;
+margin: 1.5% 0 0 250px ;
+} 
+
+h2 {
+  color: #fff;
+  font-weight: 500;
+  align-items: center;
+  letter-spacing: 0.1em;
+  
+}
+.user_inf_name {
+  color: #fff;
+  float: left;
+  width: 37%;
+  position: absolute;
+  margin: 3% 0 0 250px;
+}
+.first_name_user ,
+.list_name_user ,
+.phone_user,
+.email_user
+{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.first_name_user label,
+.list_name_user label,
+.user_name label,
+.phone_user label,
+.email_user label
+{
+  float: left;
+  margin: 3% 1.5%;
+}
+.first_name_user h2,
+.list_name_user h2,
+.phone_user h2,
+.user_name h2,
+.email_user h3
+{
+  margin: 2% 0.5%;
+  float: left;
+}
+
+
+
+
+
+
+@media (max-width: 900px) {
+  section .span {
+    width: calc(10vw - 2px);
+    height: calc(10vw - 2px);
+  }
+}
+@media (max-width: 600px) {
+  section .span {
+    width: calc(20vw - 2px);
+    height: calc(20vw - 2px);
+  }
+}
+
+@media (max-width: 500px) {
+  .background_img_user {
+    background-size: cover;
+    width: 225px;
+    border-radius: 50%;
+    height: 225px;
+    margin: 10px 1.5%;
+    float: left;
+    background-repeat: no-repeat;
+}
+  .img_user_name {
+    height: 35vh;
+    width: 100%;
+    float: left;
+}
+  .imag_user {
+    float: left;
+    margin: 10px 0 0 2px;
+}
+  .img_fluid {
+    width: 85px;
+    height: 85px;
+    border-radius: 50%;
+  }
+  .user_name{
+    float: left;
+    color: #fff;
+    width: 100%;
+    position: relative;
+  margin:  0 ;
+  } 
+  .user_inf_name {
+    color: #fff;
+    float: left;
+    width: 100%;
+    position: relative;
+    margin: 0;
+  }
+
+
+}

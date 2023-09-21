@@ -297,14 +297,26 @@
         <i></i>
       </div> 
     <div class="inputBox">
-      <input type="password"name="password" required="required" />
+      <input type="password"name="password1" required="required" />
       <span>Password</span>
       <i></i>
     </div>
     <div class="inputBox">
-      <input type="file" name="profile_picture" >
+      <input type="password"name="password2" required="required" />
+      <span>Password</span>
+      <i></i>
     </div>
-    
+    <div class="inputBox">
+      <input type="tel"name="phone_number" required="required" />
+      <span>phone number</span>
+      <i></i>
+    </div>
+    <div class="inputBox">
+      <input type="file" name="profile_picture"  value="profile picture" >
+    </div>
+    <div class="inputBox">
+      <input type="file" name="profile_picture_background" value="profile picture background" >
+    </div>
     <div class="links">
       <a href="{% url 'singin' %}">Signin</a>
     </div>

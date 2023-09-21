@@ -45,12 +45,10 @@ a.link_id{
     float: right;
     width: 50%;
     margin-right:7% ;
-    /* height: 30px; */
     text-align: center;
     border-radius: 30pc;
 }
 .name_user p{
-    /* margin-left: %; */
     margin-top: 2%; 
 }
 
@@ -145,14 +143,14 @@ a.link_id{
     }
 }
 @media (max-width: 450px){
-.img_user img {
-  float: left;
-  width: 20%;
-  height: 9vh;
-  object-fit: cover;
-  border-radius: 100%;
-  background-color: #343a40;
-  margin:  0 2% ;
-}
+    .img_user img {
+        float: left;
+        width: 20%;
+        height: 9vh;
+        object-fit: cover;
+        border-radius: 100%;
+        background-color: #343a40;
+        margin:  0 2% ;
+    }
 
 }

@@ -18,18 +18,23 @@
   <nav class="nav">
     <ul class="nav_list"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
       {% if   user.is_authenticated %}
+      <li class="nav_list_par">
+        <center>
+
+        
+        <a href="{% url 'user_profile' %}" class="nav_liks_user" >
+        <span class="username_nav">{{ user.username }}</span>
+        <img src="{{ user.userprofile.profile_picture.url }}" class ="img_user_nav" alt=""  >
+        </a>
+      </center>
+      </li>
       <li class="nav_list_par"><a href="{% url 'msg' %}" class="nav_liks" >msg</a></li>
       <li class="nav_list_par"><a href="{% url 'logout' %}" class="nav_liks" >logout</a></li>
       <li class="nav_list_par"><a href="{% url 'password_change' %}" class="nav_liks" >password change</a></li>
       <li class="nav_list_par"><a href="{% url 'cryptography' %}" class="nav_liks" >cryptography</a></li>
-      <li class="nav_list_par">
-        <a href="{% url 'user_profile' %}" class="nav_liks" >
-          {% comment %} <img src="{{ user.userprofile.profile_picture.url }}" alt=""> {% endcomment %}
+      <li class="nav_list_par"><a href="{% url 'edit_profile' %}" class="nav_liks" >edit profile</a></li>
 
-          user profile
-        </a>
-      </li>
-
+      
       {% else %}
       <li class="nav_list_par"><a href="{% url 'singin' %}" class="nav_liks" >singin</a></li>
       <li class="nav_list_par"><a href="{% url 'singup' %}" class="nav_liks" >singup</a></li>
