@@ -97,24 +97,48 @@ section .span:hover {
     flex-direction: column;
     gap: 40px;
   }
-  /* .background_img_user {
+  .background_img_user {
     background-size: cover;
-    width: 225px;
+    position: relative;
+    width: 255px;
     border-radius: 50%;
-    height: 225px;
+    height: 255px;
     margin: 10px 1.5%;
     float: left;
     background-repeat: no-repeat;
+    z-index: 10;
+}
+.background_img{
+  width: 255px; 
+  position: absolute;
+  height: 255px;
+  border-radius: 50%;
+  z-index: 1;  top: 0; 
+  left: 0
 }
   .imag_user {
-    float: left;
     margin: 10px 0 0 2px;
+    z-index: 2;
+    position: absolute;
+    top: 0; 
+    left: 0;
+    width: 100px;
+    height: 100px;
 }
   .img_fluid {
+    position: absolute;
     width: 85px;
     height: 85px;
+    /* float: left; */
+    z-index: 2;
     border-radius: 50%;
-  } */
+  }
+
+
+
+
+
+
 @keyframes animate {
   0% {
     transform: rotate(0deg);

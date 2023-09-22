@@ -125,48 +125,72 @@ section .span:hover {
   float: inherit;
 
 }
-.background_img_user{
-  background-size: cover; 
-  width: 225px;
-  border-radius: 50% ;
-  height: 225px;
+.background_img_user {
+  background-size: cover;
+  position: relative;
+  width: 255px;
+  border-radius: 50%;
+  height: 255px;
   margin: 10px 1.5%;
   float: left;
-
-  background-repeat: no-repeat
+  background-repeat: no-repeat;
+  z-index: 0;
 }
-.imag_user{
-  float: left;
-  margin: 20px 0 0 20px;
+.background_img{
+width: 255px; 
+position: absolute;
+height: 255px;
+border-radius: 50%;
+z-index: 1; 
+top: 0; 
+left: 0
 }
-.img_fluid {
+.imag_user {
+  margin: 10px 0 0 2px;
+  z-index: 2;
+  position: absolute;
+  top: 0; 
+  left: 0;
   width: 100px;
   height: 100px;
+}
+.img_fluid {
+  position: absolute;
+  width: 85px;
+  height: 85px;
+  /* float: left; */
+  z-index: 3;
   border-radius: 50%;
 }
-
 .user_name{
   float: left;
   color: #fff;
   width: 31%;
   position: absolute;
-margin: 1.5% 0 0 250px ;
+  margin: 1.5% 0 0 270px ;
 } 
-
 h2 {
   color: #fff;
   font-weight: 500;
   align-items: center;
-  letter-spacing: 0.1em;
+  letter-spacing: 0.01em;
   
 }
+
 .user_inf_name {
   color: #fff;
   float: left;
   width: 37%;
   position: absolute;
-  margin: 3% 0 0 250px;
+  margin: 3% 0 0 280px;
 }
+.user_name label{
+  float: left;
+  margin: 3% 5%;
+}
+
+
+
 .first_name_user ,
 .list_name_user ,
 .phone_user,
@@ -178,7 +202,6 @@ h2 {
 }
 .first_name_user label,
 .list_name_user label,
-.user_name label,
 .phone_user label,
 .email_user label
 {
@@ -254,3 +277,4 @@ h2 {
 
 
 }
+

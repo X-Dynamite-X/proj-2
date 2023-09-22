@@ -273,10 +273,10 @@
     <div class="content">
       <div class="user_full_name">
         <div class="img_user_name">
-          <div class="background_img_user"
-            style="background-image:url('{{ user.userprofile.profile_picture_background.url }}');">
+          <div class="background_img_user">
+            <img src="{{user.userprofile.profile_picture_background.url}}" alt="" class="background_img">
             <div class="imag_user">
-              <img src="{{ user.userprofile.profile_picture.url }}" alt="img_user" class="img_fluid" />
+              <img src="{{user.userprofile.profile_picture.url}}" alt="" class="img_fluid">
             </div>
           </div>
           <div class="user_name">
@@ -293,7 +293,7 @@
               <h2>{{user.last_name}}</h2>
             </div>
             <div class="phone_user">
-              <label for="">Phone numper:  </label>
+              <label for="">Phone numper: </label>
               <h2>{{user.userprofile.phone_number}}</h2>
             </div>
             <div class="email_user">

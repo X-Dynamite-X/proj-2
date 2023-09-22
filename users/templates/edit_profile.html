@@ -276,6 +276,13 @@
                 </center>
                 <form method="post" enctype="multipart/form-data">
                     {% csrf_token %}
+                    <div class="background_img_user">
+                        <img src="{{user.userprofile.profile_picture_background.url}}" alt="" class="background_img">
+                    <div class="imag_user">
+                        <img src="{{user.userprofile.profile_picture.url}}" alt="" class="img_fluid">
+                    </div>
+                    </div>
+                    
                     <div class="inputBox">
                         <input type="text" name="first_name" required="required" value={{user.first_name}} />
                         <span>first name </span>
