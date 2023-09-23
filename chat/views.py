@@ -9,17 +9,17 @@ def msg2(request, users_id):
     # الحصول على المستخدم الهدف باستخدام معرفه
     createdTo = get_object_or_404(User, pk=users_id)
     # استعلام لجلب الرسائل بين المنشئ والمستقبل
-    messages_between_users = Message.objects.filter(
+    messages = Message.objects.filter(
         Q(created_by=request.user, created_to=createdTo) |
         Q(created_by=createdTo, created_to=request.user)
-        ).order_by('created_dt')
+        ).order_by('-created_dt')
     # استعلام لجلب جميع المستخدمين باستثناء المستخدم الحالي
     users = User.objects.exclude(id=request.user.id)
     # الحصول على اسم المستخدم الحالي
     username = request.user
     # إعداد السياق لاستخدامه في القالب
     context = {
-        "messages": messages_between_users,
+        "messages": messages,
         "users": users,
         "username": username,
         "createdTo": createdTo

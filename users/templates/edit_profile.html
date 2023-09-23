@@ -310,6 +310,10 @@
                         <i></i>
                     </div>
                     <div class="inputBox">
+                        {% url 'password_change' as passwordChange %}
+                        <input type="button" value="password change" onclick="window.location.href = '{{ passwordChange }}'"> 
+                    </div>
+                    <div class="inputBox">
                         <input type="submit" value="save">
                     </div>
                 </form>

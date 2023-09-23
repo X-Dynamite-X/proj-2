@@ -228,6 +228,28 @@ section .span:hover {
 .links a:hover {
   color: #fff;
 }
+
+
+input[type="button"] {
+  border: 1px solid #fff;
+  outline: none;
+  background: transparent;
+  color: #fff;
+  padding: 11px 25px;
+  width: 200px;
+  border-radius: 4px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+button[type="button"]:hover {
+  background: #fff;
+  color: #fff;
+}
+button[type="button"]:active {
+  opacity: 0.8;
+}
+
 input[type="submit"] {
   border: 1px solid #fff;
   outline: none;

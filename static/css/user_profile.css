@@ -120,9 +120,8 @@ section .span:hover {
 }
 .img_user_name{
   height: 35vh;
-  width: 50%;
+  width: 100%;
  
-  float: inherit;
 
 }
 .background_img_user {
@@ -131,7 +130,7 @@ section .span:hover {
   width: 255px;
   border-radius: 50%;
   height: 255px;
-  margin: 10px 1.5%;
+  margin: 10px 1.5%  0 0;
   float: left;
   background-repeat: no-repeat;
   z-index: 0;
@@ -162,35 +161,18 @@ left: 0
   z-index: 3;
   border-radius: 50%;
 }
-.user_name{
-  float: left;
-  color: #fff;
-  width: 31%;
-  position: absolute;
-  margin: 1.5% 0 0 270px ;
-} 
-h2 {
-  color: #fff;
-  font-weight: 500;
-  align-items: center;
-  letter-spacing: 0.01em;
-  
-}
+
 
 .user_inf_name {
   color: #fff;
   float: left;
-  width: 37%;
+  width: 100%;
   position: absolute;
-  margin: 3% 0 0 280px;
-}
-.user_name label{
-  float: left;
-  margin: 3% 5%;
+  margin: 1% 0 0 310px;
 }
 
 
-
+.user_name,
 .first_name_user ,
 .list_name_user ,
 .phone_user,
@@ -200,27 +182,66 @@ h2 {
   display: flex;
   flex-wrap: wrap;
 }
+.user_name label,
 .first_name_user label,
 .list_name_user label,
 .phone_user label,
 .email_user label
 {
   float: left;
-  margin: 3% 1.5%;
+  margin: 3% 1.5% 0 0;
 }
+.user_name h2,
 .first_name_user h2,
 .list_name_user h2,
 .phone_user h2,
-.user_name h2,
-.email_user h3
+.email_user h2
 {
-  margin: 2% 0.5%;
+  margin: 2% 0.5% 0 0;
   float: left;
+  color: #fff;
+  font-weight: 500;
+  align-items: center;
+  letter-spacing: 0.01em;
 }
 
-
-
-
+.inputBox {
+  position: relative;
+  width: 300px;
+  margin-top: 35px;
+}
+.inputBox input {
+  position: relative;
+  width: 100%;
+  padding: 20px 10px 10px;
+  background: transparent;
+  border: none;
+  outline: none;
+  color: #23242a;
+  font-size: 1em;
+  letter-spacing: 0.05em;
+  z-index: 10;
+  color: #181818;
+}
+input[type="button"] {
+  border: 1px solid #fff;
+  outline: none;
+  background: transparent;
+  color: #fff;
+  padding: 11px 25px;
+  width: 200px;
+  border-radius: 4px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+button[type="button"]:hover {
+  background: #fff;
+  color: #fff;
+}
+button[type="button"]:active {
+  opacity: 0.8;
+}
 
 
 @media (max-width: 900px) {
@@ -236,7 +257,16 @@ h2 {
   }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 715px) {
+  .user_profile{
+    width: 100%;
+    height: 100%;
+  }
+    .img_user_name {
+    height: 35vh;
+    width: 100%;
+    float: left;
+}
   .background_img_user {
     background-size: cover;
     width: 225px;
@@ -246,11 +276,7 @@ h2 {
     float: left;
     background-repeat: no-repeat;
 }
-  .img_user_name {
-    height: 35vh;
-    width: 100%;
-    float: left;
-}
+
   .imag_user {
     float: left;
     margin: 10px 0 0 2px;
@@ -260,21 +286,49 @@ h2 {
     height: 85px;
     border-radius: 50%;
   }
-  .user_name{
-    float: left;
-    color: #fff;
-    width: 100%;
-    position: relative;
-  margin:  0 ;
-  } 
-  .user_inf_name {
-    color: #fff;
-    float: left;
-    width: 100%;
-    position: relative;
-    margin: 0;
-  }
 
+  .user_inf_name {
+    text-align: center;
+    color: #fff;
+    float: left;
+    width: 100%;
+    position: relative;
+    margin: 2% 0 0 0;
+  }  
+  .user_name,
+  .first_name_user ,
+  .list_name_user ,
+  .phone_user,
+  .email_user,
+  .inputBox
+  {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .user_name label,
+  .first_name_user label,
+  .list_name_user label,
+  .phone_user label,
+  .email_user label
+  {
+    float: left;
+    margin: 3% 1.5%  0 0;
+  }  
+  .user_name h2,
+  .first_name_user h2,
+  .list_name_user h2,
+  .phone_user h2,
+  .user_name h2,
+  .email_user h2
+  {
+    margin: 2% 0.5% 0 0;
+    float: left;
+    color: #fff;
+    font-weight: 400;
+    align-items: center;
+    letter-spacing: 0.01em;
+  }
 
 }
 

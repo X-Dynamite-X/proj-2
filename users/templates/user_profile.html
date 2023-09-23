@@ -279,11 +279,12 @@
               <img src="{{user.userprofile.profile_picture.url}}" alt="" class="img_fluid">
             </div>
           </div>
-          <div class="user_name">
-            <label for="">User name: </label>
-            <h2>{{user.username}}</h2>
-          </div><br>
+
           <div class="user_inf_name">
+            <div class="user_name">
+              <label for="">User name: </label>
+              <h2>{{user.username}}</h2>
+            </div>
             <div class="first_name_user">
               <label for="">First name: </label>
               <h2>{{ user.first_name }}</h2>
@@ -298,15 +299,17 @@
             </div>
             <div class="email_user">
               <label for="">Email: </label>
-              <h3>{{user.email}}</h3>
+              <h2>{{user.email}}</h2>
             </div>
+            <div class="inputBox">
+              {% url 'edit_profile' as editProfileUrl %}
+              <input type="button" value="edit profile" onclick="window.location.href = '{{ editProfileUrl }}'"> 
           </div>
         </div>
       </div>
     </div>
   </div>
 </section>
-
 
 
 
