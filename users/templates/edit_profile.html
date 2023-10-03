@@ -276,13 +276,21 @@
                 </center>
                 <form method="post" enctype="multipart/form-data">
                     {% csrf_token %}
-                    <div class="background_img_user">
-                        <img src="{{user.userprofile.profile_picture_background.url}}" alt="" class="background_img">
-                    <div class="imag_user">
-                        <img src="{{user.userprofile.profile_picture.url}}" alt="" class="img_fluid">
+                    <div class="profileimg_and_backgrundimg">
+                        <label for="background_input_img">
+                            <div class="background_img_user">
+                                <img id="background_preview_image" src="{{user.userprofile.profile_picture_background.url}}" alt=""
+                                    class="background_img">
+                                <input type="file" id="background_input_img" name="profile_picture_background">
+                            </div>
+                        </label>
+                        <label for="profile_img_input">
+                            <div class="imag_user">
+                                <img id="profile_preview_image" src="{{user.userprofile.profile_picture.url}}" alt="" class="img_fluid">
+                                <input type="file" name="profile_picture" id="profile_img_input">
+                            </div>
+                        </label>
                     </div>
-                    </div>
-                    
                     <div class="inputBox">
                         <input type="text" name="first_name" required="required" value={{user.first_name}} />
                         <span>first name </span>
@@ -311,7 +319,8 @@
                     </div>
                     <div class="inputBox">
                         {% url 'password_change' as passwordChange %}
-                        <input type="button" value="password change" onclick="window.location.href = '{{ passwordChange }}'"> 
+                        <input type="button" value="password change"
+                            onclick="window.location.href = '{{ passwordChange }}'">
                     </div>
                     <div class="inputBox">
                         <input type="submit" value="save">
@@ -321,9 +330,9 @@
         </div>
     </div>
 </section>
-<!-- <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
 <script src="{% static 'js/profile_picture.js' %}">
-</script> -->
+</script> 
 
 {% endblock body %}

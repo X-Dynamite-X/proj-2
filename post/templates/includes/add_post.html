@@ -1,0 +1,26 @@
+
+    <form action="" method="post" enctype="multipart/form-data">
+      {% csrf_token %}
+      <input
+        type="file"
+        name="add_image_post"
+        id="add_image_post"
+        class="add_image_post"
+        accept="input_img/"
+        /> 
+      <input
+        type="text"
+        class="post_text"
+        name="post_text"
+        id="post_text"
+        placeholder="wrhite to text"
+      />
+      <input
+        type="submit"
+        class="input_sub"
+        value="send"
+        enctype="multipart/form-data"
+        id="send_post"
+        name="send_post"
+      />
+    </form>

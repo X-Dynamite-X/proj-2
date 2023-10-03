@@ -102,10 +102,12 @@ def edit_profile(request):
         user.email = new_email
 
         # تحديث الصورة الشخصية إذا تم تحميلها
+        user_profile = user.userprofile
         if 'profile_picture' in request.FILES:
-            user_profile = user.userprofile
             user_profile.profile_picture = request.FILES['profile_picture']
-
+        if 'profile_picture_background' in request.FILES:
+            user_profile.profile_picture_background = request.FILES['profile_picture_background']
+        user_profile.save()
         user.save()
 
         # إذا كنت تستخدم نموذج UserProfile مرتبطًا بنموذج المستخدم User، يمكنك تحديث رقم الهاتف هكذا:

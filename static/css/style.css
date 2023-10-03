@@ -6,7 +6,7 @@
     font-family: "Quicksand", sans-serif;
 }
 ::-webkit-scrollbar {
-    width: 7px;
+    width: 0;
     background-color: #343a40;
 
 }

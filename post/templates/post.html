@@ -1,0 +1,53 @@
+{% extends 'index.html' %}
+{% load static %}
+{% block title %}<title>post</title>
+<link rel="stylesheet" href="{% static 'css/dair.css' %}">
+<link rel="stylesheet" href="{% static 'css/post.css' %}">
+
+
+
+{% endblock %}
+{% block body %}
+<div class="ful_scren">
+    
+    <div class="post_screen">
+
+        {% include "includes/dair.html" %}
+        
+    </div>
+</div>
+
+
+
+{% include "includes/add_post.html" %}
+
+
+<script src="{% static 'js/dair.js' %}"></script>
+
+
+
+
+
+
+
+
+{% comment %} {% for post in posts %}
+<br>
+<div>
+    <img src={{ post.profile_picture_post.url }} width="40px" height="40px" alt="">
+    <label for="">
+        {{post.username}}
+    </label>
+</div>
+<div>
+    <p>{{post.post_text}}</p>
+    {% if post.post_img != "/media/cv.png" %}
+    <img src={{ post.post_img.url }} width="300px" height="auto">
+    {% endif %}
+    <p>{{post.post_created_date}}</p>
+</div>
+
+
+{% endfor %} {% endcomment %}
+
+{% endblock body %}

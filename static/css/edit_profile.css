@@ -97,6 +97,16 @@ section .span:hover {
     flex-direction: column;
     gap: 40px;
   }
+.profileimg_and_backgrundimg{
+  background-size: cover;
+  position: relative;
+  width: 100%;
+  /* border-radius: 50%; */
+  /* margin: 10px 1.5%;
+  float: left;
+  background-repeat: no-repeat; */
+  /* z-index: 10; */
+}
   .background_img_user {
     background-size: cover;
     position: relative;
@@ -106,19 +116,20 @@ section .span:hover {
     margin: 10px 1.5%;
     float: left;
     background-repeat: no-repeat;
-    z-index: 10;
+    z-index: 1;
 }
 .background_img{
   width: 255px; 
   position: absolute;
   height: 255px;
   border-radius: 50%;
-  z-index: 1;  top: 0; 
+  z-index: 2; 
+  top: 0; 
   left: 0
 }
   .imag_user {
     margin: 10px 0 0 2px;
-    z-index: 2;
+    z-index: 3;
     position: absolute;
     top: 0; 
     left: 0;
@@ -130,11 +141,13 @@ section .span:hover {
     width: 85px;
     height: 85px;
     /* float: left; */
-    z-index: 2;
+    z-index: 4;
     border-radius: 50%;
   }
 
 
+  input[type="file"] {
+width: 0px;  }
 
 
 

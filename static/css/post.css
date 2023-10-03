@@ -1,0 +1,15 @@
+.ful_scren{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 87.5vh;
+    background-color: rgba(37, 36, 36, 0.363);
+}
+.post_screen{
+    width: 60%;
+    height: 100%;
+    background-color: black;
+    color: #fff;
+    margin: 0.75% 20% ;
+    z-index: 1;
+}

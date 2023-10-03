@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'users',
     "chat",
     "cryptography_app",
+    "post",
 ]
 
 MIDDLEWARE = [
@@ -152,3 +153,7 @@ STATIC_URL = '/static/'
 STATICFILES_DIRS = [os.path.join(BASE_DIR, 'static')]
 
 
+# لي اضافة المكالمات 
+
+TWILIO_ACCOUNT_SID = 'YOUR_TWILIO_ACCOUNT_SID'
+TWILIO_AUTH_TOKEN = 'YOUR_TWILIO_AUTH_TOKEN'

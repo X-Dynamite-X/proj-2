@@ -15,7 +15,6 @@
 
 {% endblock %}
 
-<body>
     {% block body %}
         {% csrf_token %}
         {% with request_path=request.path %}
@@ -40,4 +39,3 @@
             {% endif %}
         {% endwith %}
     {% endblock body %}
-</body>

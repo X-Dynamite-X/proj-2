@@ -6,6 +6,7 @@
     height: 93.6vh;
     overflow-y: scroll;
     position: absolute;
+    scrollbar-color: #343a40;
 }
 a.link_id{
     color:#fff

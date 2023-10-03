@@ -23,4 +23,5 @@ urlpatterns = [
     path('', include('users.urls')),  # تضمين تطبيق المستخدمين
     path('', include('chat.urls')),   # تضمين تطبيق الدردشة
     path('', include('cryptography_app.urls')),  # تضمين تطبيق التشفير
+    path('', include('post.urls')),  
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

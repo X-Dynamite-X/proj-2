@@ -5,6 +5,11 @@ from django.contrib.auth.decorators import login_required
 from django.conf import settings
 from django.db.models import Q
 @login_required
+def msg(request):
+    user = User.objects.exclude(id=request.user.id)
+    context = {"users": user}
+    return render(request, 'all_screan.html', context)
+@login_required
 def msg2(request, users_id):
     # الحصول على المستخدم الهدف باستخدام معرفه
     createdTo = get_object_or_404(User, pk=users_id)
@@ -39,9 +44,4 @@ def msg2(request, users_id):
                 created_to=createdTo
             )
     # إعادة توجيه المستخدم إلى الصفحة الرئيسية بعد الإرسال
-    return render(request, 'all_screan.html', context)
-@login_required
-def msg(request):
-    user = User.objects.exclude(id=request.user.id)
-    context = {"users": user}
     return render(request, 'all_screan.html', context)

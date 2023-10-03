@@ -293,7 +293,7 @@ button[type="button"]:active {
     float: left;
     width: 100%;
     position: relative;
-    margin: 2% 0 0 0;
+    margin: 20px 0 0 0;
   }  
   .user_name,
   .first_name_user ,
