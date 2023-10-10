@@ -1,0 +1,95 @@
+/*لي قائمة اضافة اليوميات */
+.data_entry_modal {
+  z-index: 3;
+  display: none;
+  position: fixed;
+  top: 0;
+  border: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+.modal_content_input_img_dair {
+  background-color: rgba(47, 79, 79, 0.267);
+  max-width: 60%;
+  margin: 5% 20% 0 20%;
+  /* padding: 20px; */
+  height: 75vh;
+  border-radius: 5px;
+  position: relative;
+}
+.close_modal_img_dair {
+  background-color: #fff;
+  max-width: 400px;
+  /* margin: 0 0 0 93.3%; */
+  color: #000;
+  padding: 0 1%;
+  right: 0;
+  /* border-radius: 5px; */
+  position: absolute;
+  /* width: 5%; */
+  font-size: x-large;
+  display: inline-block;
+  cursor: pointer;
+  display: inline-bloc;
+}
+.close_modal_img_dair:hover {
+  background-color: #000;
+  color: #fff;
+}
+.title_modal_dair {
+  text-align: center;
+}
+.text_for_user {
+  text-align: center;
+  margin-top: 5%;
+}
+.dair_buttom_add_img_file {
+  width: 100%;
+  /* margin-top: 25%; */
+  position: relative;
+  padding: 18% 40%;
+}
+.dair_img_and_video_file_input {
+  width: 0;
+}
+.dair_user_views {
+  z-index: 2;
+  position: absolute;
+  text-align: center;
+  width: 70%;
+  margin: 0 10%;
+}
+.dair_user_views_image {
+  width: 80%;
+  height: 80%;
+  background-size: cover;
+}
+
+.dair_user_profile {
+  position: relative;
+}
+.visible {
+  display: inline; /* أو أي نوع من العرض الذي تريده عندما تكون الصورة مرئية */
+}
+
+.hidden {
+  display: none; /* يجعل الصورة غير مرئية */
+}
+.share_dair {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 50px;
+  background-color: #fff;
+  color: #000;
+  border: 0;
+  font-size: large;
+}
+.share_dair:hover {
+  background-color: #000;
+  color: #fff;
+  width: 80px;
+  padding: 0 20px;
+}

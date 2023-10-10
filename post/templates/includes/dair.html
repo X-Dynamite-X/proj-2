@@ -1,55 +1,41 @@
+{% load static %}
+
 <div class="block_dair">
     <div class="scroll_left">
-        <button onclick="scrollLefte()" class="scroll_left_button"> <span class="button_imo">&larr;</span> </button>
+        <button onclick="scrollLefte()" class="scroll_left_button">
+            <span class="button_imo">&larr;</span>
+        </button>
     </div>
     <div class="scroll_right">
-        <button onclick="scrollRight()" class="scroll_right_button"> <span calss="button_imo">&rarr;</span> </button>
+        <button onclick="scrollRight()" class="scroll_right_button">
+            <span calss="button_imo">&rarr;</span>
+        </button>
     </div>
     <div class="dair_spase" id="dair_spase">
-        <label for="open_modal_img_dair">
-            <div class="dair_user">
-                <img src="{{ user.userprofile.profile_picture.url }}" alt="" class="dair_user_profile">
-                <span class="html_emojis_add">&#10133;</span>
-                <input type="button" id="open_modal_img_dair" class="open_modal_img_dair">
-            </div>
-        </label>
-        {% for dair in dairs %}
+{% include "includes/add_dair.html" %}
+        {% for dair in dairs %} 
         {% if dair.dair_img %}
-        
         <div class="dair_user">
-            
-            <img onclick="openModal('{{ dair.dair_img.url }}')" src="{{dair.profile_picture_dair.url}}" alt=""
-                class="dair_user_profile">
-        
-            </div>
-
+            <img onclick="openModal('{{ dair.dair_img.url }}', 'image')" src="{{dair.profile_picture_dair.url}}" alt=""
+                class="dair_user_profile" />
+        </div>
+        {% else %}
+        <div class="dair_user">
+            <img onclick="openModal('{{ dair.dair_video.url }} ', 'video')" src="{{dair.profile_picture_dair.url}}" alt=""
+                class="dair_user_profile" />
+        </div>
         {% endif %}
         {% endfor %}
     </div>
-
-    <div id="data_entry_modal" class="data_entry_modal">
-        <div class="modal_content_input_img_dair">
-            
-            <span id="close" class="close_modal_img_dair">&times;</span>
-            <h2>إدخال البيانات</h2>
-            <form enctype="multipart/form-data" method="post">
-                {% csrf_token %}
-                <label for="dair_img_file">dair img:</label>
-                <input type="file" id="dair_img_file" name="dair_img_file" required>
-                <button type="submit">حفظ</button>
-            </form>
+    <div id="modal_views_dair_img" class="modal_views_dair_img">
+        <div class="views_dair_img">
+            <span class="close_img_dair" onclick="closeModal1()">&times;</span>
+            <div class="media_container">
+                <img src="" class="modal_image_dair" id="modal_image_dair" alt="Dair Media" />
+                <video src="" class="modal_video_dair" id="modal_video_dair" controls ></video>
+            </div>
+            <div class="bar"></div>
         </div>
     </div>
-
-
-        <div id="modal_views_dair_img" class="modal_views_dair_img">
-        <div class="views_dair_img">
-            
-            <span class="close_img_dair" onclick="closeModal()">&times;</span>
-            <img src="" class="modal_image_dair" id="modal_image_dair" alt="Dair Image">
-            <div class="bar"></div>
-
-        </div>
-        </div>
-
+    
 </div>

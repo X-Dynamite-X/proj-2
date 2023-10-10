@@ -28,7 +28,8 @@
     border: 0;    width: 25px;
 
 }
-.scroll_left_button:hover ,.scroll_right_button:hover{
+.scroll_left_button:hover ,
+.scroll_right_button:hover{
     background-color: #686565;
     width: 35px;
     color :#000;
@@ -45,8 +46,6 @@
     font-size: xx-large;
 }
 /*مساحة اضافة يويمات للمستخدم*/
-
-
 .dair_spase{
     height: 140px;
     overflow: scroll;   
@@ -84,64 +83,11 @@
 
 
 
-/* تحديد لون شريط التمرير ولون الخلفية */
-
-/*لي قائمة اضافة اليوميات */
-.data_entry_modal {
-    z-index: 3;
-    display: none;
-    position: fixed;
-    top: 0; border: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0, 0, 0, 0.7);
-}
-
-.modal_content_input_img_dair {
-    background-color: red;
-    max-width: 50%;
-    margin: 10% 25% 0 25%;
-    /* padding: 20px; */
-    height: auto;
-    height: 300px;
-    border-radius: 5px;
-    position: relative;
-}
-
-
-.close_modal_img_dair {
-    background-color: #fff;
-    max-width: 400px;
-    /* margin: 0 0 0 93.3%; */
-    color: #000;
-    padding: 0 1%;
-    right: 0;
-    /* border-radius: 5px; */
-    position: absolute;
-    /* width: 5%; */
-    font-size: x-large;
-    display: inline-block;
-    cursor: pointer;
-    display: inline-bloc
-}
-.close_modal_img_dair:hover{
-    background-color: #000;
-    color:#fff;
-}
-
-/* .dair_img_file{
-    background-color: #000;
-} */
-
-
-
-
-
 /* عرض ال يوميات  */
 .modal_views_dair_img{
     display: none;
     position: fixed;
+    z-index: inherit;
     top: 0;
     left: 0;
     width: 100%;
@@ -168,10 +114,19 @@
     background-color: #000;
     color:#fff;
 }
+.media_container{
+    width: 100%;
+    /* height: 70vh; */
+}
 .modal_image_dair {
     width: 90%;
     margin: 0 5%;
   } 
+  .modal_video_dair{
+    width: 80%;
+    margin: 0 10%;
+    height: 80vh;
+  }
   @keyframes moveBar {
     0% { width: 0%; } /* العرض في البداية هو صفر */
     100% { width: 90%; } /* العرض في النهاية هو 100% */
@@ -186,9 +141,6 @@
     animation-fill-mode: forwards; /* يبقى الشريط في الحالة النهائية بعد الانتهاء */
     margin: 1% 5%;
 }
-
-
-
 
 ::-webkit-scrollbar {
     width: 0px;

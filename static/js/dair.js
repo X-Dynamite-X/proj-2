@@ -1,52 +1,44 @@
-// script.js
+// تعريف وظيفة للتمرير إلى اليسار
 function scrollLefte() {
-    const scrollContainer = document.getElementById('dair_spase');
-    scrollContainer.scrollLeft -= 120; // التمرير إلى اليسار بمقدار 140 بكسل
+  const contentContainer = document.getElementById("dair_spase");
+  contentContainer.scrollLeft -= 150;
 }
-
+// تعريف وظيفة للتمرير إلى اليمين
 function scrollRight() {
-    const scrollContainer = document.getElementById('dair_spase');
-    scrollContainer.scrollLeft += 120; // التمرير إلى اليمين بمقدار 140 بكسل
+  const contentContainer = document.getElementById("dair_spase");
+  contentContainer.scrollLeft += 150;
+}
+// دالة لفتح النافذة المودالية وعرض الوسائط (صورة أو فيديو)
+function openModal(mediaUrl, mediaType) {
+  // الحصول على عناصر النافذة المودالية
+  const modalViewsDairImg = document.getElementById("modal_views_dair_img");
+  const modalImageDair = document.getElementById("modal_image_dair");
+  const modalVideoDair = document.getElementById("modal_video_dair");
+
+  // التحقق من نوع الوسائط (صورة أم فيديو) وعرض المحتوى بناءً على ذلك
+  if (mediaType === "image") {
+    modalImageDair.src = mediaUrl; // تعيين مصدر الصورة
+    modalImageDair.style.display = "block"; // عرض الصورة
+    modalVideoDair.style.display = "none"; // إخفاء الفيديو
+  } else if (mediaType === "video") {
+    modalVideoDair.src = mediaUrl; // تعيين مصدر الفيديو
+    modalVideoDair.style.display = "block"; // عرض الفيديو
+    modalImageDair.style.display = "none"; // إخفاء الصورة
+  }
+
+  modalViewsDairImg.style.display = "block"; // عرض النافذة المودالية
 }
 
-document.addEventListener("DOMContentLoaded", function() {
-    const openModalButton = document.getElementById("open_modal_img_dair");
-    const modal = document.getElementById("data_entry_modal");
-    const closeButton = document.getElementById("close");
-    
-    openModalButton.addEventListener("click", function() {
-        modal.style.display = "block";
-    });
-    
-    closeButton.addEventListener("click", function() {
-        modal.style.display = "none";
-    });
-    
-    window.addEventListener("click", function(event) {
-        if (event.target === modal) {
-            modal.style.display = "none";
-        }
-    });
-});
-var modal = document.getElementById('modal_views_dair_img');
-var modalImage = document.getElementById('modal_image_dair');
-var closeBtn = document.getElementsByClassName('close_img_dair')[0];
+// دالة لإغلاق النافذة المودالية ومسح المحتوى
+function closeModal1() {
+  // الحصول على عناصر النافذة المودالية
+  const modalViewsDairImg = document.getElementById("modal_views_dair_img");
+  const modalImageDair = document.getElementById("modal_image_dair");
+  const modalVideoDair = document.getElementById("modal_video_dair");
 
-function openModal(imageUrl) {
-    modalImage.src = imageUrl;
-    modal.style.display = 'block';
+  modalViewsDairImg.style.display = "none"; // إخفاء النافذة المودالية
 
-    // قم بإغلاق المودال تلقائيًا بعد 30 ثانية
-    setTimeout(function() {
-        closeModal();
-    }, 30000); // 30 ثانية
+  // إعادة تعيين مصادر الصورة والفيديو
+  modalImageDair.src = "";
+  modalVideoDair.src = "";
 }
-
-function closeModal() {
-    modal.style.display = 'none';
-}
-
-// إغلاق المودال عند النقر على زر الإغلاق (x)
-closeBtn.onclick = function() {
-    closeModal();
-};

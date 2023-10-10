@@ -1,4 +1,4 @@
-from django.shortcuts import render, get_object_or_404
+from django.shortcuts import render,redirect,get_object_or_404
 from .models import Message
 from django.contrib.auth.models import User
 from django.contrib.auth.decorators import login_required
@@ -43,5 +43,6 @@ def msg2(request, users_id):
                 created_by=request.user,
                 created_to=createdTo
             )
+        return redirect(f'/msg/{users_id}/')
     # إعادة توجيه المستخدم إلى الصفحة الرئيسية بعد الإرسال
     return render(request, 'all_screan.html', context)

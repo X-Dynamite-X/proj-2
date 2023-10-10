@@ -3,6 +3,7 @@
 {% block title %}<title>post</title>
 <link rel="stylesheet" href="{% static 'css/dair.css' %}">
 <link rel="stylesheet" href="{% static 'css/post.css' %}">
+<link rel="stylesheet" href="{% static 'css/add_dair.css' %}">
 
 
 
@@ -20,16 +21,6 @@
 
 
 {% include "includes/add_post.html" %}
-
-
-<script src="{% static 'js/dair.js' %}"></script>
-
-
-
-
-
-
-
 
 {% comment %} {% for post in posts %}
 <br>
@@ -51,3 +42,8 @@
 {% endfor %} {% endcomment %}
 
 {% endblock body %}
+{% block script %}
+<script src="{% static 'js/dair.js' %}"></script>
+<script src="{% static 'js/add_dair.js' %}"></script>
+
+{% endblock script %}
