@@ -1,90 +1,205 @@
 /* مساحة اليويمات من الصفحة */
-.block_dair{
-    display: block;   
-    z-index: 1;
-    flex-wrap: wrap;
+
+.block_dair {
+  display: block;
+  z-index: 1;
+  flex-wrap: wrap;
 }
-.scroll_left{
-    float: left;
-    height: 130px;
-    top:0;
-    left: 0;
+.scroll_left {
+  float: left;
+  height: 130px;
+  top: 0;
+  left: 0;
 }
-.scroll_right{
-    float: right;
-    height: 130px;    
-    top:0;
-    right: 0;
+.scroll_right {
+  float: right;
+  height: 130px;
+  top: 0;
+  right: 0;
 }
 .scroll_left_button {
-    height: 100%;
-    background-color: #000;
-    border: 0;    width: 25px;
-
+  height: 100%;
+  background-color: #000;
+  border: 0;
+  width: 25px;
 }
 .scroll_right_button {
-    height: 100%;
-    background-color: #000;
-    border: 0;    width: 25px;
+  height: 100%;
+  background-color: #000;
+  border: 0;
+  width: 25px;
+}
+.scroll_left_button:hover,
+.scroll_right_button:hover {
+  background-color: #686565;
+  width: 35px;
+  color: #000;
+}
+.scroll_left_button:hover {
+  border-top-right-radius: 45px;
+  border-bottom-right-radius: 45px;
+}
+.scroll_right_button:hover {
+  border-top-left-radius: 45px;
+  border-bottom-left-radius: 45px;
+}
+.button_imo {
+  font-size: xx-large;
+}
 
+/* عرض ال يوميات  */
+.modal_views_dair_img_video {
+  display: none;
+  position: fixed;
+  z-index: inherit;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  background-color: rgba(0, 0, 0, 0.7);
 }
-.scroll_left_button:hover ,
-.scroll_right_button:hover{
-    background-color: #686565;
-    width: 35px;
-    color :#000;
+.views_dair_img_video {
+  margin: 0 25%;
+  width: 50%;
+  background-color: #181818;
+  height: 100%;
 }
-.scroll_left_button:hover{
-    border-top-right-radius: 45px;
-    border-bottom-right-radius: 45px;
+.close_img_dair_video {
+  margin: 10px 95%;
+  padding: 0 10px;
+  background-color: #fff;
+  color: #000;
+  font-size: x-large;
 }
-.scroll_right_button:hover{
-    border-top-left-radius: 45px;
-    border-bottom-left-radius: 45px;
+.close_img_dair:hover {
+  background-color: #000;
+  color: #fff;
 }
-.button_imo{
-    font-size: xx-large;
+.media_container_image {
+  width: 58%;
+  /* height: 70vh; */
+  margin: 10% 21%;
 }
+
+.modal_image_dair {
+  width: 100%;
+  margin: 0 5%;
+}
+.media_container_video {
+  width: 100%;
+  /* height: 70vh; */
+  margin: 20% 0;
+}
+.modal_video_dair {
+  width: 90%;
+  margin: 0 ;
+  /* height: 80vh; */
+  max-width: 100%;
+  object-fit: contain;
+}
+@keyframes moveBar {
+  0% {
+    width: 0%;
+  } /* العرض في البداية هو صفر */
+  100% {
+    width: 90%;
+  } /* العرض في النهاية هو 100% */
+}
+.bar {
+  width: 0%;
+  height: 10px; /* ارتفاع الشريط */
+  background-color: #fff; /* لون الشريط */
+  animation-name: moveBar;
+  animation-duration: 30s; /* مدة الشريط 30 ثانية */
+  animation-timing-function: linear; /* السرعة ثابتة على طول المدة */
+  animation-fill-mode: forwards; /* يبقى الشريط في الحالة النهائية بعد الانتهاء */
+  margin: 1% 5%;
+}
+
+
+@media (max-width: 815px) {
+    .block_dair {
+        display: block;
+        z-index: 1;
+        flex-wrap: wrap;
+      }
+    .scroll_left {
+        float: left;
+        height: 0;
+        top: 0;
+        left: 0;
+        overflow: hidden;
+      }
+      .scroll_right {
+        float: right;
+        height: 0;
+        top: 0;
+        right: 0;
+        overflow: hidden;
+      }
+      .scroll_left_button {
+        height: 100%;
+        background-color: #000;
+        border: 0;
+        width: 0;
+        overflow: hidden;
+
+      }
+      .scroll_right_button {
+        height: 100%;
+        background-color: #000;
+        border: 0;
+        width: 0;
+        overflow: hidden;
+
+      }
+      .scroll_left_button:hover,
+      .scroll_right_button:hover {
+        background-color: #686565;
+        width: 35px;
+        color: #000;
+        overflow: hidden;
+      }
 /*مساحة اضافة يويمات للمستخدم*/
-.dair_spase{
+.dair_spase {
     height: 140px;
-    overflow: scroll;   
-    white-space: nowrap; 
+    overflow: scroll;
+    white-space: nowrap;
     /* overflow: hidden; */
-    scrollbar-color: #000 #000 ;
+    scrollbar-color: #000 #000;
     border: 0;
-}
-.dair_spase:hover{
+  }
+  .dair_spase:hover {
     scrollbar-color: #fff #fff;
-}
-.dair_user{
+  }
+  .dair_user {
     position: relative;
     display: inline-block;
-}
-.dair_user_profile{
+  }
+  .dair_user_profile {
     position: relative;
     width: 100px;
     height: 100px;
     border-radius: 50%;
     margin: 10px 10px;
-}
-.html_emojis_add{
+  }
+  .html_emojis_add {
     position: absolute;
     font-size: xx-large;
-    z-index: 1;color: green ;
+    z-index: 1;
+    /* color: green; */
     bottom: 0;
     left: 0px;
     margin: 20px;
     border-radius: 50%;
-}
-.open_modal_img_dair{
+  }
+  .open_modal_img_dair {
     border: 0;
-}
+  }
 
 
-
-/* عرض ال يوميات  */
-.modal_views_dair_img{
+  .modal_views_dair_img_video {
     display: none;
     position: fixed;
     z-index: inherit;
@@ -92,70 +207,116 @@
     left: 0;
     width: 100%;
     height: 100vh;
-    margin:  0;
-    background-color:rgba(0, 0, 0, 0.7);
-
-}
-.views_dair_img{
-    margin: 0 25%;
-    width: 50%;
-    background-color:#181818;
+    margin: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+  }
+  .views_dair_img_video {
+    margin: 0 ;
+    width: 100%;
+    background-color: #181818;
     height: 100%;
-}
-.close_img_dair{
+  }
+  .close_img_dair_video {
     margin: 10px 95%;
     padding: 0 10px;
-    background-color:#fff;
-    color:#000;
+    background-color: #fff;
+    color: #000;
     font-size: x-large;
-
-}
-.close_img_dair:hover{
+  }
+  .close_img_dair:hover {
     background-color: #000;
-    color:#fff;
-}
-.media_container{
+    color: #fff;
+  }
+  .media_container_image {
+    width: 50%;
+    margin: 7% 20%;
+  }
+  .media_container_video {
     width: 100%;
-    /* height: 70vh; */
-}
-.modal_image_dair {
-    width: 90%;
+    margin: 10% 0%;
+  }
+  .modal_image_dair {
+    width: 100%;
     margin: 0 5%;
-  } 
-  .modal_video_dair{
-    width: 80%;
-    margin: 0 10%;
-    height: 80vh;
   }
-  @keyframes moveBar {
-    0% { width: 0%; } /* العرض في البداية هو صفر */
-    100% { width: 90%; } /* العرض في النهاية هو 100% */
+  
+  .modal_video_dair {
+    width: 100%;
+    margin: 0 ;
+    height: 55vh;
+    max-width: 100%;
+    object-fit: contain;
   }
-  .bar {
-    width: 0%;
-    height: 10px; /* ارتفاع الشريط */
-    background-color: #fff; /* لون الشريط */
-    animation-name: moveBar;
-    animation-duration: 30s; /* مدة الشريط 30 ثانية */
-    animation-timing-function: linear; /* السرعة ثابتة على طول المدة */
-    animation-fill-mode: forwards; /* يبقى الشريط في الحالة النهائية بعد الانتهاء */
-    margin: 1% 5%;
 }
+@media (max-width: 600px) {
+  .modal_views_dair_img_video {
+    display: none;
+    position: fixed;
+    z-index: inherit;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+  }
+  .views_dair_img_video {
+    margin: 0 ;
+    width: 100%;
+    background-color: #181818;
+    height: 100%;
+  }
+  .close_img_dair_video {
+    margin: 10px 95%;
+    padding: 0 10px;
+    background-color: #fff;
+    color: #000;
+    font-size: x-large;
+  }
+  .close_img_dair:hover {
+    background-color: #000;
+    color: #fff;
+  }
+  .media_container_image {
+    width: 75%;
+    margin: 7% 7.5%;
+  }
+  .media_container_video {
+    width: 100%;
+    margin: 10% 0%;
+  }
+  .modal_image_dair {
+    width: 100%;
+    margin: 0 5%;
+  }
+  
+  .modal_video_dair {
+    width: 100%;
+    margin: 0 ;
+    height: 55vh;
+    max-width: 100%;
+    object-fit: contain;
+  }
+}
+
+
 
 ::-webkit-scrollbar {
-    width: 0px;
-    /* تغيير عرض شريط التمرير حسب الحاجة */
-  }
-  
-  ::-webkit-scrollbar-thumb {
-    background-color: #000;     border: 0;
-    /* تغيير لون شريط التمرير */
-  }
-  
-  ::-webkit-scrollbar-track {
-    background-color: #000;     border: 0;
-    /* تغيير لون الخلفية */
-  }
-  :-webkit-scrollbar-track {
-    background-color: #f0f0f0;
-  }
+  width: 0px;
+  /* تغيير عرض شريط التمرير حسب الحاجة */
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #000;
+  border: 0;
+  /* تغيير لون شريط التمرير */
+}
+
+::-webkit-scrollbar-track {
+  background-color: #000;
+  border: 0;
+  /* تغيير لون الخلفية */
+}
+:-webkit-scrollbar-track {
+  background-color: #f0f0f0;
+}

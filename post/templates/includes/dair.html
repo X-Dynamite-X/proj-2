@@ -1,41 +1,80 @@
 {% load static %}
 
 <div class="block_dair">
-    <div class="scroll_left">
-        <button onclick="scrollLefte()" class="scroll_left_button">
-            <span class="button_imo">&larr;</span>
-        </button>
-    </div>
-    <div class="scroll_right">
-        <button onclick="scrollRight()" class="scroll_right_button">
-            <span calss="button_imo">&rarr;</span>
-        </button>
-    </div>
-    <div class="dair_spase" id="dair_spase">
-{% include "includes/add_dair.html" %}
-        {% for dair in dairs %} 
-        {% if dair.dair_img %}
-        <div class="dair_user">
-            <img onclick="openModal('{{ dair.dair_img.url }}', 'image')" src="{{dair.profile_picture_dair.url}}" alt=""
-                class="dair_user_profile" />
-        </div>
-        {% else %}
-        <div class="dair_user">
-            <img onclick="openModal('{{ dair.dair_video.url }} ', 'video')" src="{{dair.profile_picture_dair.url}}" alt=""
-                class="dair_user_profile" />
-        </div>
-        {% endif %}
-        {% endfor %}
-    </div>
-    <div id="modal_views_dair_img" class="modal_views_dair_img">
-        <div class="views_dair_img">
-            <span class="close_img_dair" onclick="closeModal1()">&times;</span>
-            <div class="media_container">
-                <img src="" class="modal_image_dair" id="modal_image_dair" alt="Dair Media" />
-                <video src="" class="modal_video_dair" id="modal_video_dair" controls ></video>
-            </div>
-            <div class="bar"></div>
-        </div>
-    </div>
-    
+  <div class="scroll_left">
+    <button onclick="scrollLefte()" class="scroll_left_button">
+      <span class="button_imo">&larr;</span>
+    </button>
+  </div>
+  <div class="scroll_right">
+    <button onclick="scrollRight()" class="scroll_right_button">
+      <span calss="button_imo">&rarr;</span>
+    </button>
+  </div>
+  <div class="dair_spase" id="dair_spase">
+    {% include "includes/add_dair.html" %}
+    {{dair.dair_posts.id}}
+  
+    {% for dair in dairs %}
+    {% comment %} <a href="{% url 'dair_views' username=dair.uername dair_post_id=dair.dair_post.id %}"> {% endcomment %}
+
+      <a href="{% url 'dair_views'  username=dair.username  dair_post_id=dair.dair_posts.first.id%}" >
+      <div class=" dair_user" data-dair-id="{{ dair.id }}"
+     onclick="openModal('{{ dair.id }}')">
+        <img
+            src="{{dair.profile_picture_dair.url}}"
+            alt=""
+            class="dair_user_profile"
+        />
+    </div></a>
+    {% comment %} <a/> {% endcomment %}
+    {% endfor %}
 </div>
+
+{% comment %} 
+<div id="modal_views_dair_img_video" class="modal_views_dair_img_video" >
+    <div class="views_dair_img_video">
+        <span class="close_img_dair_video" onclick="closeModal1()">&times;</span>
+      {% for dair in dairs %}
+        <div id="dair_posts_container" class="dair_posts_container">
+            
+            {% for dai in dair.dair_posts.all %}
+                <div class="media_container_image  media_container_image1" data-dair-post="{{ dair.id }}" style="display:none">
+                  <p>{{ dair.id}}</p>
+                    <p>{{ dai.id}}</p>
+                        {% if dai.dair_img %}
+                        <div class="media_container_image media_container_image2" data-dair-post="{{ dair.id }}">
+                            <div class="bar" id="bar"></div>
+                            <img src="{{ dai.dair_img.url }}" class="modal_image_dair media" id="modal_image_dair" alt="Dair Media" />
+                        </div>
+                        {% endif %}
+                        {% if dai.dair_video %}
+                        <div class="media_container_video" data-dair-post="{{ dair.id }}">
+                            <video src="{{ dai.dair_video.url }}"  controls class="modal_video_dair media" id="modal_video_dair"  autoplay></video>
+                        </div>
+                        {% endif %}
+                        
+                    
+                </div>{% endfor %}</div>
+            {% endfor %}
+        
+    </div>
+</div> {% endcomment %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{% comment %} {% include "includes/dair_views.html" %} {% endcomment %}

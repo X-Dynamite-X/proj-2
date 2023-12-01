@@ -16,7 +16,7 @@ def singin(request):
             # تسجيل المستخدم إذا تم التحقق من بيانات تسجيل الدخول بنجاح
             login(request, user)
             messages.success(request, 'تم تسجيل الدخول بنجاح.')
-            return redirect('msg')  # إعادة توجيه المستخدم إلى صفحة أخرى بعد تسجيل الدخول
+            return redirect('user_profile')  # إعادة توجيه المستخدم إلى صفحة أخرى بعد تسجيل الدخول
         else:
             # إذا كانت بيانات تسجيل الدخول غير صحيحة
             messages.error(request, 'اسم المستخدم أو كلمة المرور غير صحيحة.')
@@ -61,6 +61,7 @@ def singup(request):
     return render(request, 'singup.html')
 
 # دالة تغيير كلمة المرور
+@login_required
 def password_change(request):
     user = request.user
     if request.method == 'POST':

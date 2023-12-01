@@ -1,0 +1,43 @@
+{% comment %} <div id="modal_views_dair_img_video" class="modal_views_dair_img_video">
+    <div class="views_dair_img_video">
+        <span class="close_img_dair_video" onclick="closeModal1()">&times;</span>
+        <div class="media_container_image">
+            <div class="bar" id="bar"></div>
+            <img src="" class="modal_image_dair" id="modal_image_dair" alt="Dair Media" />
+        </div>
+        <div class="media_container_video">
+            <video src="" controls class="modal_video_dair" id="modal_video_dair"  autoplay></video>
+        </div>
+    </div>
+</div> {% endcomment %}
+
+
+
+<div id="modal_views_dair_img_video" class="modal_views_dair_img_video" >
+    <div class="views_dair_img_video">
+        <span class="close_img_dair_video" onclick="closeModal1()">&times;</span>
+        <div id="dair-posts-container">
+            {% for dair in dairs %}
+                <div class="media_container_image dair-post" data-dair-post="{{ dair.id }}">
+                    <p>{{ dair.id}}</p>
+                    {% for dai in dair.dair_posts.all %}
+                    <p>{{ dai.id}}</p>
+                        {% if dai.dair_img %}
+                        <div class="media_container_image" data-dair-post="{{ dair.id }}">
+                            <div class="bar" id="bar"></div>
+                            <img src="{{ dai.dair_img.url }}" class="modal_image_dair" id="modal_image_dair" alt="Dair Media" />
+                        </div>
+                        {% endif %}
+                        {% if dai.dair_video %}
+                        <div class="media_container_video" data-dair-post="{{ dair.id }}">
+                            <video src="{{ dai.dair_video.url }}"  controls class="modal_video_dair" id="modal_video_dair"  autoplay></video>
+                        </div>
+                            {% comment %} <video src="{{ dai.dair_video.url }}" controls class="modal_video_dair" autoplay></video> {% endcomment %}
+                        {% endif %}
+                    {% endfor %}
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+</div>

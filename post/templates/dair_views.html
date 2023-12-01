@@ -1,0 +1,289 @@
+{% extends 'index.html' %}
+
+{% load static %}
+
+{% block title %}
+<title>dair</title>
+
+<link rel="stylesheet" href="{% static 'css/dair_views.css' %}">
+
+{% endblock %}
+
+{% block body %}
+<div class="full_scren_dair_post">
+  <a href="{% url 'post' %}" class="menuButton">
+    <span class="close_img_dair_video_top"></span>
+    <span class="close_img_dair_video_bot"></span>
+  </a>
+  <div class="go_to_previous_user">
+    {% if previous_user %}
+    <a href="{% url 'dair_views' username=previous_user.username dair_post_id=first_post_of_previous_user.id %}">
+      <div class="show_go_to_previous_user">
+        <div class="inf_previous_user">
+          <h2>{{previous_user.username}}</h2>
+        </div>
+        <div class="img_show_previous_user_dair">
+          <div class="img_show_previous_user">
+            <img class="img_previous_user" src="{{ previous_user.profile_picture_dair.url }}" alt="صورة">
+          </div>
+          {% if first_post_of_previous_user.dair_img %}
+          <div class="show_dair">
+            <img class="show_dair_previous_user" src="{{first_post_of_previous_user.dair_img.url}}">
+          </div>
+          {%endif%}
+          {% if first_post_of_previous_user.dair_video %}
+          <div class="show_dair">
+            <video src="{{ first_post_of_previous_user.dair_video.url }}" controls class="show_dair_previous_user">
+            </video>
+          </div>
+          {%endif%}
+        </div>
+      </div>
+    </a>
+    {%endif%}
+  </div>
+  <div id="modal_views_dair_img_video" class="modal_views_dair_img_video">
+    <div class="views_dair_img_video">
+      <div id="dair_posts_container" class="dair_posts_container">
+        {% if previous_post %}
+        <div class="previous_post">
+          <a href="{% url 'dair_views' username=users dair_post_id=previous_post.id %}" class="change_post">
+            <span class="button_imo">
+              <svg class="svg_button" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                class="bi bi-arrow-left-circle-fill" viewBox="0 0 16 16">
+                <path
+                  d="M8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0zm3.5 7.5a.5.5 0 0 1 0 1H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5H11.5z" />
+              </svg></span>
+          </a>
+        </div>
+        {%else%}
+        {% if previous_user %}
+        <div class="previous_post">
+          <a href="{% url 'dair_views' username=previous_user.username dair_post_id=first_post_of_previous_user.id %}"
+            class="change_post">
+            <span class="button_imo">
+              <svg class="svg_button" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                class="bi bi-arrow-left-circle-fill" viewBox="0 0 16 16">
+                <path
+                  d="M8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0zm3.5 7.5a.5.5 0 0 1 0 1H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5H11.5z" />
+              </svg>
+            </span>
+          </a>
+        </div>
+        {% endif %}
+
+        {% endif %}
+
+        <div class="media_container_image_video">
+          {% if current_dair.dair_img %}
+          <div class="media_container_image">
+            <img src="{{ current_dair.dair_img.url }}" class="modal_image_dair" id="modal_image_dair" alt="Dair Media">
+          </div>
+          {% endif %}
+          {% if current_dair.dair_video %}
+          <div class="media_container_video">
+            <video playsinline src="{{ current_dair.dair_video.url }}" controls class="modal_video_dair"
+              id="modal_video_dair" autoplay>
+            </video>
+          </div>
+          {% endif %}
+        </div>
+
+        {% if next_post %}
+        <div class="next_post">
+          <a class="change_post" href="{% url 'dair_views' username=users dair_post_id=next_post.id %}">
+            <span class="button_imo">
+              <svg class="svg_button" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                class="bi bi-arrow-right-circle-fill" viewBox="0 0 16 16">
+                <path
+                  d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z" />
+              </svg>
+            </span>
+          </a>
+        </div>
+        {%else%}
+        {% if next_user %}
+        <div class="next_post">
+          <a class="change_post"
+            href="{% url 'dair_views' username=next_user.username dair_post_id=first_post_of_next_user.id %}">
+            <span class="button_imo">
+              <svg class="svg_button" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                class="bi bi-arrow-right-circle-fill" viewBox="0 0 16 16">
+                <path
+                  d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z" />
+              </svg>
+            </span>
+          </a>
+        </div>
+        {% endif %}
+        {% endif %}
+      </div>
+    </div>
+    <header class="hedar_dair_user_info ">
+      <div class="bar">
+        {% for count in dair_posts %}
+        <div class="anime_bar">
+          <div class="time_anime_bar"></div>
+          <div class="time_anime_bar_move"></div>
+        </div>
+        {% endfor %}
+      </div>
+      <div class="info_user_dair">
+        <div class="full_info_user">
+          <div class="info_user_dair_img">
+            <div>
+              <a href="#" style="height: 32px; width: 32px;" class="user_profile_link_img">
+                <img src="{{users.dair.profile_picture_dair.url }}" crossorigin="anonymous" draggable="false"
+                  class="user_create_dair_info_pict_user_img">
+              </a>
+            </div>
+            <div class="info_user_dair_text">
+              <div class="info_user_dair_text_name_daite">
+                <div>
+                  <a href="#" class="info_user_dair_text_name_link">
+                    {{users.username}}
+                  </a>
+                </div>
+                <div class="info_user_dair_text_date">
+                  <time datetime="{{ current_dair.dair_created_date }}" class="time">
+                    {{current_dair.dair_created_date|timesince}}
+                  </time>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="user_control_sbase_dair">
+          <div tabindex="0" role="button" class="user_control_sbase_dair_start_puss">
+            <div class="user_control_sbase_dair_start_puss_button">
+              <label class="container">
+                <input checked="checked" type="checkbox" class="checkbox">
+                <svg viewBox="0 0 384 512" width="16" fill="currentColor" height="16" role="img"
+                  xmlns="http://www.w3.org/2000/svg" class=" user_control_sbase_dair_play_button_svg">
+                  <title>Play</title>
+                  <path
+                    d="M73 39c-14.8-9.1-33.4-9.4-48.5-.9S0 62.6 0 80V432c0 17.4 9.4 33.4 24.5 41.9s33.7 8.1 48.5-.9L361 297c14.3-8.7 23-24.2 23-41s-8.7-32.2-23-41L73 39z">
+                  </path>
+                </svg>
+                <svg viewBox="0 0 320 512" width="16" fill="currentColor" height="16" role="img"
+                  xmlns="http://www.w3.org/2000/svg" class=" user_control_sbase_dair_pause_button_svg">
+                  <title>Pause</title>
+                  <path
+                    d="M48 64C21.5 64 0 85.5 0 112V400c0 26.5 21.5 48 48 48H80c26.5 0 48-21.5 48-48V112c0-26.5-21.5-48-48-48H48zm192 0c-26.5 0-48 21.5-48 48V400c0 26.5 21.5 48 48 48h32c26.5 0 48-21.5 48-48V112c0-26.5-21.5-48-48-48H240z">
+                  </path>
+                </svg>
+              </label>
+            </div>
+          </div>
+          <div class="user_control_sbase_dair_noaudio_audio">
+            <div class="user_control_sbase_dair_dair_noaudio_button">
+              <label class="container">
+                <input class="checkbox" checked="checked" type="checkbox">
+                <svg width="16" viewBox="0 0 576 512" height="16" xmlns="http://www.w3.org/2000/svg"
+                  class=" user_control_sbase_dair_dair_noaudio_button_mute_svg">
+                  <path
+                    d="M301.1 34.8C312.6 40 320 51.4 320 64V448c0 12.6-7.4 24-18.9 29.2s-25 3.1-34.4-5.3L131.8 352H64c-35.3 0-64-28.7-64-64V224c0-35.3 28.7-64 64-64h67.8L266.7 40.1c9.4-8.4 22.9-10.4 34.4-5.3zM425 167l55 55 55-55c9.4-9.4 24.6-9.4 33.9 0s9.4 24.6 0 33.9l-55 55 55 55c9.4 9.4 9.4 24.6 0 33.9s-24.6 9.4-33.9 0l-55-55-55 55c-9.4 9.4-24.6 9.4-33.9 0s-9.4-24.6 0-33.9l55-55-55-55c-9.4-9.4-9.4-24.6 0-33.9s24.6-9.4 33.9 0z">
+                  </path>
+                </svg>
+                <svg width="16" viewBox="0 0 448 512" height="16" xmlns="http://www.w3.org/2000/svg"
+                  class="user_control_sbase_dair_dair_noaudio_button_voice_svg">
+                  <path
+                    d="M301.1 34.8C312.6 40 320 51.4 320 64V448c0 12.6-7.4 24-18.9 29.2s-25 3.1-34.4-5.3L131.8 352H64c-35.3 0-64-28.7-64-64V224c0-35.3 28.7-64 64-64h67.8L266.7 40.1c9.4-8.4 22.9-10.4 34.4-5.3zM412.6 181.5C434.1 199.1 448 225.9 448 256s-13.9 56.9-35.4 74.5c-10.3 8.4-25.4 6.8-33.8-3.5s-6.8-25.4 3.5-33.8C393.1 284.4 400 271 400 256s-6.9-28.4-17.7-37.3c-10.3-8.4-11.8-23.5-3.5-33.8s23.5-11.8 33.8-3.5z">
+                  </path>
+                </svg></label>
+            </div>
+          </div>
+          <div class="user_control_sbase_dair_menu">
+            <div class="user_control_sbase_dair_menu_button">
+              <svg aria-label="Menu" class="user_control_sbase_dair_menu_button_svg" fill="currentColor" height="24"
+                role="img" width="24" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+                <title>Menu</title>
+                <path
+                  d="M140,128a12,12,0,1,1-12-12A12,12,0,0,1,140,128ZM128,72a12,12,0,1,0-12-12A12,12,0,0,0,128,72Zm0,112a12,12,0,1,0,12,12A12,12,0,0,0,128,184Z">
+                </path>
+              </svg>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </header>
+    <div class="user_reaction_for_diar">
+      <div class="user_reaction_for_diar_space1">
+        <div class="user_reaction_for_diar_space2" style="display: none;">
+        </div>
+        <div class="user_reaction_for_diar_space_input">
+          <div class="user_reaction_for_diar_space_input_text">
+            <div class="user_reaction_for_diar_space_input_text_st">
+              <textarea name="" id="" cols="30" rows="10" placeholder="Reply to {{users.username}} ..." date-focus dir
+                class="user_reaction_for_diar_space_input_text_st_textarea"></textarea>
+            </div>
+          </div>
+          <div class="user_reaction_for_diar_space_input_like">
+            <div class="user_reaction_for_diar_space_input_like_st">
+              <div class="user_reaction_for_diar_space_input_like_st_sp">
+                <label class="user_reaction_for_diar_space_input_like_st_sp_container">
+                  <input type="checkbox" class="checkbox">
+                  <svg class="user_reaction_for_diar_space_input_like_st_sp_container_svg" id="Layer_1" version="1.0"
+                    viewBox="0 0 24 24" xml:space="preserve" xmlns="http://www.w3.org/2000/svg"
+                    xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <path
+                      d="M16.4,4C14.6,4,13,4.9,12,6.3C11,4.9,9.4,4,7.6,4C4.5,4,2,6.5,2,9.6C2,14,12,22,12,22s10-8,10-12.4C22,6.5,19.5,4,16.4,4z">
+                    </path>
+                  </svg>
+                </label>
+              </div>
+            </div>
+          </div>
+          <div class="user_reaction_for_diar_space_input_share">
+            <button class="user_reaction_for_diar_space_input_share_button" type="button">
+              <div class="user_reaction_for_diar_space_input_share_button_share">
+                <svg aria-label="Direct" class="user_reaction_for_diar_space_input_share_button_share_svg"
+                  fill="currentColor" height="24" role="img" viewBox="0 0 24 24" width="24">
+                  <title>Direct</title>
+                  <line fill="none" stroke="currentColor" stroke-linejoin="round" stroke-width="2" x1="22" x2="9.218"
+                    y1="3" y2="10.083"></line>
+                  <polygon fill="none" points="11.698 20.334 22 3.001 2 3.001 9.218 10.084 11.698 20.334"
+                    stroke="currentColor" stroke-linejoin="round" stroke-width="2"></polygon>
+                </svg>
+              </div>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="got_to_next_user">
+    {% if next_user %}
+    <a href="{% url 'dair_views' username=next_user.username dair_post_id=first_post_of_next_user.id %}">
+
+      <div class="show_go_to_next_user">
+        <div class="inf_next_user">
+          <h2>{{next_user.username}}</h2>
+        </div>
+        <div class="img_show_next_user_dair">
+          <div class="img_show_next_user">
+            <img src="{{ next_user.profile_picture_dair.url }}" alt="صورة" class="img_next_user">
+          </div>
+          {% if first_post_of_next_user.dair_img %}
+
+          <div class="show_dair">
+            <img class="show_dair_next_user" src="{{first_post_of_next_user.dair_img.url}}" alt="">
+          </div>
+          {%endif%}
+          {% if first_post_of_next_user.dair_video %}
+          <div class="show_dair">
+            <video src="{{ first_post_of_next_user.dair_video.url }}" controls class="show_dair_previous_user">
+            </video>
+          </div>
+          {%endif%}
+        </div>
+      </div>
+    </a>
+
+    {%endif%}
+  </div>
+</div>
+
+{% endblock body %}

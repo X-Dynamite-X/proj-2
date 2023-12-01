@@ -19,7 +19,6 @@ def get_media_type(file):
     # احتسب نوع الملف (فيديو أو صورة) استنادًا إلى امتداد الملف
     file_extension = file.name.split('.')[-1].lower()
     if file_extension in ['mp4', 'avi', 'mov', 'mkv']:
-        print("video")
         return 'video'
     elif file_extension in ['jpg', 'jpeg', 'png', 'gif']:
         return 'image'

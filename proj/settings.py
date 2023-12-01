@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     "chat",
     "cryptography_app",
     "post",
+    'django.contrib.humanize',
 ]
 
 MIDDLEWARE = [

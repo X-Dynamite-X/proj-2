@@ -28,12 +28,12 @@
           <!-- بداية القسم الذي يحتوي على نص الرسالة -->
           <div class="chat_text{% if message.created_by != username %}1{% else %}2{% endif %}">
             <!-- عرض نص الرسالة -->
-            <p>{{ message.msg }}</p>
+            <p>{{ message.msg|safe }}</p>
           </div>
           <!-- نهاية القسم الذي يحتوي على نص الرسالة -->
 
           <!-- بداية القسم الذي يحتوي على تاريخ الرسالة (إذا وجد) -->
-          {% if message.image or message.msg %}
+          {% if message.image or message.msg|safe|safe %}
           <div class="date_msg{% if message.created_by != username %}1{% else %}2{% endif %}">
             <!-- عرض تاريخ الرسالة -->
             <p>{{ message.created_dt }}</p>

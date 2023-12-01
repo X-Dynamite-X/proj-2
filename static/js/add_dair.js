@@ -59,4 +59,3 @@ function toggleModal(displayValue) {
       videoPreview.classList.add("hidden");
     }
   });
-  

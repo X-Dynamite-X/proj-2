@@ -1,4 +1,44 @@
 /*لي قائمة اضافة اليوميات */
+/*مساحة اضافة يويمات للمستخدم*/
+.dair_spase {
+  height: 140px;
+  overflow: scroll;
+  white-space: nowrap;
+  /* overflow: hidden; */
+  scrollbar-color: #000 #000;
+  border: 0;
+}
+.dair_spase:hover {
+  scrollbar-color: #fff #fff;
+}
+.dair_user {
+  position: relative;
+  display: inline-block;
+}
+.dair_user_profile {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin: 10px 10px;
+}
+.html_emojis_add {
+  position: absolute;
+  font-size: xx-large;
+  z-index: 1;
+  /* color: green; */
+  bottom: 0;
+  left: 0px;
+  margin: 20px;
+  border-radius: 50%;
+}
+.open_modal_img_dair {
+  border: 0;
+}
+
+.open_modal_img_dair {
+  border: 0;
+}
 .data_entry_modal {
   z-index: 3;
   display: none;
@@ -10,6 +50,7 @@
   height: 100%;
   background-color: rgba(0, 0, 0, 0.7);
 }
+
 .modal_content_input_img_dair {
   background-color: rgba(47, 79, 79, 0.267);
   max-width: 60%;
@@ -49,7 +90,7 @@
   width: 100%;
   /* margin-top: 25%; */
   position: relative;
-  padding: 18% 40%;
+  padding: 18% 30%;
 }
 .dair_img_and_video_file_input {
   width: 0;
@@ -58,15 +99,25 @@
   z-index: 2;
   position: absolute;
   text-align: center;
-  width: 70%;
-  margin: 0 10%;
+  width: 100%;
+  margin: 0 ;
+}
+.dair_user_views_image_sp{
+  width: 50%; 
+   height: 80%;
+
 }
 .dair_user_views_image {
   width: 80%;
-  height: 80%;
-  background-size: cover;
+  object-fit: cover;
 }
-
+.dair_user_views_video_sp{
+  width: 100%;
+}
+.dair_user_views_video{
+  width: 100%;
+  object-fit: contain;
+}
 .dair_user_profile {
   position: relative;
 }
@@ -92,4 +143,150 @@
   color: #fff;
   width: 80px;
   padding: 0 20px;
+}
+@media (max-width: 800px) {
+  .dair_spase {
+    height: 140px;
+    overflow: scroll;
+    white-space: nowrap;
+    /* overflow: hidden; */
+    scrollbar-color: #000 #000;
+    border: 0;
+  }
+  .dair_spase:hover {
+    scrollbar-color: #fff #fff;
+  }
+  .dair_user {
+    position: relative;
+    display: inline-block;
+  }
+  .dair_user_profile {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin: 10px 10px;
+  }
+  .html_emojis_add {
+    position: absolute;
+    font-size: xx-large;
+    z-index: 1;
+    /* color: green; */
+    bottom: 0;
+    left: 0px;
+    margin: 20px;
+    border-radius: 50%;
+  }
+
+  .data_entry_modal {
+    z-index: 3;
+    display: none;
+    position: fixed;
+    top: 0;
+    border: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+  }
+  .modal_content_input_img_dair {
+    background-color: rgba(47, 79, 79, 0.267);
+    max-width: 100%;
+    margin: 0;
+    /* padding: 20px; */
+    height: 100%;
+    border-radius: 5px;
+    position: relative;
+  }
+  .close_modal_img_dair {
+    background-color: #fff;
+    max-width: 400px;
+    /* margin: 0 0 0 93.3%; */
+    color: #000;
+    padding: 0 1%;
+    right: 0;
+    /* border-radius: 5px; */
+    position: absolute;
+    /* width: 5%; */
+    font-size: x-large;
+    display: inline-block;
+    cursor: pointer;
+    display: inline-bloc;
+  }
+  .close_modal_img_dair:hover {
+    background-color: #000;
+    color: #fff;
+  }
+  .title_modal_dair {
+    text-align: center;
+  }
+  .text_for_user {
+    text-align: center;
+    margin-top: 5%;
+  }
+  .dair_buttom_add_img_file {
+    width: 100%;
+    /* margin-top: 25%; */
+    position: relative;
+    padding: 18% 40%;
+  }
+  .dair_img_and_video_file_input {
+    width: 0;
+  }
+  .dair_user_views {
+    z-index: 2;
+    position: absolute;
+    text-align: center;
+    width: 80%;
+    margin: 5% 10%;
+}
+.dair_user_views_image_sp {
+  width: 60%;
+  height: auto;
+}
+  .dair_user_views_image {
+    width: 100%;
+    /* height: 80%; */
+    object-fit: cover;
+  }
+  .dair_user_views_video_sp {
+    width: 100%;
+}
+  .dair_user_views_video{
+    object-fit: cover;
+    width: 100%;
+    height: 40vh;
+  }
+  .dair_user_profile {
+    position: relative;
+  }
+  .visible {
+    display: inline; /* أو أي نوع من العرض الذي تريده عندما تكون الصورة مرئية */
+  }
+  
+  .hidden {
+    display: none; /* يجعل الصورة غير مرئية */
+  }
+  .share_dair {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 50px;
+    background-color: #fff;
+    color: #000;
+    border: 0;
+    font-size: large;
+  }
+  .share_dair:hover {
+    background-color: #000;
+    color: #fff;
+    width: 80px;
+    padding: 0 20px;
+  }
+  
+
+
+
+
+
 }

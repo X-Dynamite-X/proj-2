@@ -4,6 +4,7 @@ from django.contrib.auth.models import User
 from django.contrib.auth.decorators import login_required
 from django.conf import settings
 from django.db.models import Q
+import emoji
 @login_required
 def msg(request):
     user = User.objects.exclude(id=request.user.id)
@@ -11,6 +12,7 @@ def msg(request):
     return render(request, 'all_screan.html', context)
 @login_required
 def msg2(request, users_id):
+
     # الحصول على المستخدم الهدف باستخدام معرفه
     createdTo = get_object_or_404(User, pk=users_id)
     # استعلام لجلب الرسائل بين المنشئ والمستقبل
@@ -34,6 +36,8 @@ def msg2(request, users_id):
         image = request.FILES.get('image', settings.MEDIA_URL + "cv.png")
         # الحصول على نص الرسالة المدخلة من المستخدم وإزالة الفراغات الزائدة
         text_msg = request.POST.get('text_msg', '').strip()
+        text_msg = emoji.emojize(text_msg,language='alias')
+
         # التحقق من وجود نص في الرسالة أو وجود صورة غير الصورة الافتراضية
         if text_msg.strip() or image != settings.MEDIA_URL + "cv.png":
             # إنشاء رسالة جديدة إذا تم إدخال نص أو صورة

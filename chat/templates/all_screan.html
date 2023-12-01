@@ -2,19 +2,23 @@
 {% load static %}
 <!DOCTYPE html>
 {% block title %}<title>msg</title>
-<link rel="stylesheet" href="{% static 'css/inputmsg.css' %}">
+{% comment %} <link rel="stylesheet" href="{% static 'css/inputmsg.css' %}">
 <link rel="stylesheet" href="{% static 'css/msg.css' %}">
 <link rel="stylesheet" href="{% static 'css/pepol.css' %}"> 
 
 {% if  request.path == '/msg/' %}
 <link rel="stylesheet" href="{% static 'css/start_page.css' %}"> 
-{% endif %}
-
-
-
+{% endif %} {% endcomment %}
 
 {% endblock %}
-
+{% block csscode %}
+<link rel="stylesheet" href="{% static 'css/inputmsg.css' %}">
+<link rel="stylesheet" href="{% static 'css/msg.css' %}">
+<link rel="stylesheet" href="{% static 'css/pepol.css' %}">
+{% if  request.path == '/msg/' %}
+<link rel="stylesheet" href="{% static 'css/start_page.css' %}"> 
+{% endif %}
+{% endblock %}
     {% block body %}
         {% csrf_token %}
         {% with request_path=request.path %}
@@ -39,3 +43,7 @@
             {% endif %}
         {% endwith %}
     {% endblock body %}
+    {% block script %}
+    
+    {% endblock script %}
+
