@@ -170,7 +170,7 @@ def dair_views(request, username, dair_post_id):
     previous_post = None
     next_post = None
     counts=dair_posts.count()
-    print(counts)
+  
 
     # البحث عن العناصر السابقة والتالية
     for i, post in enumerate(dair_posts):
