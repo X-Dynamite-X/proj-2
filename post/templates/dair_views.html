@@ -82,8 +82,8 @@
           {% endif %}
           {% if current_dair.dair_video %}
           <div class="media_container_video">
-            <video playsinline src="{{ current_dair.dair_video.url }}" controls class="modal_video_dair"
-              id="modal_video_dair" autoplay>
+            <video playsinline src="{{ current_dair.dair_video.url }}"  class="modal_video_dair"
+              id="modal_video_dair" autoplay >
             </video>
           </div>
           {% endif %}
@@ -157,7 +157,7 @@
           <div tabindex="0" role="button" class="user_control_sbase_dair_start_puss">
             <div class="user_control_sbase_dair_start_puss_button">
               <label class="container">
-                <input checked="checked" type="checkbox" class="checkbox">
+                <input  type="checkbox" class="checkbox" id="user_control_sbase_dair_start_puss_button_checkbox"  >
                 <svg viewBox="0 0 384 512" width="16" fill="currentColor" height="16" role="img"
                   xmlns="http://www.w3.org/2000/svg" class=" user_control_sbase_dair_play_button_svg">
                   <title>Play</title>
@@ -178,7 +178,7 @@
           <div class="user_control_sbase_dair_noaudio_audio">
             <div class="user_control_sbase_dair_dair_noaudio_button">
               <label class="container">
-                <input class="checkbox" checked="checked" type="checkbox">
+                <input class="user_control_sbase_dair_dair_noaudio_button_mute_voice_checkbox" checked="checked" type="checkbox">
                 <svg width="16" viewBox="0 0 576 512" height="16" xmlns="http://www.w3.org/2000/svg"
                   class=" user_control_sbase_dair_dair_noaudio_button_mute_svg">
                   <path
@@ -287,3 +287,6 @@
 </div>
 
 {% endblock body %}
+{% block script %}
+<script src="{% static 'js/dair_views.js' %}"></script>
+{% endblock script %}
