@@ -415,12 +415,7 @@ input {
   color: #fff;
 
 }
-input:checked ~ .user_control_sbase_dair_dair_noaudio_button_mute_svg {
-  display: none;
-}
-input:checked ~ .user_control_sbase_dair_dair_noaudio_button_voice_svg {
-  display: block;
-}
+
 input {
   position: absolute;
   opacity: 0;
