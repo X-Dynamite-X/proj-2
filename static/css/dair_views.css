@@ -89,7 +89,9 @@ body, button, input, textarea, button, input, textarea {
     flex-direction: row;
     justify-content: space-between;
     margin-bottom: 8px;
-}
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+  }
 .anime_bar {
   flex-grow: 1;
   height: 2px;
@@ -457,7 +459,7 @@ input {
   color: #090909;
   width: 2.5em;
   height: 2.5em;
-  background: #090909;
+  /* background: #090909; */
   border: 1px solid #171717;
   transition: all .3s;
   border: 0;
@@ -467,12 +469,12 @@ input {
   margin-right: 10px;
   color: #000;
   font-size: 15px;
-  text-decoration: none;
-
+  text-decoration: none;  
+  z-index: 5;
 
 }
 .menuButton:hover{
-  background: #000;
+  /* background: #000; */
   
 }
 .menuButton span {
