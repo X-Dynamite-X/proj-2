@@ -472,11 +472,11 @@ input {
   text-decoration: none;  
   z-index: 5;
 
-}
+} /*
 .menuButton:hover{
-  /* background: #000; */
+  background: #000; 
   
-}
+}*/
 .menuButton span {
   width: 30px;
   height: 4px;
