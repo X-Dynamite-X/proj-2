@@ -123,8 +123,11 @@
       <div class="bar">
         {% for count in dair_posts %}
         <div class="anime_bar">
-          <div class="time_anime_bar"></div>
+          
+          <div class="time_anime_bar time_anime_bar{%if count.id < current_dair.id%}_full{% endif %}" ></div>
+          {%if count.id == current_dair.id%}
           <div class="time_anime_bar_move"></div>
+          {%endif%}
         </div>
         {% endfor %}
       </div>

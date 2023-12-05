@@ -98,6 +98,7 @@ body, button, input, textarea, button, input, textarea {
   margin-right: 2px;
   position: relative;
 }
+
 .time_anime_bar_move, .time_anime_bar {
   border-radius: 2px;
   height: 2px;
@@ -140,6 +141,11 @@ body, button, input, textarea, button, input, textarea {
   animation-duration: 30s; 
   animation-timing-function: linear;
   animation-fill-mode: forwards;
+}
+.time_anime_bar_full
+{
+  width: 100%;
+  background-color: #fff; 
 }
 .info_user_dair_img{
   overflow-y: visible;
