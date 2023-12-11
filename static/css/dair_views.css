@@ -134,13 +134,24 @@ body, button, input, textarea, button, input, textarea {
     width: 100%;
   }
 }
+/* .time_anime_bar_move {
+  width: 0%;
+  background-color: #fff; 
+  animation-name: moveBar;
+  animation-duration: 10s; 
+  animation-timing-function: linear;
+  animation-fill-mode: forwards;
+} */
 .time_anime_bar_move {
   width: 0%;
   background-color: #fff; 
   animation-name: moveBar;
-  animation-duration: 30s; 
+  /* animation-duration: 10s;  */
   animation-timing-function: linear;
   animation-fill-mode: forwards;
+} 
+.time_anime_bar_move_img{
+  animation-duration: 10s; 
 }
 .time_anime_bar_full
 {

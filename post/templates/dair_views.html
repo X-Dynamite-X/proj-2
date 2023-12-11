@@ -11,7 +11,7 @@
 
 {% block body %}
 <div class="full_scren_dair_post">
-  <a href="{% url 'post' %}" class="menuButton">
+  <a id ="post"href="{% url 'post' %}" class="menuButton">
     <span class="close_img_dair_video_top"></span>
     <span class="close_img_dair_video_bot"></span>
   </a>
@@ -71,9 +71,7 @@
           </a>
         </div>
         {% endif %}
-
         {% endif %}
-
         <div class="media_container_image_video">
           {% if current_dair.dair_img %}
           <div class="media_container_image">
@@ -91,7 +89,7 @@
 
         {% if next_post %}
         <div class="next_post">
-          <a class="change_post" href="{% url 'dair_views' username=users dair_post_id=next_post.id %}">
+          <a class="change_post" id="go_to_next_post" href="{% url 'dair_views' username=users dair_post_id=next_post.id %}">
             <span class="button_imo">
               <svg class="svg_button" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                 class="bi bi-arrow-right-circle-fill" viewBox="0 0 16 16">
@@ -104,7 +102,7 @@
         {%else%}
         {% if next_user %}
         <div class="next_post">
-          <a class="change_post"
+          <a class="change_post" id="go_to_next_user"
             href="{% url 'dair_views' username=next_user.username dair_post_id=first_post_of_next_user.id %}">
             <span class="button_imo">
               <svg class="svg_button" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
@@ -126,7 +124,7 @@
           
           <div class="time_anime_bar time_anime_bar{%if count.id < current_dair.id%}_full{% endif %}" ></div>
           {%if count.id == current_dair.id%}
-          <div class="time_anime_bar_move"></div>
+          <div class="time_anime_bar_move " id="time_anime_bar_move" ></div>
           {%endif%}
         </div>
         {% endfor %}
@@ -160,7 +158,7 @@
           <div tabindex="0" role="button" class="user_control_sbase_dair_start_puss">
             <div class="user_control_sbase_dair_start_puss_button">
               <label class="container">
-                <input  type="checkbox" class="checkbox" id="user_control_sbase_dair_start_puss_button_checkbox"  >
+                <input  type="checkbox" checked  class="checkbox" id="user_control_sbase_dair_start_puss_button_checkbox"  >
                 <svg viewBox="0 0 384 512" width="16" fill="currentColor" height="16" role="img"
                   xmlns="http://www.w3.org/2000/svg" class=" user_control_sbase_dair_play_button_svg">
                   <title>Play</title>
@@ -259,7 +257,7 @@
 
   <div class="got_to_next_user">
     {% if next_user %}
-    <a href="{% url 'dair_views' username=next_user.username dair_post_id=first_post_of_next_user.id %}">
+    <a id="go_to_next_user"href="{% url 'dair_views' username=next_user.username dair_post_id=first_post_of_next_user.id %}">
 
       <div class="show_go_to_next_user">
         <div class="inf_next_user">
