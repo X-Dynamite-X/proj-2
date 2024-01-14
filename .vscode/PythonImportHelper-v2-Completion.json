@@ -1,0 +1,2726 @@
+[
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "django.core.validators",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.core.validators",
+        "description": "django.core.validators",
+        "detail": "django.core.validators",
+        "documentation": {}
+    },
+    {
+        "label": "FileExtensionValidator",
+        "importPath": "django.core.validators",
+        "description": "django.core.validators",
+        "isExtraImport": true,
+        "detail": "django.core.validators",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "Q",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "emoji",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "emoji",
+        "description": "emoji",
+        "detail": "emoji",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "Morse",
+        "importPath": "morse3",
+        "description": "morse3",
+        "isExtraImport": true,
+        "detail": "morse3",
+        "documentation": {}
+    },
+    {
+        "label": "Morse",
+        "importPath": "morse3",
+        "description": "morse3",
+        "isExtraImport": true,
+        "detail": "morse3",
+        "documentation": {}
+    },
+    {
+        "label": "django.utils.timezone",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.utils.timezone",
+        "description": "django.utils.timezone",
+        "detail": "django.utils.timezone",
+        "documentation": {}
+    },
+    {
+        "label": "VideoFileClip",
+        "importPath": "moviepy.editor",
+        "description": "moviepy.editor",
+        "isExtraImport": true,
+        "detail": "moviepy.editor",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "phonenumber_field.modelfields",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "phonenumber_field.modelfields",
+        "description": "phonenumber_field.modelfields",
+        "detail": "phonenumber_field.modelfields",
+        "documentation": {}
+    },
+    {
+        "label": "PhoneNumberField",
+        "importPath": "phonenumber_field.modelfields",
+        "description": "phonenumber_field.modelfields",
+        "isExtraImport": true,
+        "detail": "phonenumber_field.modelfields",
+        "documentation": {}
+    },
+    {
+        "label": "views",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "chat.migrations.0001_initial",
+        "description": "chat.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Message',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "chat.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "chat.migrations.0002_alter_message_created_dt",
+        "description": "chat.migrations.0002_alter_message_created_dt",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('chat', '0001_initial'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='message',\n            name='created_dt',\n            field=models.DateTimeField(auto_now_add=True),\n        ),",
+        "detail": "chat.migrations.0002_alter_message_created_dt",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "chat.migrations.0003_alter_message_image",
+        "description": "chat.migrations.0003_alter_message_image",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('chat', '0002_alter_message_created_dt'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='message',\n            name='image',\n            field=models.ImageField(default='pgb.png', upload_to='media/images/'),\n        ),",
+        "detail": "chat.migrations.0003_alter_message_image",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "chat.migrations.0004_alter_message_image",
+        "description": "chat.migrations.0004_alter_message_image",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('chat', '0003_alter_message_image'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='message',\n            name='image',\n            field=models.ImageField(default='pgb.png', upload_to='images/'),\n        ),",
+        "detail": "chat.migrations.0004_alter_message_image",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "chat.migrations.0005_alter_message_image",
+        "description": "chat.migrations.0005_alter_message_image",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('chat', '0004_alter_message_image'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='message',\n            name='image',\n            field=models.FileField(null=True, upload_to='video/', validators=[django.core.validators.FileExtensionValidator(allowed_extensions=['MOV', 'avi', 'mp4', 'webm', 'mkv', 'png'])]),\n        ),",
+        "detail": "chat.migrations.0005_alter_message_image",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "chat.migrations.0006_alter_message_image",
+        "description": "chat.migrations.0006_alter_message_image",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('chat', '0005_alter_message_image'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='message',\n            name='image',\n            field=models.ImageField(default='pgb.png', null=True, upload_to='images/'),\n        ),",
+        "detail": "chat.migrations.0006_alter_message_image",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "chat.migrations.0007_alter_message_created_by",
+        "description": "chat.migrations.0007_alter_message_created_by",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('chat', '0006_alter_message_image'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='message',\n            name='created_by',\n            field=models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, related_name='created_by', to=settings.AUTH_USER_MODEL),",
+        "detail": "chat.migrations.0007_alter_message_created_by",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "chat.migrations.0008_message_created_to",
+        "description": "chat.migrations.0008_message_created_to",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('chat', '0007_alter_message_created_by'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='message',\n            name='created_to',\n            field=models.ForeignKey(null=True, on_delete=django.db.models.deletion.CASCADE, related_name='created_to', to=settings.AUTH_USER_MODEL),",
+        "detail": "chat.migrations.0008_message_created_to",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "chat.migrations.0009_alter_message_created_to",
+        "description": "chat.migrations.0009_alter_message_created_to",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('chat', '0008_message_created_to'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='message',\n            name='created_to',\n            field=models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, related_name='created_to', to='auth.user'),",
+        "detail": "chat.migrations.0009_alter_message_created_to",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "chat.migrations.0010_message_friends",
+        "description": "chat.migrations.0010_message_friends",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('chat', '0009_alter_message_created_to'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='message',\n            name='friends',\n            field=models.ManyToManyField(related_name='friends', to=settings.AUTH_USER_MODEL),",
+        "detail": "chat.migrations.0010_message_friends",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "chat.migrations.0011_auto_20230904_1802",
+        "description": "chat.migrations.0011_auto_20230904_1802",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('chat', '0010_message_friends'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='message',\n            name='friends',\n            field=models.ManyToManyField(related_name='my_friends', to=settings.AUTH_USER_MODEL),",
+        "detail": "chat.migrations.0011_auto_20230904_1802",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "chat.migrations.0012_auto_20230904_1901",
+        "description": "chat.migrations.0012_auto_20230904_1901",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('chat', '0011_auto_20230904_1802'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='User',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "chat.migrations.0012_auto_20230904_1901",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "chat.migrations.0013_auto_20230904_1903",
+        "description": "chat.migrations.0013_auto_20230904_1903",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('chat', '0012_auto_20230904_1901'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='friends',\n            name='freinds',\n            field=models.OneToOneField(on_delete=django.db.models.deletion.CASCADE, to=settings.AUTH_USER_MODEL),",
+        "detail": "chat.migrations.0013_auto_20230904_1903",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "chat.migrations.0014_rename_freinds_friends_friends",
+        "description": "chat.migrations.0014_rename_freinds_friends_friends",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('chat', '0013_auto_20230904_1903'),\n    ]\n    operations = [\n        migrations.RenameField(\n            model_name='friends',\n            old_name='freinds',\n            new_name='friends',\n        ),",
+        "detail": "chat.migrations.0014_rename_freinds_friends_friends",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "chat.migrations.0015_rename_friends_friends_profile",
+        "description": "chat.migrations.0015_rename_friends_friends_profile",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('chat', '0014_rename_freinds_friends_friends'),\n    ]\n    operations = [\n        migrations.RenameField(\n            model_name='friends',\n            old_name='friends',\n            new_name='profile',\n        ),",
+        "detail": "chat.migrations.0015_rename_friends_friends_profile",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "chat.migrations.0016_rename_friends_message_message_friends",
+        "description": "chat.migrations.0016_rename_friends_message_message_friends",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('chat', '0015_rename_friends_friends_profile'),\n    ]\n    operations = [\n        migrations.RenameField(\n            model_name='message',\n            old_name='friends',\n            new_name='message_friends',\n        ),",
+        "detail": "chat.migrations.0016_rename_friends_message_message_friends",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "chat.migrations.0017_auto_20230904_2100",
+        "description": "chat.migrations.0017_auto_20230904_2100",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('chat', '0016_rename_friends_message_message_friends'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='message',\n            name='created_by',\n            field=models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, related_name='messages_created_by', to=settings.AUTH_USER_MODEL),",
+        "detail": "chat.migrations.0017_auto_20230904_2100",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "chat.migrations.0018_auto_20230904_2142",
+        "description": "chat.migrations.0018_auto_20230904_2142",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('chat', '0017_auto_20230904_2100'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='message',\n            name='message_friends',\n        ),",
+        "detail": "chat.migrations.0018_auto_20230904_2142",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "chat.migrations.0019_alter_message_image",
+        "description": "chat.migrations.0019_alter_message_image",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('chat', '0018_auto_20230904_2142'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='message',\n            name='image',\n            field=models.ImageField(default='user.png', null=True, upload_to='images/'),\n        ),",
+        "detail": "chat.migrations.0019_alter_message_image",
+        "documentation": {}
+    },
+    {
+        "label": "ChatConfig",
+        "kind": 6,
+        "importPath": "chat.apps",
+        "description": "chat.apps",
+        "peekOfCode": "class ChatConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'chat'",
+        "detail": "chat.apps",
+        "documentation": {}
+    },
+    {
+        "label": "EMOJIS",
+        "kind": 5,
+        "importPath": "chat.emojis",
+        "description": "chat.emojis",
+        "peekOfCode": "EMOJIS = [\n \"🥇\",  \"🥈\",  \"🥉\",  \"🆎\",  \"🏧\",  \"🅰️\",  \"🅰\",  \"🇦🇫\",  \"🇦🇱\",  \"🇩🇿\",  \"🇦🇸\",  \"🇦🇩\",  \"🇦🇴\",  \"🇦🇮\",  \"🇦🇶\",  \"🇦🇬\",  \"♒\",  \"🇦🇷\",  \"♈\",  \"🇦🇲\",  \"🇦🇼\",  \"🇦🇨\",  \"🇦🇺\",  \"🇦🇹\",  \"🇦🇿\",  \"🔙\",  \"🅱️\",  \"🅱\",  \"🇧🇸\",  \"🇧🇭\",  \"🇧🇩\",  \"🇧🇧\",  \"🇧🇾\",  \"🇧🇪\",  \"🇧🇿\",  \"🇧🇯\",  \"🇧🇲\",  \"🇧🇹\",  \"🇧🇴\",  \"🇧🇦\",  \"🇧🇼\",  \"🇧🇻\",  \"🇧🇷\",  \"🇮🇴\",  \"🇻🇬\",  \"🇧🇳\",  \"🇧🇬\",  \"🇧🇫\",  \"🇧🇮\",  \"🆑\",  \"🆒\",  \"🇰🇭\",  \"🇨🇲\",  \"🇨🇦\",  \"🇮🇨\",  \"♋\",  \"🇨🇻\",  \"♑\",  \"🇧🇶\",  \"🇰🇾\",  \"🇨🇫\",  \"🇪🇦\",  \"🇹🇩\",  \"🇨🇱\",  \"🇨🇳\",  \"🇨🇽\",  \"🎄\",  \"🇨🇵\",  \"🇨🇨\",  \"🇨🇴\",  \"🇰🇲\",  \"🇨🇬\",  \"🇨🇩\",  \"🇨🇰\",  \"🇨🇷\",  \"🇭🇷\",  \"🇨🇺\",  \"🇨🇼\",  \"🇨🇾\",  \"🇨🇿\",  \"🇨🇮\",  \"🇩🇰\",  \"🇩🇬\",  \"🇩🇯\",  \"🇩🇲\",  \"🇩🇴\",  \"🔚\",  \"🇪🇨\",  \"🇪🇬\",  \"🇸🇻\",  \"🏴󠁧󠁢󠁥󠁮󠁧󠁿\",  \"🇬🇶\",  \"🇪🇷\",  \"🇪🇪\",  \"🇸🇿\",  \"🇪🇹\",  \"🇪🇺\",  \"🆓\",  \"🇫🇰\",  \"🇫🇴\",  \"🇫🇯\",  \"🇫🇮\",  \"🇫🇷\",  \"🇬🇫\",  \"🇵🇫\",  \"🇹🇫\",  \"🇬🇦\",  \"🇬🇲\",  \"♊\",  \"🇬🇪\",  \"🇩🇪\",  \"🇬🇭\",  \"🇬🇮\",  \"🇬🇷\",  \"🇬🇱\",  \"🇬🇩\",  \"🇬🇵\",  \"🇬🇺\",  \"🇬🇹\",  \"🇬🇬\",  \"🇬🇳\",  \"🇬🇼\",  \"🇬🇾\",  \"🇭🇹\",  \"🇭🇲\",  \"🇭🇳\",  \"🇭🇰\",  \"🇭🇺\",  \"🆔\",  \"🇮🇸\",  \"🇮🇳\",  \"🇮🇩\",  \"🇮🇷\",  \"🇮🇶\",  \"🇮🇪\",  \"🇮🇲\",  \"🇮🇱\",  \"🇮🇹\",  \"🇯🇲\",  \"🇯🇵\",  \"🉑\",  \"🈸\",  \"🉐\",  \"🏯\",  \"㊗️\",  \"㊗\",  \"🈹\",  \"🎎\",  \"🈚\",  \"🈁\",  \"🈷️\",  \"🈷\",  \"🈵\",  \"🈶\",  \"🈺\",  \"🈴\",  \"🏣\",  \"🈲\",  \"🈯\",  \"㊙️\",  \"㊙\",  \"🈂️\",  \"🈂\",  \"🔰\",  \"🈳\",  \"🇯🇪\",  \"🇯🇴\",  \"🇰🇿\",  \"🇰🇪\",  \"🇰🇮\",  \"🇽🇰\",  \"🇰🇼\",  \"🇰🇬\",  \"🇱🇦\",  \"🇱🇻\",  \"🇱🇧\",  \"♌\",  \"🇱🇸\",  \"🇱🇷\",  \"♎\",  \"🇱🇾\",  \"🇱🇮\",  \"🇱🇹\",  \"🇱🇺\",  \"🇲🇴\",  \"🇲🇬\",  \"🇲🇼\",  \"🇲🇾\",  \"🇲🇻\",  \"🇲🇱\",  \"🇲🇹\",  \"🇲🇭\",  \"🇲🇶\",  \"🇲🇷\",  \"🇲🇺\",  \"🇾🇹\",  \"🇲🇽\",  \"🇫🇲\",  \"🇲🇩\",  \"🇲🇨\",  \"🇲🇳\",  \"🇲🇪\",  \"🇲🇸\",  \"🇲🇦\",  \"🇲🇿\",  \"🤶\",  \"🤶🏿\",  \"🤶🏻\",  \"🤶🏾\",  \"🤶🏼\",  \"🤶🏽\",  \"🇲🇲\",  \"🆕\",  \"🆖\",  \"🇳🇦\",  \"🇳🇷\",  \"🇳🇵\",  \"🇳🇱\",  \"🇳🇨\",  \"🇳🇿\",  \"🇳🇮\",  \"🇳🇪\",  \"🇳🇬\",  \"🇳🇺\",  \"🇳🇫\",  \"🇰🇵\",  \"🇲🇰\",  \"🇲🇵\",  \"🇳🇴\",  \"🆗\",  \"👌\",  \"👌🏿\",  \"👌🏻\",  \"👌🏾\",  \"👌🏼\",  \"👌🏽\",  \"🔛\",  \"🅾️\",  \"🅾\",  \"🇴🇲\",  \"⛎\",  \"🅿️\",  \"🅿\",  \"🇵🇰\",  \"🇵🇼\",  \"🇵🇸\",  \"🇵🇦\",  \"🇵🇬\",  \"🇵🇾\",  \"🇵🇪\",  \"🇵🇭\",  \"♓\",  \"🇵🇳\",  \"🇵🇱\",  \"🇵🇹\",  \"🇵🇷\",  \"🇶🇦\",  \"🇷🇴\",  \"🇷🇺\",  \"🇷🇼\",  \"🇷🇪\",  \"🔜\",  \"🆘\",  \"♐\",  \"🇼🇸\",  \"🇸🇲\",  \"🎅\",  \"🎅🏿\",  \"🎅🏻\",  \"🎅🏾\",  \"🎅🏼\",  \"🎅🏽\",  \"🇸🇦\",  \"♏\",  \"🏴󠁧󠁢󠁳󠁣󠁴󠁿\",  \"🇸🇳\",  \"🇷🇸\",  \"🇸🇨\",  \"🇸🇱\",  \"🇸🇬\",  \"🇸🇽\",  \"🇸🇰\",  \"🇸🇮\",  \"🇸🇧\",  \"🇸🇴\",  \"🇿🇦\",  \"🇬🇸\",  \"🇰🇷\",  \"🇸🇸\",  \"🇪🇸\",  \"🇱🇰\",  \"🇧🇱\",  \"🇸🇭\",  \"🇰🇳\",  \"🇱🇨\",  \"🇲🇫\",  \"🇵🇲\",  \"🇻🇨\",  \"🗽\",  \"🇸🇩\",  \"🇸🇷\",  \"🇸🇯\",  \"🇸🇪\",  \"🇨🇭\",  \"🇸🇾\",  \"🇸🇹\",  \"🦖\",  \"🔝\",  \"🇹🇼\",  \"🇹🇯\",  \"🇹🇿\",  \"♉\",  \"🇹🇭\",  \"🇹🇱\",  \"🇹🇬\",  \"🇹🇰\",  \"🗼\",  \"🇹🇴\",  \"🇹🇹\",  \"🇹🇦\",  \"🇹🇳\",  \"🇹🇷\",  \"🇹🇲\",  \"🇹🇨\",  \"🇹🇻\",  \"🇺🇲\",  \"🇻🇮\",  \"🆙\",  \"🇺🇬\",  \"🇺🇦\",  \"🇦🇪\",  \"🇬🇧\",  \"🇺🇳\",  \"🇺🇸\",  \"🇺🇾\",  \"🇺🇿\",  \"🆚\",  \"🇻🇺\",  \"🇻🇦\",  \"🇻🇪\",  \"🇻🇳\",  \"♍\",  \"🏴󠁧󠁢󠁷󠁬󠁳󠁿\",  \"🇼🇫\",  \"🇪🇭\",  \"🇾🇪\",  \"💤\",  \"🇿🇲\",  \"🇿🇼\",  \"🧮\",  \"🪗\",  \"🩹\",  \"🎟️\",  \"🎟\",  \"🚡\",  \"✈️\",  \"✈\",  \"🛬\",  \"🛫\",  \"⏰\",  \"⚗️\",  \"⚗\",  \"👽\",  \"👾\",  \"🚑\",  \"🏈\",  \"🏺\",  \"🫀\",  \"⚓\",  \"💢\",  \"😠\",  \"👿\",  \"😧\",  \"🐜\",  \"📶\",  \"😰\",  \"🚛\",  \"🧑‍🎨\",  \"🧑🏿‍🎨\",  \"🧑🏻‍🎨\",  \"🧑🏾‍🎨\",  \"🧑🏼‍🎨\",  \"🧑🏽‍🎨\",  \"🎨\",  \"😲\",  \"🧑‍🚀\",  \"🧑🏿‍🚀\",  \"🧑🏻‍🚀\",  \"🧑🏾‍🚀\",  \"🧑🏼‍🚀\",  \"🧑🏽‍🚀\",  \"⚛️\",  \"⚛\",  \"🛺\",  \"🚗\",  \"🥑\",  \"🪓\",  \"👶\",  \"👼\",  \"👼🏿\",  \"👼🏻\",  \"👼🏾\",  \"👼🏼\",  \"👼🏽\",  \"🍼\",  \"🐤\",  \"👶🏿\",  \"👶🏻\",  \"👶🏾\",  \"👶🏼\",  \"👶🏽\",  \"🚼\",  \"👇\",  \"👇🏿\",  \"👇🏻\",  \"👇🏾\",  \"👇🏼\",  \"👇🏽\",  \"👈\",  \"👈🏿\",  \"👈🏻\",  \"👈🏾\",  \"👈🏼\",  \"👈🏽\",  \"👉\",  \"👉🏿\",  \"👉🏻\",  \"👉🏾\",  \"👉🏼\",  \"👉🏽\",  \"👆\",  \"👆🏿\",  \"👆🏻\",  \"👆🏾\",  \"👆🏼\",  \"👆🏽\",  \"🎒\",  \"🥓\",  \"🦡\",  \"🏸\",  \"🥯\",  \"🛄\",  \"🥖\",  \"⚖️\",  \"⚖\",  \"🦲\",  \"🩰\",  \"🎈\",  \"🗳️\",  \"🗳\",  \"🍌\",  \"🪕\",  \"🏦\",  \"📊\",  \"💈\",  \"⚾\",  \"🧺\",  \"🏀\",  \"🦇\",  \"🛁\",  \"🔋\",  \"🏖️\",  \"🏖\",  \"😁\",  \"🫘\",  \"🐻\",  \"💓\",  \"🦫\",  \"🛏️\",  \"🛏\",  \"🍺\",  \"🪲\",  \"🔔\",  \"🫑\",  \"🔕\",  \"🛎️\",  \"🛎\",  \"🍱\",  \"🧃\",  \"🚲\",  \"👙\",  \"🧢\",  \"☣️\",  \"☣\",  \"🐦\",  \"🎂\",  \"🦬\",  \"🫦\",  \"🐦‍⬛\",  \"🐈‍⬛\",  \"⚫\",  \"🏴\",  \"🖤\",  \"⬛\",  \"◾\",  \"◼️\",  \"◼\",  \"✒️\",  \"✒\",  \"▪️\",  \"▪\",  \"🔲\",  \"🌼\",  \"🐡\",  \"📘\",  \"🔵\",  \"💙\",  \"🟦\",  \"🫐\",  \"🐗\",  \"💣\",  \"🦴\",  \"🔖\",  \"📑\",  \"📚\",  \"🪃\",  \"🍾\",  \"💐\",  \"🏹\",  \"🥣\",  \"🎳\",  \"🥊\",  \"👦\",  \"👦🏿\",  \"👦🏻\",  \"👦🏾\",  \"👦🏼\",  \"👦🏽\",  \"🧠\",  \"🍞\",  \"🤱\",  \"🤱🏿\",  \"🤱🏻\",  \"🤱🏾\",  \"🤱🏼\",  \"🤱🏽\",  \"🧱\",  \"🌉\",  \"💼\",  \"🩲\",  \"🔆\",  \"🥦\",  \"💔\",  \"🧹\",  \"🟤\",  \"🤎\",  \"🟫\",  \"🧋\",  \"🫧\",  \"🪣\",  \"🐛\",  \"🏗️\",  \"🏗\",  \"🚅\",  \"🎯\",  \"🌯\",  \"🚌\",  \"🚏\",  \"👤\",  \"👥\",  \"🧈\",  \"🦋\",  \"🌵\",  \"📅\",  \"🤙\",  \"🤙🏿\",  \"🤙🏻\",  \"🤙🏾\",  \"🤙🏼\",  \"🤙🏽\",  \"🐪\",  \"📷\",  \"📸\",  \"🏕️\",  \"🏕\",  \"🕯️\",  \"🕯\",  \"🍬\",  \"🥫\",  \"🛶\",  \"🗃️\",  \"🗃\",  \"📇\",  \"🗂️\",  \"🗂\",  \"🎠\",  \"🎏\",  \"🪚\",  \"🥕\",  \"🏰\",  \"🐈\",  \"🐱\",  \"😹\",  \"😼\",  \"⛓️\",  \"⛓\",  \"🪑\",  \"📉\",  \"📈\",  \"💹\",  \"☑️\",  \"☑\",  \"✔️\",  \"✔\",  \"✅\",  \"🧀\",  \"🏁\",  \"🍒\",  \"🌸\",  \"♟️\",  \"♟\",  \"🌰\",  \"🐔\",  \"🧒\",  \"🧒🏿\",  \"🧒🏻\",  \"🧒🏾\",  \"🧒🏼\",  \"🧒🏽\",  \"🚸\",  \"🐿️\",  \"🐿\",  \"🍫\",  \"🥢\",  \"⛪\",  \"🚬\",  \"🎦\",  \"Ⓜ️\",  \"Ⓜ\",  \"🎪\",  \"🏙️\",  \"🏙\",  \"🌆\",  \"🗜️\",  \"🗜\",  \"🎬\",  \"👏\",  \"👏🏿\",  \"👏🏻\",  \"👏🏾\",  \"👏🏼\",  \"👏🏽\",  \"🏛️\",  \"🏛\",  \"🍻\",  \"🥂\",  \"📋\",  \"🔃\",  \"📕\",  \"📪\",  \"📫\",  \"🌂\",  \"☁️\",  \"☁\",  \"🌩️\",  \"🌩\",  \"⛈️\",  \"⛈\",  \"🌧️\",  \"🌧\",  \"🌨️\",  \"🌨\",  \"🤡\",  \"♣️\",  \"♣\",  \"👝\",  \"🧥\",  \"🪳\",  \"🍸\",  \"🥥\",  \"⚰️\",  \"⚰\",  \"🪙\",  \"🥶\",  \"💥\",  \"☄️\",  \"☄\",  \"🧭\",  \"💽\",  \"🖱️\",  \"🖱\",  \"🎊\",  \"😖\",  \"😕\",  \"🚧\",  \"👷\",  \"👷🏿\",  \"👷🏻\",  \"👷🏾\",  \"👷🏼\",  \"👷🏽\",  \"🎛️\",  \"🎛\",  \"🏪\",  \"🧑‍🍳\",  \"🧑🏿‍🍳\",  \"🧑🏻‍🍳\",  \"🧑🏾‍🍳\",  \"🧑🏼‍🍳\",  \"🧑🏽‍🍳\",  \"🍚\",  \"🍪\",  \"🍳\",  \"©️\",  \"©\",  \"🪸\",  \"🛋️\",  \"🛋\",  \"🔄\",  \"💑\",  \"💑🏿\",  \"💑🏻\",  \"👨‍❤️‍👨\",  \"👨‍❤‍👨\",  \"👨🏿‍❤️‍👨🏿\",  \"👨🏿‍❤‍👨🏿\",  \"👨🏿‍❤️‍👨🏻\",  \"👨🏿‍❤‍👨🏻\",  \"👨🏿‍❤️‍👨🏾\",  \"👨🏿‍❤‍👨🏾\",  \"👨🏿‍❤️‍👨🏼\",  \"👨🏿‍❤‍👨🏼\",  \"👨🏿‍❤️‍👨🏽\",  \"👨🏿‍❤‍👨🏽\",  \"👨🏻‍❤️‍👨🏻\",  \"👨🏻‍❤‍👨🏻\",  \"👨🏻‍❤️‍👨🏿\",  \"👨🏻‍❤‍👨🏿\",  \"👨🏻‍❤️‍👨🏾\",  \"👨🏻‍❤‍👨🏾\",  \"👨🏻‍❤️‍👨🏼\",  \"👨🏻‍❤‍👨🏼\",  \"👨🏻‍❤️‍👨🏽\",  \"👨🏻‍❤‍👨🏽\",  \"👨🏾‍❤️‍👨🏾\",  \"👨🏾‍❤‍👨🏾\",  \"👨🏾‍❤️‍👨🏿\",  \"👨🏾‍❤‍👨🏿\",  \"👨🏾‍❤️‍👨🏻\",  \"👨🏾‍❤‍👨🏻\",  \"👨🏾‍❤️‍👨🏼\",  \"👨🏾‍❤‍👨🏼\",  \"👨🏾‍❤️‍👨🏽\",  \"👨🏾‍❤‍👨🏽\",  \"👨🏼‍❤️‍👨🏼\",  \"👨🏼‍❤‍👨🏼\",  \"👨🏼‍❤️‍👨🏿\",  \"👨🏼‍❤‍👨🏿\",  \"👨🏼‍❤️‍👨🏻\",  \"👨🏼‍❤‍👨🏻\",  \"👨🏼‍❤️‍👨🏾\",  \"👨🏼‍❤‍👨🏾\",  \"👨🏼‍❤️‍👨🏽\",  \"👨🏼‍❤‍👨🏽\",  \"👨🏽‍❤️‍👨🏽\",  \"👨🏽‍❤‍👨🏽\",  \"👨🏽‍❤️‍👨🏿\",  \"👨🏽‍❤‍👨🏿\",  \"👨🏽‍❤️‍👨🏻\",  \"👨🏽‍❤‍👨🏻\",  \"👨🏽‍❤️‍👨🏾\",  \"👨🏽‍❤‍👨🏾\",  \"👨🏽‍❤️‍👨🏼\",  \"👨🏽‍❤‍👨🏼\",  \"💑🏾\",  \"💑🏼\",  \"💑🏽\",  \"🧑🏿‍❤️‍🧑🏻\",  \"🧑🏿‍❤‍🧑🏻\",  \"🧑🏿‍❤️‍🧑🏾\",  \"🧑🏿‍❤‍🧑🏾\",  \"🧑🏿‍❤️‍🧑🏼\",  \"🧑🏿‍❤‍🧑🏼\",  \"🧑🏿‍❤️‍🧑🏽\",  \"🧑🏿‍❤‍🧑🏽\",  \"🧑🏻‍❤️‍🧑🏿\",  \"🧑🏻‍❤‍🧑🏿\",  \"🧑🏻‍❤️‍🧑🏾\",  \"🧑🏻‍❤‍🧑🏾\",  \"🧑🏻‍❤️‍🧑🏼\",  \"🧑🏻‍❤‍🧑🏼\",  \"🧑🏻‍❤️‍🧑🏽\",  \"🧑🏻‍❤‍🧑🏽\",  \"🧑🏾‍❤️‍🧑🏿\",  \"🧑🏾‍❤‍🧑🏿\",  \"🧑🏾‍❤️‍🧑🏻\",  \"🧑🏾‍❤‍🧑🏻\",  \"🧑🏾‍❤️‍🧑🏼\",  \"🧑🏾‍❤‍🧑🏼\",  \"🧑🏾‍❤️‍🧑🏽\",  \"🧑🏾‍❤‍🧑🏽\",  \"🧑🏼‍❤️‍🧑🏿\",  \"🧑🏼‍❤‍🧑🏿\",  \"🧑🏼‍❤️‍🧑🏻\",  \"🧑🏼‍❤‍🧑🏻\",  \"🧑🏼‍❤️‍🧑🏾\",  \"🧑🏼‍❤‍🧑🏾\",  \"🧑🏼‍❤️‍🧑🏽\",  \"🧑🏼‍❤‍🧑🏽\",  \"🧑🏽‍❤️‍🧑🏿\",  \"🧑🏽‍❤‍🧑🏿\",  \"🧑🏽‍❤️‍🧑🏻\",  \"🧑🏽‍❤‍🧑🏻\",  \"🧑🏽‍❤️‍🧑🏾\",  \"🧑🏽‍❤‍🧑🏾\",  \"🧑🏽‍❤️‍🧑🏼\",  \"🧑🏽‍❤‍🧑🏼\",  \"👩‍❤️‍👨\",  \"👩‍❤‍👨\",  \"👩🏿‍❤️‍👨🏿\",  \"👩🏿‍❤‍👨🏿\",  \"👩🏿‍❤️‍👨🏻\",  \"👩🏿‍❤‍👨🏻\",  \"👩🏿‍❤️‍👨🏾\",  \"👩🏿‍❤‍👨🏾\",  \"👩🏿‍❤️‍👨🏼\",  \"👩🏿‍❤‍👨🏼\",  \"👩🏿‍❤️‍👨🏽\",  \"👩🏿‍❤‍👨🏽\",  \"👩🏻‍❤️‍👨🏻\",  \"👩🏻‍❤‍👨🏻\",  \"👩🏻‍❤️‍👨🏿\",  \"👩🏻‍❤‍👨🏿\",  \"👩🏻‍❤️‍👨🏾\",  \"👩🏻‍❤‍👨🏾\",  \"👩🏻‍❤️‍👨🏼\",  \"👩🏻‍❤‍👨🏼\",  \"👩🏻‍❤️‍👨🏽\",  \"👩🏻‍❤‍👨🏽\",  \"👩🏾‍❤️‍👨🏾\",  \"👩🏾‍❤‍👨🏾\",  \"👩🏾‍❤️‍👨🏿\",  \"👩🏾‍❤‍👨🏿\",  \"👩🏾‍❤️‍👨🏻\",  \"👩🏾‍❤‍👨🏻\",  \"👩🏾‍❤️‍👨🏼\",  \"👩🏾‍❤‍👨🏼\",  \"👩🏾‍❤️‍👨🏽\",  \"👩🏾‍❤‍👨🏽\",  \"👩🏼‍❤️‍👨🏼\",  \"👩🏼‍❤‍👨🏼\",  \"👩🏼‍❤️‍👨🏿\",  \"👩🏼‍❤‍👨🏿\",  \"👩🏼‍❤️‍👨🏻\",  \"👩🏼‍❤‍👨🏻\",  \"👩🏼‍❤️‍👨🏾\",  \"👩🏼‍❤‍👨🏾\",  \"👩🏼‍❤️‍👨🏽\",  \"👩🏼‍❤‍👨🏽\",  \"👩🏽‍❤️‍👨🏽\",  \"👩🏽‍❤‍👨🏽\",  \"👩🏽‍❤️‍👨🏿\",  \"👩🏽‍❤‍👨🏿\",  \"👩🏽‍❤️‍👨🏻\",  \"👩🏽‍❤‍👨🏻\",  \"👩🏽‍❤️‍👨🏾\",  \"👩🏽‍❤‍👨🏾\",  \"👩🏽‍❤️‍👨🏼\",  \"👩🏽‍❤‍👨🏼\",  \"👩‍❤️‍👩\",  \"👩‍❤‍👩\",  \"👩🏿‍❤️‍👩🏿\",  \"👩🏿‍❤‍👩🏿\",  \"👩🏿‍❤️‍👩🏻\",  \"👩🏿‍❤‍👩🏻\",  \"👩🏿‍❤️‍👩🏾\",  \"👩🏿‍❤‍👩🏾\",  \"👩🏿‍❤️‍👩🏼\",  \"👩🏿‍❤‍👩🏼\",  \"👩🏿‍❤️‍👩🏽\",  \"👩🏿‍❤‍👩🏽\",  \"👩🏻‍❤️‍👩🏻\",  \"👩🏻‍❤‍👩🏻\",  \"👩🏻‍❤️‍👩🏿\",  \"👩🏻‍❤‍👩🏿\",  \"👩🏻‍❤️‍👩🏾\",  \"👩🏻‍❤‍👩🏾\",  \"👩🏻‍❤️‍👩🏼\",  \"👩🏻‍❤‍👩🏼\",  \"👩🏻‍❤️‍👩🏽\",  \"👩🏻‍❤‍👩🏽\",  \"👩🏾‍❤️‍👩🏾\",  \"👩🏾‍❤‍👩🏾\",  \"👩🏾‍❤️‍👩🏿\",  \"👩🏾‍❤‍👩🏿\",  \"👩🏾‍❤️‍👩🏻\",  \"👩🏾‍❤‍👩🏻\",  \"👩🏾‍❤️‍👩🏼\",  \"👩🏾‍❤‍👩🏼\",  \"👩🏾‍❤️‍👩🏽\",  \"👩🏾‍❤‍👩🏽\",  \"👩🏼‍❤️‍👩🏼\",  \"👩🏼‍❤‍👩🏼\",  \"👩🏼‍❤️‍👩🏿\",  \"👩🏼‍❤‍👩🏿\",  \"👩🏼‍❤️‍👩🏻\",  \"👩🏼‍❤‍👩🏻\",  \"👩🏼‍❤️‍👩🏾\",  \"👩🏼‍❤‍👩🏾\",  \"👩🏼‍❤️‍👩🏽\",  \"👩🏼‍❤‍👩🏽\",  \"👩🏽‍❤️‍👩🏽\",  \"👩🏽‍❤‍👩🏽\",  \"👩🏽‍❤️‍👩🏿\",  \"👩🏽‍❤‍👩🏿\",  \"👩🏽‍❤️‍👩🏻\",  \"👩🏽‍❤‍👩🏻\",  \"👩🏽‍❤️‍👩🏾\",  \"👩🏽‍❤‍👩🏾\",  \"👩🏽‍❤️‍👩🏼\",  \"👩🏽‍❤‍👩🏼\",  \"🐄\",  \"🐮\",  \"🤠\",  \"🦀\",  \"🖍️\",  \"🖍\",  \"💳\",  \"🌙\",  \"🦗\",  \"🏏\",  \"🐊\",  \"🥐\",  \"❌\",  \"❎\",  \"🤞\",  \"🤞🏿\",  \"🤞🏻\",  \"🤞🏾\",  \"🤞🏼\",  \"🤞🏽\",  \"🎌\",  \"⚔️\",  \"⚔\",  \"👑\",  \"🩼\",  \"😿\",  \"😢\",  \"🔮\",  \"🥒\",  \"🥤\",  \"🧁\",  \"🥌\",  \"🦱\",  \"➰\",  \"💱\",  \"🍛\",  \"🍮\",  \"🛃\",  \"🥩\",  \"🌀\",  \"🗡️\",  \"🗡\",  \"🍡\",  \"🏿\",  \"💨\",  \"🧏‍♂️\",  \"🧏‍♂\",  \"🧏🏿‍♂️\",  \"🧏🏿‍♂\",  \"🧏🏻‍♂️\",  \"🧏🏻‍♂\",  \"🧏🏾‍♂️\",  \"🧏🏾‍♂\",  \"🧏🏼‍♂️\",  \"🧏🏼‍♂\",  \"🧏🏽‍♂️\",  \"🧏🏽‍♂\",  \"🧏\",  \"🧏🏿\",  \"🧏🏻\",  \"🧏🏾\",  \"🧏🏼\",  \"🧏🏽\",  \"🧏‍♀️\",  \"🧏‍♀\",  \"🧏🏿‍♀️\",  \"🧏🏿‍♀\",  \"🧏🏻‍♀️\",  \"🧏🏻‍♀\",  \"🧏🏾‍♀️\",  \"🧏🏾‍♀\",  \"🧏🏼‍♀️\",  \"🧏🏼‍♀\",  \"🧏🏽‍♀️\",  \"🧏🏽‍♀\",  \"🌳\",  \"🦌\",  \"🚚\",  \"🏬\",  \"🏚️\",  \"🏚\",  \"🏜️\",  \"🏜\",  \"🏝️\",  \"🏝\",  \"🖥️\",  \"🖥\",  \"🕵️\",  \"🕵\",  \"🕵🏿\",  \"🕵🏻\",  \"🕵🏾\",  \"🕵🏼\",  \"🕵🏽\",  \"♦️\",  \"♦\",  \"💠\",  \"🔅\",  \"😞\",  \"🥸\",  \"➗\",  \"🤿\",  \"🪔\",  \"💫\",  \"🧬\",  \"🦤\",  \"🐕\",  \"🐶\",  \"💵\",  \"🐬\",  \"🫏\",  \"🚪\",  \"🫥\",  \"🔯\",  \"➿\",  \"‼️\",  \"‼\",  \"🍩\",  \"🕊️\",  \"🕊\",  \"↙️\",  \"↙\",  \"↘️\",  \"↘\",  \"⬇️\",  \"⬇\",  \"😓\",  \"🔽\",  \"🐉\",  \"🐲\",  \"👗\",  \"🤤\",  \"🩸\",  \"💧\",  \"🥁\",  \"🦆\",  \"🥟\",  \"📀\",  \"📧\",  \"🦅\",  \"👂\",  \"👂🏿\",  \"👂🏻\",  \"👂🏾\",  \"👂🏼\",  \"👂🏽\",  \"🌽\",  \"🦻\",  \"🦻🏿\",  \"🦻🏻\",  \"🦻🏾\",  \"🦻🏼\",  \"🦻🏽\",  \"🥚\",  \"🍆\",  \"✴️\",  \"✴\",  \"✳️\",  \"✳\",  \"🕣\",  \"🕗\",  \"⏏️\",  \"⏏\",  \"🔌\",  \"🐘\",  \"🛗\",  \"🕦\",  \"🕚\",  \"🧝\",  \"🧝🏿\",  \"🧝🏻\",  \"🧝🏾\",  \"🧝🏼\",  \"🧝🏽\",  \"🪹\",  \"😡\",  \"✉️\",  \"✉\",  \"📩\",  \"💶\",  \"🌲\",  \"🐑\",  \"⁉️\",  \"⁉\",  \"🤯\",  \"😑\",  \"👁️\",  \"👁\",  \"👁️‍🗨️\",  \"👁‍🗨️\",  \"👁️‍🗨\",  \"👁‍🗨\",  \"👀\",  \"😘\",  \"😮‍💨\",  \"🥹\",  \"😶‍🌫️\",  \"😶‍🌫\",  \"😋\",  \"😱\",  \"🤮\",  \"😵\",  \"🫤\",  \"🤭\",  \"🤕\",  \"😷\",  \"🧐\",  \"🫢\",  \"😮\",  \"🫣\",  \"🤨\",  \"🙄\",  \"😵‍💫\",  \"😤\",  \"🤬\",  \"😂\",  \"🤒\",  \"😛\",  \"😶\",  \"🏭\",  \"🧑‍🏭\",  \"🧑🏿‍🏭\",  \"🧑🏻‍🏭\",  \"🧑🏾‍🏭\",  \"🧑🏼‍🏭\",  \"🧑🏽‍🏭\",  \"🧚\",  \"🧚🏿\",  \"🧚🏻\",  \"🧚🏾\",  \"🧚🏼\",  \"🧚🏽\",  \"🧆\",  \"🍂\",  \"👪\",  \"👨‍👦\",  \"👨‍👦‍👦\",  \"👨‍👧\",  \"👨‍👧‍👦\",  \"👨‍👧‍👧\",  \"👨‍👨‍👦\",  \"👨‍👨‍👦‍👦\",  \"👨‍👨‍👧\",  \"👨‍👨‍👧‍👦\",  \"👨‍👨‍👧‍👧\",  \"👨‍👩‍👦\",  \"👨‍👩‍👦‍👦\",  \"👨‍👩‍👧\",  \"👨‍👩‍👧‍👦\",  \"👨‍👩‍👧‍👧\",  \"👩‍👦\",  \"👩‍👦‍👦\",  \"👩‍👧\",  \"👩‍👧‍👦\",  \"👩‍👧‍👧\",  \"👩‍👩‍👦\",  \"👩‍👩‍👦‍👦\",  \"👩‍👩‍👧\",  \"👩‍👩‍👧‍👦\",  \"👩‍👩‍👧‍👧\",  \"🧑‍🌾\",  \"🧑🏿‍🌾\",  \"🧑🏻‍🌾\",  \"🧑🏾‍🌾\",  \"🧑🏼‍🌾\",  \"🧑🏽‍🌾\",  \"⏩\",  \"⏬\",  \"⏪\",  \"⏫\",  \"📠\",  \"😨\",  \"🪶\",  \"♀️\",  \"♀\",  \"🎡\",  \"⛴️\",  \"⛴\",  \"🏑\",  \"🗄️\",  \"🗄\",  \"📁\",  \"🎞️\",  \"🎞\",  \"📽️\",  \"📽\",  \"🔥\",  \"🚒\",  \"🧯\",  \"🧨\",  \"🧑‍🚒\",  \"🧑🏿‍🚒\",  \"🧑🏻‍🚒\",  \"🧑🏾‍🚒\",  \"🧑🏼‍🚒\",  \"🧑🏽‍🚒\",  \"🎆\",  \"🌓\",  \"🌛\",  \"🐟\",  \"🍥\",  \"🎣\",  \"🕠\",  \"🕔\",  \"⛳\",  \"🦩\",  \"🔦\",  \"🥿\",  \"🫓\",  \"⚜️\",  \"⚜\",  \"💪\",  \"💪🏿\",  \"💪🏻\",  \"💪🏾\",  \"💪🏼\",  \"💪🏽\",  \"💾\",  \"🎴\",  \"😳\",  \"🪈\",  \"🪰\",  \"🥏\",  \"🛸\",  \"🌫️\",  \"🌫\",  \"🌁\",  \"🙏\",  \"🙏🏿\",  \"🙏🏻\",  \"🙏🏾\",  \"🙏🏼\",  \"🙏🏽\",  \"🪭\",  \"🫕\",  \"🦶\",  \"🦶🏿\",  \"🦶🏻\",  \"🦶🏾\",  \"🦶🏼\",  \"🦶🏽\",  \"👣\",  \"🍴\",  \"🍽️\",  \"🍽\",  \"🥠\",  \"⛲\",  \"🖋️\",  \"🖋\",  \"🕟\",  \"🍀\",  \"🕓\",  \"🦊\",  \"🖼️\",  \"🖼\",  \"🍟\",  \"🍤\",  \"🐸\",  \"🐥\",  \"☹️\",  \"☹\",  \"😦\",  \"⛽\",  \"🌕\",  \"🌝\",  \"⚱️\",  \"⚱\",  \"🎲\",  \"🧄\",  \"⚙️\",  \"⚙\",  \"💎\",  \"🧞\",  \"👻\",  \"🫚\",  \"🦒\",  \"👧\",  \"👧🏿\",  \"👧🏻\",  \"👧🏾\",  \"👧🏼\",  \"👧🏽\",  \"🥛\",  \"👓\",  \"🌎\",  \"🌏\",  \"🌍\",  \"🌐\",  \"🧤\",  \"🌟\",  \"🥅\",  \"🐐\",  \"👺\",  \"🥽\",  \"🪿\",  \"🦍\",  \"🎓\",  \"🍇\",  \"🍏\",  \"📗\",  \"🟢\",  \"💚\",  \"🥗\",  \"🟩\",  \"🩶\",  \"😬\",  \"😺\",  \"😸\",  \"😀\",  \"😃\",  \"😄\",  \"😅\",  \"😆\",  \"💗\",  \"💂\",  \"💂🏿\",  \"💂🏻\",  \"💂🏾\",  \"💂🏼\",  \"💂🏽\",  \"🦮\",  \"🎸\",  \"🪮\",  \"🍔\",  \"🔨\",  \"⚒️\",  \"⚒\",  \"🛠️\",  \"🛠\",  \"🪬\",  \"🐹\",  \"🖐️\",  \"🖐\",  \"🖐🏿\",  \"🖐🏻\",  \"🖐🏾\",  \"🖐🏼\",  \"🖐🏽\",  \"🫰\",  \"🫰🏿\",  \"🫰🏻\",  \"🫰🏾\",  \"🫰🏼\",  \"🫰🏽\",  \"👜\",  \"🤝\",  \"🤝🏿\",  \"🫱🏿‍🫲🏻\",  \"🫱🏿‍🫲🏾\",  \"🫱🏿‍🫲🏼\",  \"🫱🏿‍🫲🏽\",  \"🤝🏻\",  \"🫱🏻‍🫲🏿\",  \"🫱🏻‍🫲🏾\",  \"🫱🏻‍🫲🏼\",  \"🫱🏻‍🫲🏽\",  \"🤝🏾\",  \"🫱🏾‍🫲🏿\",  \"🫱🏾‍🫲🏻\",  \"🫱🏾‍🫲🏼\",  \"🫱🏾‍🫲🏽\",  \"🤝🏼\",  \"🫱🏼‍🫲🏿\",  \"🫱🏼‍🫲🏻\",  \"🫱🏼‍🫲🏾\",  \"🫱🏼‍🫲🏽\",  \"🤝🏽\",  \"🫱🏽‍🫲🏿\",  \"🫱🏽‍🫲🏻\",  \"🫱🏽‍🫲🏾\",  \"🫱🏽‍🫲🏼\",  \"🐣\",  \"🎧\",  \"🪦\",  \"🧑‍⚕️\",  \"🧑‍⚕\",  \"🧑🏿‍⚕️\",  \"🧑🏿‍⚕\",  \"🧑🏻‍⚕️\",  \"🧑🏻‍⚕\",  \"🧑🏾‍⚕️\",  \"🧑🏾‍⚕\",  \"🧑🏼‍⚕️\",  \"🧑🏼‍⚕\",  \"🧑🏽‍⚕️\",  \"🧑🏽‍⚕\",  \"🙉\",  \"💟\",  \"❣️\",  \"❣\",  \"🫶\",  \"🫶🏿\",  \"🫶🏻\",  \"🫶🏾\",  \"🫶🏼\",  \"🫶🏽\",  \"❤️‍🔥\",  \"❤‍🔥\",  \"♥️\",  \"♥\",  \"💘\",  \"💝\",  \"💲\",  \"🟰\",  \"🦔\",  \"🚁\",  \"🌿\",  \"🌺\",  \"👠\",  \"🚄\",  \"⚡\",  \"🥾\",  \"🛕\",  \"🦛\",  \"🕳️\",  \"🕳\",  \"⭕\",  \"🍯\",  \"🐝\",  \"🪝\",  \"🚥\",  \"🐎\",  \"🐴\",  \"🏇\",  \"🏇🏿\",  \"🏇🏻\",  \"🏇🏾\",  \"🏇🏼\",  \"🏇🏽\",  \"🏥\",  \"☕\",  \"🌭\",  \"🥵\",  \"🌶️\",  \"🌶\",  \"♨️\",  \"♨\",  \"🏨\",  \"⌛\",  \"⏳\",  \"🏠\",  \"🏡\",  \"🏘️\",  \"🏘\",  \"💯\",  \"😯\",  \"🛖\",  \"🪻\",  \"🧊\",  \"🍨\",  \"🏒\",  \"⛸️\",  \"⛸\",  \"🪪\",  \"📥\",  \"📨\",  \"🫵\",  \"🫵🏿\",  \"🫵🏻\",  \"🫵🏾\",  \"🫵🏼\",  \"🫵🏽\",  \"☝️\",  \"☝\",  \"☝🏿\",  \"☝🏻\",  \"☝🏾\",  \"☝🏼\",  \"☝🏽\",  \"♾️\",  \"♾\",  \"ℹ️\",  \"ℹ\",  \"🔤\",  \"🔡\",  \"🔠\",  \"🔢\",  \"🔣\",  \"🎃\",  \"🫙\",  \"👖\",  \"🪼\",  \"🃏\",  \"🕹️\",  \"🕹\",  \"🧑‍⚖️\",  \"🧑‍⚖\",  \"🧑🏿‍⚖️\",  \"🧑🏿‍⚖\",  \"🧑🏻‍⚖️\",  \"🧑🏻‍⚖\",  \"🧑🏾‍⚖️\",  \"🧑🏾‍⚖\",  \"🧑🏼‍⚖️\",  \"🧑🏼‍⚖\",  \"🧑🏽‍⚖️\",  \"🧑🏽‍⚖\",  \"🕋\",  \"🦘\",  \"🔑\",  \"⌨️\",  \"⌨\",  \"#️⃣\",  \"#⃣\",  \"*️⃣\",  \"*⃣\",  \"0️⃣\",  \"0⃣\",  \"1️⃣\",  \"1⃣\",  \"🔟\",  \"2️⃣\",  \"2⃣\",  \"3️⃣\",  \"3⃣\",  \"4️⃣\",  \"4⃣\",  \"5️⃣\",  \"5⃣\",  \"6️⃣\",  \"6⃣\",  \"7️⃣\",  \"7⃣\",  \"8️⃣\",  \"8⃣\",  \"9️⃣\",  \"9⃣\",  \"🪯\",  \"🛴\",  \"👘\",  \"💏\",  \"💏🏿\",  \"💏🏻\",  \"👨‍❤️‍💋‍👨\",  \"👨‍❤‍💋‍👨\",  \"👨🏿‍❤️‍💋‍👨🏿\",  \"👨🏿‍❤‍💋‍👨🏿\",  \"👨🏿‍❤️‍💋‍👨🏻\",  \"👨🏿‍❤‍💋‍👨🏻\",  \"👨🏿‍❤️‍💋‍👨🏾\",  \"👨🏿‍❤‍💋‍👨🏾\",  \"👨🏿‍❤️‍💋‍👨🏼\",  \"👨🏿‍❤‍💋‍👨🏼\",  \"👨🏿‍❤️‍💋‍👨🏽\",  \"👨🏿‍❤‍💋‍👨🏽\",  \"👨🏻‍❤️‍💋‍👨🏻\",  \"👨🏻‍❤‍💋‍👨🏻\",  \"👨🏻‍❤️‍💋‍👨🏿\",  \"👨🏻‍❤‍💋‍👨🏿\",  \"👨🏻‍❤️‍💋‍👨🏾\",  \"👨🏻‍❤‍💋‍👨🏾\",  \"👨🏻‍❤️‍💋‍👨🏼\",  \"👨🏻‍❤‍💋‍👨🏼\",  \"👨🏻‍❤️‍💋‍👨🏽\",  \"👨🏻‍❤‍💋‍👨🏽\",  \"👨🏾‍❤️‍💋‍👨🏾\",  \"👨🏾‍❤‍💋‍👨🏾\",  \"👨🏾‍❤️‍💋‍👨🏿\",  \"👨🏾‍❤‍💋‍👨🏿\",  \"👨🏾‍❤️‍💋‍👨🏻\",  \"👨🏾‍❤‍💋‍👨🏻\",  \"👨🏾‍❤️‍💋‍👨🏼\",  \"👨🏾‍❤‍💋‍👨🏼\",  \"👨🏾‍❤️‍💋‍👨🏽\",  \"👨🏾‍❤‍💋‍👨🏽\",  \"👨🏼‍❤️‍💋‍👨🏼\",  \"👨🏼‍❤‍💋‍👨🏼\",  \"👨🏼‍❤️‍💋‍👨🏿\",  \"👨🏼‍❤‍💋‍👨🏿\",  \"👨🏼‍❤️‍💋‍👨🏻\",  \"👨🏼‍❤‍💋‍👨🏻\",  \"👨🏼‍❤️‍💋‍👨🏾\",  \"👨🏼‍❤‍💋‍👨🏾\",  \"👨🏼‍❤️‍💋‍👨🏽\",  \"👨🏼‍❤‍💋‍👨🏽\",  \"👨🏽‍❤️‍💋‍👨🏽\",  \"👨🏽‍❤‍💋‍👨🏽\",  \"👨🏽‍❤️‍💋‍👨🏿\",  \"👨🏽‍❤‍💋‍👨🏿\",  \"👨🏽‍❤️‍💋‍👨🏻\",  \"👨🏽‍❤‍💋‍👨🏻\",  \"👨🏽‍❤️‍💋‍👨🏾\",  \"👨🏽‍❤‍💋‍👨🏾\",  \"👨🏽‍❤️‍💋‍👨🏼\",  \"👨🏽‍❤‍💋‍👨🏼\",  \"💋\",  \"💏🏾\",  \"💏🏼\",  \"💏🏽\",  \"🧑🏿‍❤️‍💋‍🧑🏻\",  \"🧑🏿‍❤‍💋‍🧑🏻\",  \"🧑🏿‍❤️‍💋‍🧑🏾\",  \"🧑🏿‍❤‍💋‍🧑🏾\",  \"🧑🏿‍❤️‍💋‍🧑🏼\",  \"🧑🏿‍❤‍💋‍🧑🏼\",  \"🧑🏿‍❤️‍💋‍🧑🏽\",  \"🧑🏿‍❤‍💋‍🧑🏽\",  \"🧑🏻‍❤️‍💋‍🧑🏿\",  \"🧑🏻‍❤‍💋‍🧑🏿\",  \"🧑🏻‍❤️‍💋‍🧑🏾\",  \"🧑🏻‍❤‍💋‍🧑🏾\",  \"🧑🏻‍❤️‍💋‍🧑🏼\",  \"🧑🏻‍❤‍💋‍🧑🏼\",  \"🧑🏻‍❤️‍💋‍🧑🏽\",  \"🧑🏻‍❤‍💋‍🧑🏽\",  \"🧑🏾‍❤️‍💋‍🧑🏿\",  \"🧑🏾‍❤‍💋‍🧑🏿\",  \"🧑🏾‍❤️‍💋‍🧑🏻\",  \"🧑🏾‍❤‍💋‍🧑🏻\",  \"🧑🏾‍❤️‍💋‍🧑🏼\",  \"🧑🏾‍❤‍💋‍🧑🏼\",  \"🧑🏾‍❤️‍💋‍🧑🏽\",  \"🧑🏾‍❤‍💋‍🧑🏽\",  \"🧑🏼‍❤️‍💋‍🧑🏿\",  \"🧑🏼‍❤‍💋‍🧑🏿\",  \"🧑🏼‍❤️‍💋‍🧑🏻\",  \"🧑🏼‍❤‍💋‍🧑🏻\",  \"🧑🏼‍❤️‍💋‍🧑🏾\",  \"🧑🏼‍❤‍💋‍🧑🏾\",  \"🧑🏼‍❤️‍💋‍🧑🏽\",  \"🧑🏼‍❤‍💋‍🧑🏽\",  \"🧑🏽‍❤️‍💋‍🧑🏿\",  \"🧑🏽‍❤‍💋‍🧑🏿\",  \"🧑🏽‍❤️‍💋‍🧑🏻\",  \"🧑🏽‍❤‍💋‍🧑🏻\",  \"🧑🏽‍❤️‍💋‍🧑🏾\",  \"🧑🏽‍❤‍💋‍🧑🏾\",  \"🧑🏽‍❤️‍💋‍🧑🏼\",  \"🧑🏽‍❤‍💋‍🧑🏼\",  \"👩‍❤️‍💋‍👨\",  \"👩‍❤‍💋‍👨\",  \"👩🏿‍❤️‍💋‍👨🏿\",  \"👩🏿‍❤‍💋‍👨🏿\",  \"👩🏿‍❤️‍💋‍👨🏻\",  \"👩🏿‍❤‍💋‍👨🏻\",  \"👩🏿‍❤️‍💋‍👨🏾\",  \"👩🏿‍❤‍💋‍👨🏾\",  \"👩🏿‍❤️‍💋‍👨🏼\",  \"👩🏿‍❤‍💋‍👨🏼\",  \"👩🏿‍❤️‍💋‍👨🏽\",  \"👩🏿‍❤‍💋‍👨🏽\",  \"👩🏻‍❤️‍💋‍👨🏻\",  \"👩🏻‍❤‍💋‍👨🏻\",  \"👩🏻‍❤️‍💋‍👨🏿\",  \"👩🏻‍❤‍💋‍👨🏿\",  \"👩🏻‍❤️‍💋‍👨🏾\",  \"👩🏻‍❤‍💋‍👨🏾\",  \"👩🏻‍❤️‍💋‍👨🏼\",  \"👩🏻‍❤‍💋‍👨🏼\",  \"👩🏻‍❤️‍💋‍👨🏽\",  \"👩🏻‍❤‍💋‍👨🏽\",  \"👩🏾‍❤️‍💋‍👨🏾\",  \"👩🏾‍❤‍💋‍👨🏾\",  \"👩🏾‍❤️‍💋‍👨🏿\",  \"👩🏾‍❤‍💋‍👨🏿\",  \"👩🏾‍❤️‍💋‍👨🏻\",  \"👩🏾‍❤‍💋‍👨🏻\",  \"👩🏾‍❤️‍💋‍👨🏼\",  \"👩🏾‍❤‍💋‍👨🏼\",  \"👩🏾‍❤️‍💋‍👨🏽\",  \"👩🏾‍❤‍💋‍👨🏽\",  \"👩🏼‍❤️‍💋‍👨🏼\",  \"👩🏼‍❤‍💋‍👨🏼\",  \"👩🏼‍❤️‍💋‍👨🏿\",  \"👩🏼‍❤‍💋‍👨🏿\",  \"👩🏼‍❤️‍💋‍👨🏻\",  \"👩🏼‍❤‍💋‍👨🏻\",  \"👩🏼‍❤️‍💋‍👨🏾\",  \"👩🏼‍❤‍💋‍👨🏾\",  \"👩🏼‍❤️‍💋‍👨🏽\",  \"👩🏼‍❤‍💋‍👨🏽\",  \"👩🏽‍❤️‍💋‍👨🏽\",  \"👩🏽‍❤‍💋‍👨🏽\",  \"👩🏽‍❤️‍💋‍👨🏿\",  \"👩🏽‍❤‍💋‍👨🏿\",  \"👩🏽‍❤️‍💋‍👨🏻\",  \"👩🏽‍❤‍💋‍👨🏻\",  \"👩🏽‍❤️‍💋‍👨🏾\",  \"👩🏽‍❤‍💋‍👨🏾\",  \"👩🏽‍❤️‍💋‍👨🏼\",  \"👩🏽‍❤‍💋‍👨🏼\",  \"👩‍❤️‍💋‍👩\",  \"👩‍❤‍💋‍👩\",  \"👩🏿‍❤️‍💋‍👩🏿\",  \"👩🏿‍❤‍💋‍👩🏿\",  \"👩🏿‍❤️‍💋‍👩🏻\",  \"👩🏿‍❤‍💋‍👩🏻\",  \"👩🏿‍❤️‍💋‍👩🏾\",  \"👩🏿‍❤‍💋‍👩🏾\",  \"👩🏿‍❤️‍💋‍👩🏼\",  \"👩🏿‍❤‍💋‍👩🏼\",  \"👩🏿‍❤️‍💋‍👩🏽\",  \"👩🏿‍❤‍💋‍👩🏽\",  \"👩🏻‍❤️‍💋‍👩🏻\",  \"👩🏻‍❤‍💋‍👩🏻\",  \"👩🏻‍❤️‍💋‍👩🏿\",  \"👩🏻‍❤‍💋‍👩🏿\",  \"👩🏻‍❤️‍💋‍👩🏾\",  \"👩🏻‍❤‍💋‍👩🏾\",  \"👩🏻‍❤️‍💋‍👩🏼\",  \"👩🏻‍❤‍💋‍👩🏼\",  \"👩🏻‍❤️‍💋‍👩🏽\",  \"👩🏻‍❤‍💋‍👩🏽\",  \"👩🏾‍❤️‍💋‍👩🏾\",  \"👩🏾‍❤‍💋‍👩🏾\",  \"👩🏾‍❤️‍💋‍👩🏿\",  \"👩🏾‍❤‍💋‍👩🏿\",  \"👩🏾‍❤️‍💋‍👩🏻\",  \"👩🏾‍❤‍💋‍👩🏻\",  \"👩🏾‍❤️‍💋‍👩🏼\",  \"👩🏾‍❤‍💋‍👩🏼\",  \"👩🏾‍❤️‍💋‍👩🏽\",  \"👩🏾‍❤‍💋‍👩🏽\",  \"👩🏼‍❤️‍💋‍👩🏼\",  \"👩🏼‍❤‍💋‍👩🏼\",  \"👩🏼‍❤️‍💋‍👩🏿\",  \"👩🏼‍❤‍💋‍👩🏿\",  \"👩🏼‍❤️‍💋‍👩🏻\",  \"👩🏼‍❤‍💋‍👩🏻\",  \"👩🏼‍❤️‍💋‍👩🏾\",  \"👩🏼‍❤‍💋‍👩🏾\",  \"👩🏼‍❤️‍💋‍👩🏽\",  \"👩🏼‍❤‍💋‍👩🏽\",  \"👩🏽‍❤️‍💋‍👩🏽\",  \"👩🏽‍❤‍💋‍👩🏽\",  \"👩🏽‍❤️‍💋‍👩🏿\",  \"👩🏽‍❤‍💋‍👩🏿\",  \"👩🏽‍❤️‍💋‍👩🏻\",  \"👩🏽‍❤‍💋‍👩🏻\",  \"👩🏽‍❤️‍💋‍👩🏾\",  \"👩🏽‍❤‍💋‍👩🏾\",  \"👩🏽‍❤️‍💋‍👩🏼\",  \"👩🏽‍❤‍💋‍👩🏼\",  \"😽\",  \"😗\",  \"😚\",  \"😙\",  \"🔪\",  \"🪁\",  \"🥝\",  \"🪢\",  \"🐨\",  \"🥼\",  \"🏷️\",  \"🏷\",  \"🥍\",  \"🪜\",  \"🐞\",  \"💻\",  \"🔷\",  \"🔶\",  \"🌗\",  \"🌜\",  \"⏮️\",  \"⏮\",  \"✝️\",  \"✝\",  \"🍃\",  \"🥬\",  \"📒\",  \"🤛\",  \"🤛🏿\",  \"🤛🏻\",  \"🤛🏾\",  \"🤛🏼\",  \"🤛🏽\",  \"↔️\",  \"↔\",  \"⬅️\",  \"⬅\",  \"↪️\",  \"↪\",  \"🛅\",  \"🗨️\",  \"🗨\",  \"🫲\",  \"🫲🏿\",  \"🫲🏻\",  \"🫲🏾\",  \"🫲🏼\",  \"🫲🏽\",  \"🫷\",  \"🫷🏿\",  \"🫷🏻\",  \"🫷🏾\",  \"🫷🏼\",  \"🫷🏽\",  \"🦵\",  \"🦵🏿\",  \"🦵🏻\",  \"🦵🏾\",  \"🦵🏼\",  \"🦵🏽\",  \"🍋\",  \"🐆\",  \"🎚️\",  \"🎚\",  \"🩵\",  \"💡\",  \"🚈\",  \"🏻\",  \"🔗\",  \"🖇️\",  \"🖇\",  \"🦁\",  \"💄\",  \"🚮\",  \"🦎\",  \"🦙\",  \"🦞\",  \"🔒\",  \"🔐\",  \"🔏\",  \"🚂\",  \"🍭\",  \"🪘\",  \"🧴\",  \"🪷\",  \"😭\",  \"📢\",  \"🤟\",  \"🤟🏿\",  \"🤟🏻\",  \"🤟🏾\",  \"🤟🏼\",  \"🤟🏽\",  \"🏩\",  \"💌\",  \"🪫\",  \"🧳\",  \"🫁\",  \"🤥\",  \"🧙\",  \"🧙🏿\",  \"🧙🏻\",  \"🧙🏾\",  \"🧙🏼\",  \"🧙🏽\",  \"🪄\",  \"🧲\",  \"🔍\",  \"🔎\",  \"🀄\",  \"♂️\",  \"♂\",  \"🦣\",  \"👨\",  \"👨‍🎨\",  \"👨🏿‍🎨\",  \"👨🏻‍🎨\",  \"👨🏾‍🎨\",  \"👨🏼‍🎨\",  \"👨🏽‍🎨\",  \"👨‍🚀\",  \"👨🏿‍🚀\",  \"👨🏻‍🚀\",  \"👨🏾‍🚀\",  \"👨🏼‍🚀\",  \"👨🏽‍🚀\",  \"👨‍🦲\",  \"🧔‍♂️\",  \"🧔‍♂\",  \"🚴‍♂️\",  \"🚴‍♂\",  \"🚴🏿‍♂️\",  \"🚴🏿‍♂\",  \"🚴🏻‍♂️\",  \"🚴🏻‍♂\",  \"🚴🏾‍♂️\",  \"🚴🏾‍♂\",  \"🚴🏼‍♂️\",  \"🚴🏼‍♂\",  \"🚴🏽‍♂️\",  \"🚴🏽‍♂\",  \"👱‍♂️\",  \"👱‍♂\",  \"⛹️‍♂️\",  \"⛹‍♂️\",  \"⛹️‍♂\",  \"⛹‍♂\",  \"⛹🏿‍♂️\",  \"⛹🏿‍♂\",  \"⛹🏻‍♂️\",  \"⛹🏻‍♂\",  \"⛹🏾‍♂️\",  \"⛹🏾‍♂\",  \"⛹🏼‍♂️\",  \"⛹🏼‍♂\",  \"⛹🏽‍♂️\",  \"⛹🏽‍♂\",  \"🙇‍♂️\",  \"🙇‍♂\",  \"🙇🏿‍♂️\",  \"🙇🏿‍♂\",  \"🙇🏻‍♂️\",  \"🙇🏻‍♂\",  \"🙇🏾‍♂️\",  \"🙇🏾‍♂\",  \"🙇🏼‍♂️\",  \"🙇🏼‍♂\",  \"🙇🏽‍♂️\",  \"🙇🏽‍♂\",  \"🤸‍♂️\",  \"🤸‍♂\",  \"🤸🏿‍♂️\",  \"🤸🏿‍♂\",  \"🤸🏻‍♂️\",  \"🤸🏻‍♂\",  \"🤸🏾‍♂️\",  \"🤸🏾‍♂\",  \"🤸🏼‍♂️\",  \"🤸🏼‍♂\",  \"🤸🏽‍♂️\",  \"🤸🏽‍♂\",  \"🧗‍♂️\",  \"🧗‍♂\",  \"🧗🏿‍♂️\",  \"🧗🏿‍♂\",  \"🧗🏻‍♂️\",  \"🧗🏻‍♂\",  \"🧗🏾‍♂️\",  \"🧗🏾‍♂\",  \"🧗🏼‍♂️\",  \"🧗🏼‍♂\",  \"🧗🏽‍♂️\",  \"🧗🏽‍♂\",  \"👷‍♂️\",  \"👷‍♂\",  \"👷🏿‍♂️\",  \"👷🏿‍♂\",  \"👷🏻‍♂️\",  \"👷🏻‍♂\",  \"👷🏾‍♂️\",  \"👷🏾‍♂\",  \"👷🏼‍♂️\",  \"👷🏼‍♂\",  \"👷🏽‍♂️\",  \"👷🏽‍♂\",  \"👨‍🍳\",  \"👨🏿‍🍳\",  \"👨🏻‍🍳\",  \"👨🏾‍🍳\",  \"👨🏼‍🍳\",  \"👨🏽‍🍳\",  \"👨‍🦱\",  \"🕺\",  \"🕺🏿\",  \"🕺🏻\",  \"🕺🏾\",  \"🕺🏼\",  \"🕺🏽\",  \"👨🏿\",  \"👨🏿‍🦲\",  \"🧔🏿‍♂️\",  \"🧔🏿‍♂\",  \"👱🏿‍♂️\",  \"👱🏿‍♂\",  \"👨🏿‍🦱\",  \"👨🏿‍🦰\",  \"👨🏿‍🦳\",  \"🕵️‍♂️\",  \"🕵‍♂️\",  \"🕵️‍♂\",  \"🕵‍♂\",  \"🕵🏿‍♂️\",  \"🕵🏿‍♂\",  \"🕵🏻‍♂️\",  \"🕵🏻‍♂\",  \"🕵🏾‍♂️\",  \"🕵🏾‍♂\",  \"🕵🏼‍♂️\",  \"🕵🏼‍♂\",  \"🕵🏽‍♂️\",  \"🕵🏽‍♂\",  \"🧝‍♂️\",  \"🧝‍♂\",  \"🧝🏿‍♂️\",  \"🧝🏿‍♂\",  \"🧝🏻‍♂️\",  \"🧝🏻‍♂\",  \"🧝🏾‍♂️\",  \"🧝🏾‍♂\",  \"🧝🏼‍♂️\",  \"🧝🏼‍♂\",  \"🧝🏽‍♂️\",  \"🧝🏽‍♂\",  \"🤦‍♂️\",  \"🤦‍♂\",  \"🤦🏿‍♂️\",  \"🤦🏿‍♂\",  \"🤦🏻‍♂️\",  \"🤦🏻‍♂\",  \"🤦🏾‍♂️\",  \"🤦🏾‍♂\",  \"🤦🏼‍♂️\",  \"🤦🏼‍♂\",  \"🤦🏽‍♂️\",  \"🤦🏽‍♂\",  \"👨‍🏭\",  \"👨🏿‍🏭\",  \"👨🏻‍🏭\",  \"👨🏾‍🏭\",  \"👨🏼‍🏭\",  \"👨🏽‍🏭\",  \"🧚‍♂️\",  \"🧚‍♂\",  \"🧚🏿‍♂️\",  \"🧚🏿‍♂\",  \"🧚🏻‍♂️\",  \"🧚🏻‍♂\",  \"🧚🏾‍♂️\",  \"🧚🏾‍♂\",  \"🧚🏼‍♂️\",  \"🧚🏼‍♂\",  \"🧚🏽‍♂️\",  \"🧚🏽‍♂\",  \"👨‍🌾\",  \"👨🏿‍🌾\",  \"👨🏻‍🌾\",  \"👨🏾‍🌾\",  \"👨🏼‍🌾\",  \"👨🏽‍🌾\",  \"👨‍🍼\",  \"👨🏿‍🍼\",  \"👨🏻‍🍼\",  \"👨🏾‍🍼\",  \"👨🏼‍🍼\",  \"👨🏽‍🍼\",  \"👨‍🚒\",  \"👨🏿‍🚒\",  \"👨🏻‍🚒\",  \"👨🏾‍🚒\",  \"👨🏼‍🚒\",  \"👨🏽‍🚒\",  \"🙍‍♂️\",  \"🙍‍♂\",  \"🙍🏿‍♂️\",  \"🙍🏿‍♂\",  \"🙍🏻‍♂️\",  \"🙍🏻‍♂\",  \"🙍🏾‍♂️\",  \"🙍🏾‍♂\",  \"🙍🏼‍♂️\",  \"🙍🏼‍♂\",  \"🙍🏽‍♂️\",  \"🙍🏽‍♂\",  \"🧞‍♂️\",  \"🧞‍♂\",  \"🙅‍♂️\",  \"🙅‍♂\",  \"🙅🏿‍♂️\",  \"🙅🏿‍♂\",  \"🙅🏻‍♂️\",  \"🙅🏻‍♂\",  \"🙅🏾‍♂️\",  \"🙅🏾‍♂\",  \"🙅🏼‍♂️\",  \"🙅🏼‍♂\",  \"🙅🏽‍♂️\",  \"🙅🏽‍♂\",  \"🙆‍♂️\",  \"🙆‍♂\",  \"🙆🏿‍♂️\",  \"🙆🏿‍♂\",  \"🙆🏻‍♂️\",  \"🙆🏻‍♂\",  \"🙆🏾‍♂️\",  \"🙆🏾‍♂\",  \"🙆🏼‍♂️\",  \"🙆🏼‍♂\",  \"🙆🏽‍♂️\",  \"🙆🏽‍♂\",  \"💇‍♂️\",  \"💇‍♂\",  \"💇🏿‍♂️\",  \"💇🏿‍♂\",  \"💇🏻‍♂️\",  \"💇🏻‍♂\",  \"💇🏾‍♂️\",  \"💇🏾‍♂\",  \"💇🏼‍♂️\",  \"💇🏼‍♂\",  \"💇🏽‍♂️\",  \"💇🏽‍♂\",  \"💆‍♂️\",  \"💆‍♂\",  \"💆🏿‍♂️\",  \"💆🏿‍♂\",  \"💆🏻‍♂️\",  \"💆🏻‍♂\",  \"💆🏾‍♂️\",  \"💆🏾‍♂\",  \"💆🏼‍♂️\",  \"💆🏼‍♂\",  \"💆🏽‍♂️\",  \"💆🏽‍♂\",  \"🏌️‍♂️\",  \"🏌‍♂️\",  \"🏌️‍♂\",  \"🏌‍♂\",  \"🏌🏿‍♂️\",  \"🏌🏿‍♂\",  \"🏌🏻‍♂️\",  \"🏌🏻‍♂\",  \"🏌🏾‍♂️\",  \"🏌🏾‍♂\",  \"🏌🏼‍♂️\",  \"🏌🏼‍♂\",  \"🏌🏽‍♂️\",  \"🏌🏽‍♂\",  \"💂‍♂️\",  \"💂‍♂\",  \"💂🏿‍♂️\",  \"💂🏿‍♂\",  \"💂🏻‍♂️\",  \"💂🏻‍♂\",  \"💂🏾‍♂️\",  \"💂🏾‍♂\",  \"💂🏼‍♂️\",  \"💂🏼‍♂\",  \"💂🏽‍♂️\",  \"💂🏽‍♂\",  \"👨‍⚕️\",  \"👨‍⚕\",  \"👨🏿‍⚕️\",  \"👨🏿‍⚕\",  \"👨🏻‍⚕️\",  \"👨🏻‍⚕\",  \"👨🏾‍⚕️\",  \"👨🏾‍⚕\",  \"👨🏼‍⚕️\",  \"👨🏼‍⚕\",  \"👨🏽‍⚕️\",  \"👨🏽‍⚕\",  \"🧘‍♂️\",  \"🧘‍♂\",  \"🧘🏿‍♂️\",  \"🧘🏿‍♂\",  \"🧘🏻‍♂️\",  \"🧘🏻‍♂\",  \"🧘🏾‍♂️\",  \"🧘🏾‍♂\",  \"🧘🏼‍♂️\",  \"🧘🏼‍♂\",  \"🧘🏽‍♂️\",  \"🧘🏽‍♂\",  \"👨‍🦽\",  \"👨🏿‍🦽\",  \"👨🏻‍🦽\",  \"👨🏾‍🦽\",  \"👨🏼‍🦽\",  \"👨🏽‍🦽\",  \"👨‍🦼\",  \"👨🏿‍🦼\",  \"👨🏻‍🦼\",  \"👨🏾‍🦼\",  \"👨🏼‍🦼\",  \"👨🏽‍🦼\",  \"🧖‍♂️\",  \"🧖‍♂\",  \"🧖🏿‍♂️\",  \"🧖🏿‍♂\",  \"🧖🏻‍♂️\",  \"🧖🏻‍♂\",  \"🧖🏾‍♂️\",  \"🧖🏾‍♂\",  \"🧖🏼‍♂️\",  \"🧖🏼‍♂\",  \"🧖🏽‍♂️\",  \"🧖🏽‍♂\",  \"🤵‍♂️\",  \"🤵‍♂\",  \"🤵🏿‍♂️\",  \"🤵🏿‍♂\",  \"🤵🏻‍♂️\",  \"🤵🏻‍♂\",  \"🤵🏾‍♂️\",  \"🤵🏾‍♂\",  \"🤵🏼‍♂️\",  \"🤵🏼‍♂\",  \"🤵🏽‍♂️\",  \"🤵🏽‍♂\",  \"👨‍⚖️\",  \"👨‍⚖\",  \"👨🏿‍⚖️\",  \"👨🏿‍⚖\",  \"👨🏻‍⚖️\",  \"👨🏻‍⚖\",  \"👨🏾‍⚖️\",  \"👨🏾‍⚖\",  \"👨🏼‍⚖️\",  \"👨🏼‍⚖\",  \"👨🏽‍⚖️\",  \"👨🏽‍⚖\",  \"🤹‍♂️\",  \"🤹‍♂\",  \"🤹🏿‍♂️\",  \"🤹🏿‍♂\",  \"🤹🏻‍♂️\",  \"🤹🏻‍♂\",  \"🤹🏾‍♂️\",  \"🤹🏾‍♂\",  \"🤹🏼‍♂️\",  \"🤹🏼‍♂\",  \"🤹🏽‍♂️\",  \"🤹🏽‍♂\",  \"🧎‍♂️\",  \"🧎‍♂\",  \"🧎🏿‍♂️\",  \"🧎🏿‍♂\",  \"🧎🏻‍♂️\",  \"🧎🏻‍♂\",  \"🧎🏾‍♂️\",  \"🧎🏾‍♂\",  \"🧎🏼‍♂️\",  \"🧎🏼‍♂\",  \"🧎🏽‍♂️\",  \"🧎🏽‍♂\",  \"🏋️‍♂️\",  \"🏋‍♂️\",  \"🏋️‍♂\",  \"🏋‍♂\",  \"🏋🏿‍♂️\",  \"🏋🏿‍♂\",  \"🏋🏻‍♂️\",  \"🏋🏻‍♂\",  \"🏋🏾‍♂️\",  \"🏋🏾‍♂\",  \"🏋🏼‍♂️\",  \"🏋🏼‍♂\",  \"🏋🏽‍♂️\",  \"🏋🏽‍♂\",  \"👨🏻\",  \"👨🏻‍🦲\",  \"🧔🏻‍♂️\",  \"🧔🏻‍♂\",  \"👱🏻‍♂️\",  \"👱🏻‍♂\",  \"👨🏻‍🦱\",  \"👨🏻‍🦰\",  \"👨🏻‍🦳\",  \"🧙‍♂️\",  \"🧙‍♂\",  \"🧙🏿‍♂️\",  \"🧙🏿‍♂\",  \"🧙🏻‍♂️\",  \"🧙🏻‍♂\",  \"🧙🏾‍♂️\",  \"🧙🏾‍♂\",  \"🧙🏼‍♂️\",  \"🧙🏼‍♂\",  \"🧙🏽‍♂️\",  \"🧙🏽‍♂\",  \"👨‍🔧\",  \"👨🏿‍🔧\",  \"👨🏻‍🔧\",  \"👨🏾‍🔧\",  \"👨🏼‍🔧\",  \"👨🏽‍🔧\",  \"👨🏾\",  \"👨🏾‍🦲\",  \"🧔🏾‍♂️\",  \"🧔🏾‍♂\",  \"👱🏾‍♂️\",  \"👱🏾‍♂\",  \"👨🏾‍🦱\",  \"👨🏾‍🦰\",  \"👨🏾‍🦳\",  \"👨🏼\",  \"👨🏼‍🦲\",  \"🧔🏼‍♂️\",  \"🧔🏼‍♂\",  \"👱🏼‍♂️\",  \"👱🏼‍♂\",  \"👨🏼‍🦱\",  \"👨🏼‍🦰\",  \"👨🏼‍🦳\",  \"👨🏽\",  \"👨🏽‍🦲\",  \"🧔🏽‍♂️\",  \"🧔🏽‍♂\",  \"👱🏽‍♂️\",  \"👱🏽‍♂\",  \"👨🏽‍🦱\",  \"👨🏽‍🦰\",  \"👨🏽‍🦳\",  \"🚵‍♂️\",  \"🚵‍♂\",  \"🚵🏿‍♂️\",  \"🚵🏿‍♂\",  \"🚵🏻‍♂️\",  \"🚵🏻‍♂\",  \"🚵🏾‍♂️\",  \"🚵🏾‍♂\",  \"🚵🏼‍♂️\",  \"🚵🏼‍♂\",  \"🚵🏽‍♂️\",  \"🚵🏽‍♂\",  \"👨‍💼\",  \"👨🏿‍💼\",  \"👨🏻‍💼\",  \"👨🏾‍💼\",  \"👨🏼‍💼\",  \"👨🏽‍💼\",  \"👨‍✈️\",  \"👨‍✈\",  \"👨🏿‍✈️\",  \"👨🏿‍✈\",  \"👨🏻‍✈️\",  \"👨🏻‍✈\",  \"👨🏾‍✈️\",  \"👨🏾‍✈\",  \"👨🏼‍✈️\",  \"👨🏼‍✈\",  \"👨🏽‍✈️\",  \"👨🏽‍✈\",  \"🤾‍♂️\",  \"🤾‍♂\",  \"🤾🏿‍♂️\",  \"🤾🏿‍♂\",  \"🤾🏻‍♂️\",  \"🤾🏻‍♂\",  \"🤾🏾‍♂️\",  \"🤾🏾‍♂\",  \"🤾🏼‍♂️\",  \"🤾🏼‍♂\",  \"🤾🏽‍♂️\",  \"🤾🏽‍♂\",  \"🤽‍♂️\",  \"🤽‍♂\",  \"🤽🏿‍♂️\",  \"🤽🏿‍♂\",  \"🤽🏻‍♂️\",  \"🤽🏻‍♂\",  \"🤽🏾‍♂️\",  \"🤽🏾‍♂\",  \"🤽🏼‍♂️\",  \"🤽🏼‍♂\",  \"🤽🏽‍♂️\",  \"🤽🏽‍♂\",  \"👮‍♂️\",  \"👮‍♂\",  \"👮🏿‍♂️\",  \"👮🏿‍♂\",  \"👮🏻‍♂️\",  \"👮🏻‍♂\",  \"👮🏾‍♂️\",  \"👮🏾‍♂\",  \"👮🏼‍♂️\",  \"👮🏼‍♂\",  \"👮🏽‍♂️\",  \"👮🏽‍♂\",  \"🙎‍♂️\",  \"🙎‍♂\",  \"🙎🏿‍♂️\",  \"🙎🏿‍♂\",  \"🙎🏻‍♂️\",  \"🙎🏻‍♂\",  \"🙎🏾‍♂️\",  \"🙎🏾‍♂\",  \"🙎🏼‍♂️\",  \"🙎🏼‍♂\",  \"🙎🏽‍♂️\",  \"🙎🏽‍♂\",  \"🙋‍♂️\",  \"🙋‍♂\",  \"🙋🏿‍♂️\",  \"🙋🏿‍♂\",  \"🙋🏻‍♂️\",  \"🙋🏻‍♂\",  \"🙋🏾‍♂️\",  \"🙋🏾‍♂\",  \"🙋🏼‍♂️\",  \"🙋🏼‍♂\",  \"🙋🏽‍♂️\",  \"🙋🏽‍♂\",  \"👨‍🦰\",  \"🚣‍♂️\",  \"🚣‍♂\",  \"🚣🏿‍♂️\",  \"🚣🏿‍♂\",  \"🚣🏻‍♂️\",  \"🚣🏻‍♂\",  \"🚣🏾‍♂️\",  \"🚣🏾‍♂\",  \"🚣🏼‍♂️\",  \"🚣🏼‍♂\",  \"🚣🏽‍♂️\",  \"🚣🏽‍♂\",  \"🏃‍♂️\",  \"🏃‍♂\",  \"🏃🏿‍♂️\",  \"🏃🏿‍♂\",  \"🏃🏻‍♂️\",  \"🏃🏻‍♂\",  \"🏃🏾‍♂️\",  \"🏃🏾‍♂\",  \"🏃🏼‍♂️\",  \"🏃🏼‍♂\",  \"🏃🏽‍♂️\",  \"🏃🏽‍♂\",  \"👨‍🔬\",  \"👨🏿‍🔬\",  \"👨🏻‍🔬\",  \"👨🏾‍🔬\",  \"👨🏼‍🔬\",  \"👨🏽‍🔬\",  \"🤷‍♂️\",  \"🤷‍♂\",  \"🤷🏿‍♂️\",  \"🤷🏿‍♂\",  \"🤷🏻‍♂️\",  \"🤷🏻‍♂\",  \"🤷🏾‍♂️\",  \"🤷🏾‍♂\",  \"🤷🏼‍♂️\",  \"🤷🏼‍♂\",  \"🤷🏽‍♂️\",  \"🤷🏽‍♂\",  \"👨‍🎤\",  \"👨🏿‍🎤\",  \"👨🏻‍🎤\",  \"👨🏾‍🎤\",  \"👨🏼‍🎤\",  \"👨🏽‍🎤\",  \"🧍‍♂️\",  \"🧍‍♂\",  \"🧍🏿‍♂️\",  \"🧍🏿‍♂\",  \"🧍🏻‍♂️\",  \"🧍🏻‍♂\",  \"🧍🏾‍♂️\",  \"🧍🏾‍♂\",  \"🧍🏼‍♂️\",  \"🧍🏼‍♂\",  \"🧍🏽‍♂️\",  \"🧍🏽‍♂\",  \"👨‍🎓\",  \"👨🏿‍🎓\",  \"👨🏻‍🎓\",  \"👨🏾‍🎓\",  \"👨🏼‍🎓\",  \"👨🏽‍🎓\",  \"🦸‍♂️\",  \"🦸‍♂\",  \"🦸🏿‍♂️\",  \"🦸🏿‍♂\",  \"🦸🏻‍♂️\",  \"🦸🏻‍♂\",  \"🦸🏾‍♂️\",  \"🦸🏾‍♂\",  \"🦸🏼‍♂️\",  \"🦸🏼‍♂\",  \"🦸🏽‍♂️\",  \"🦸🏽‍♂\",  \"🦹‍♂️\",  \"🦹‍♂\",  \"🦹🏿‍♂️\",  \"🦹🏿‍♂\",  \"🦹🏻‍♂️\",  \"🦹🏻‍♂\",  \"🦹🏾‍♂️\",  \"🦹🏾‍♂\",  \"🦹🏼‍♂️\",  \"🦹🏼‍♂\",  \"🦹🏽‍♂️\",  \"🦹🏽‍♂\",  \"🏄‍♂️\",  \"🏄‍♂\",  \"🏄🏿‍♂️\",  \"🏄🏿‍♂\",  \"🏄🏻‍♂️\",  \"🏄🏻‍♂\",  \"🏄🏾‍♂️\",  \"🏄🏾‍♂\",  \"🏄🏼‍♂️\",  \"🏄🏼‍♂\",  \"🏄🏽‍♂️\",  \"🏄🏽‍♂\",  \"🏊‍♂️\",  \"🏊‍♂\",  \"🏊🏿‍♂️\",  \"🏊🏿‍♂\",  \"🏊🏻‍♂️\",  \"🏊🏻‍♂\",  \"🏊🏾‍♂️\",  \"🏊🏾‍♂\",  \"🏊🏼‍♂️\",  \"🏊🏼‍♂\",  \"🏊🏽‍♂️\",  \"🏊🏽‍♂\",  \"👨‍🏫\",  \"👨🏿‍🏫\",  \"👨🏻‍🏫\",  \"👨🏾‍🏫\",  \"👨🏼‍🏫\",  \"👨🏽‍🏫\",  \"👨‍💻\",  \"👨🏿‍💻\",  \"👨🏻‍💻\",  \"👨🏾‍💻\",  \"👨🏼‍💻\",  \"👨🏽‍💻\",  \"💁‍♂️\",  \"💁‍♂\",  \"💁🏿‍♂️\",  \"💁🏿‍♂\",  \"💁🏻‍♂️\",  \"💁🏻‍♂\",  \"💁🏾‍♂️\",  \"💁🏾‍♂\",  \"💁🏼‍♂️\",  \"💁🏼‍♂\",  \"💁🏽‍♂️\",  \"💁🏽‍♂\",  \"🧛‍♂️\",  \"🧛‍♂\",  \"🧛🏿‍♂️\",  \"🧛🏿‍♂\",  \"🧛🏻‍♂️\",  \"🧛🏻‍♂\",  \"🧛🏾‍♂️\",  \"🧛🏾‍♂\",  \"🧛🏼‍♂️\",  \"🧛🏼‍♂\",  \"🧛🏽‍♂️\",  \"🧛🏽‍♂\",  \"🚶‍♂️\",  \"🚶‍♂\",  \"🚶🏿‍♂️\",  \"🚶🏿‍♂\",  \"🚶🏻‍♂️\",  \"🚶🏻‍♂\",  \"🚶🏾‍♂️\",  \"🚶🏾‍♂\",  \"🚶🏼‍♂️\",  \"🚶🏼‍♂\",  \"🚶🏽‍♂️\",  \"🚶🏽‍♂\",  \"👳‍♂️\",  \"👳‍♂\",  \"👳🏿‍♂️\",  \"👳🏿‍♂\",  \"👳🏻‍♂️\",  \"👳🏻‍♂\",  \"👳🏾‍♂️\",  \"👳🏾‍♂\",  \"👳🏼‍♂️\",  \"👳🏼‍♂\",  \"👳🏽‍♂️\",  \"👳🏽‍♂\",  \"👨‍🦳\",  \"👰‍♂️\",  \"👰‍♂\",  \"👰🏿‍♂️\",  \"👰🏿‍♂\",  \"👰🏻‍♂️\",  \"👰🏻‍♂\",  \"👰🏾‍♂️\",  \"👰🏾‍♂\",  \"👰🏼‍♂️\",  \"👰🏼‍♂\",  \"👰🏽‍♂️\",  \"👰🏽‍♂\",  \"👨‍🦯\",  \"👨🏿‍🦯\",  \"👨🏻‍🦯\",  \"👨🏾‍🦯\",  \"👨🏼‍🦯\",  \"👨🏽‍🦯\",  \"🧟‍♂️\",  \"🧟‍♂\",  \"🥭\",  \"🕰️\",  \"🕰\",  \"🦽\",  \"👞\",  \"🗾\",  \"🍁\",  \"🪇\",  \"🥋\",  \"🧉\",  \"🍖\",  \"🧑‍🔧\",  \"🧑🏿‍🔧\",  \"🧑🏻‍🔧\",  \"🧑🏾‍🔧\",  \"🧑🏼‍🔧\",  \"🧑🏽‍🔧\",  \"🦾\",  \"🦿\",  \"⚕️\",  \"⚕\",  \"🏾\",  \"🏼\",  \"🏽\",  \"📣\",  \"🍈\",  \"🫠\",  \"📝\",  \"👬\",  \"👬🏿\",  \"👨🏿‍🤝‍👨🏻\",  \"👨🏿‍🤝‍👨🏾\",  \"👨🏿‍🤝‍👨🏼\",  \"👨🏿‍🤝‍👨🏽\",  \"👬🏻\",  \"👨🏻‍🤝‍👨🏿\",  \"👨🏻‍🤝‍👨🏾\",  \"👨🏻‍🤝‍👨🏼\",  \"👨🏻‍🤝‍👨🏽\",  \"👬🏾\",  \"👨🏾‍🤝‍👨🏿\",  \"👨🏾‍🤝‍👨🏻\",  \"👨🏾‍🤝‍👨🏼\",  \"👨🏾‍🤝‍👨🏽\",  \"👬🏼\",  \"👨🏼‍🤝‍👨🏿\",  \"👨🏼‍🤝‍👨🏻\",  \"👨🏼‍🤝‍👨🏾\",  \"👨🏼‍🤝‍👨🏽\",  \"👬🏽\",  \"👨🏽‍🤝‍👨🏿\",  \"👨🏽‍🤝‍👨🏻\",  \"👨🏽‍🤝‍👨🏾\",  \"👨🏽‍🤝‍👨🏼\",  \"👯‍♂️\",  \"👯‍♂\",  \"🤼‍♂️\",  \"🤼‍♂\",  \"❤️‍🩹\",  \"❤‍🩹\",  \"🕎\",  \"🚹\",  \"🧜‍♀️\",  \"🧜‍♀\",  \"🧜🏿‍♀️\",  \"🧜🏿‍♀\",  \"🧜🏻‍♀️\",  \"🧜🏻‍♀\",  \"🧜🏾‍♀️\",  \"🧜🏾‍♀\",  \"🧜🏼‍♀️\",  \"🧜🏼‍♀\",  \"🧜🏽‍♀️\",  \"🧜🏽‍♀\",  \"🧜‍♂️\",  \"🧜‍♂\",  \"🧜🏿‍♂️\",  \"🧜🏿‍♂\",  \"🧜🏻‍♂️\",  \"🧜🏻‍♂\",  \"🧜🏾‍♂️\",  \"🧜🏾‍♂\",  \"🧜🏼‍♂️\",  \"🧜🏼‍♂\",  \"🧜🏽‍♂️\",  \"🧜🏽‍♂\",  \"🧜\",  \"🧜🏿\",  \"🧜🏻\",  \"🧜🏾\",  \"🧜🏼\",  \"🧜🏽\",  \"🚇\",  \"🦠\",  \"🎤\",  \"🔬\",  \"🖕\",  \"🖕🏿\",  \"🖕🏻\",  \"🖕🏾\",  \"🖕🏼\",  \"🖕🏽\",  \"🪖\",  \"🎖️\",  \"🎖\",  \"🌌\",  \"🚐\",  \"➖\",  \"🪞\",  \"🪩\",  \"🗿\",  \"📱\",  \"📴\",  \"📲\",  \"🤑\",  \"💰\",  \"💸\",  \"🐒\",  \"🐵\",  \"🚝\",  \"🥮\",  \"🎑\",  \"🫎\",  \"🕌\",  \"🦟\",  \"🛥️\",  \"🛥\",  \"🛵\",  \"🏍️\",  \"🏍\",  \"🦼\",  \"🛣️\",  \"🛣\",  \"🗻\",  \"⛰️\",  \"⛰\",  \"🚠\",  \"🚞\",  \"🐁\",  \"🐭\",  \"🪤\",  \"👄\",  \"🎥\",  \"✖️\",  \"✖\",  \"🍄\",  \"🎹\",  \"🎵\",  \"🎶\",  \"🎼\",  \"🔇\",  \"🧑‍🎄\",  \"🧑🏿‍🎄\",  \"🧑🏻‍🎄\",  \"🧑🏾‍🎄\",  \"🧑🏼‍🎄\",  \"🧑🏽‍🎄\",  \"💅\",  \"💅🏿\",  \"💅🏻\",  \"💅🏾\",  \"💅🏼\",  \"💅🏽\",  \"📛\",  \"🏞️\",  \"🏞\",  \"🤢\",  \"🧿\",  \"👔\",  \"🤓\",  \"🪺\",  \"🪆\",  \"😐\",  \"🌑\",  \"🌚\",  \"📰\",  \"⏭️\",  \"⏭\",  \"🌃\",  \"🕤\",  \"🕘\",  \"🥷\",  \"🥷🏿\",  \"🥷🏻\",  \"🥷🏾\",  \"🥷🏼\",  \"🥷🏽\",  \"🚳\",  \"⛔\",  \"🚯\",  \"📵\",  \"🔞\",  \"🚷\",  \"🚭\",  \"🚱\",  \"👃\",  \"👃🏿\",  \"👃🏻\",  \"👃🏾\",  \"👃🏼\",  \"👃🏽\",  \"📓\",  \"📔\",  \"🔩\",  \"🐙\",  \"🍢\",  \"🏢\",  \"🧑‍💼\",  \"🧑🏿‍💼\",  \"🧑🏻‍💼\",  \"🧑🏾‍💼\",  \"🧑🏼‍💼\",  \"🧑🏽‍💼\",  \"👹\",  \"🛢️\",  \"🛢\",  \"🗝️\",  \"🗝\",  \"👴\",  \"👴🏿\",  \"👴🏻\",  \"👴🏾\",  \"👴🏼\",  \"👴🏽\",  \"👵\",  \"👵🏿\",  \"👵🏻\",  \"👵🏾\",  \"👵🏼\",  \"👵🏽\",  \"🧓\",  \"🧓🏿\",  \"🧓🏻\",  \"🧓🏾\",  \"🧓🏼\",  \"🧓🏽\",  \"🫒\",  \"🕉️\",  \"🕉\",  \"🚘\",  \"🚍\",  \"👊\",  \"👊🏿\",  \"👊🏻\",  \"👊🏾\",  \"👊🏼\",  \"👊🏽\",  \"🚔\",  \"🚖\",  \"🩱\",  \"🕜\",  \"🕐\",  \"🧅\",  \"📖\",  \"📂\",  \"👐\",  \"👐🏿\",  \"👐🏻\",  \"👐🏾\",  \"👐🏼\",  \"👐🏽\",  \"📭\",  \"📬\",  \"💿\",  \"📙\",  \"🟠\",  \"🧡\",  \"🟧\",  \"🦧\",  \"☦️\",  \"☦\",  \"🦦\",  \"📤\",  \"🦉\",  \"🐂\",  \"🦪\",  \"📦\",  \"📄\",  \"📃\",  \"📟\",  \"🖌️\",  \"🖌\",  \"🫳\",  \"🫳🏿\",  \"🫳🏻\",  \"🫳🏾\",  \"🫳🏼\",  \"🫳🏽\",  \"🌴\",  \"🫴\",  \"🫴🏿\",  \"🫴🏻\",  \"🫴🏾\",  \"🫴🏼\",  \"🫴🏽\",  \"🤲\",  \"🤲🏿\",  \"🤲🏻\",  \"🤲🏾\",  \"🤲🏼\",  \"🤲🏽\",  \"🥞\",  \"🐼\",  \"📎\",  \"🪂\",  \"🦜\",  \"〽️\",  \"〽\",  \"🎉\",  \"🥳\",  \"🛳️\",  \"🛳\",  \"🛂\",  \"⏸️\",  \"⏸\",  \"🐾\",  \"🫛\",  \"☮️\",  \"☮\",  \"🍑\",  \"🦚\",  \"🥜\",  \"🍐\",  \"🖊️\",  \"🖊\",  \"✏️\",  \"✏\",  \"🐧\",  \"😔\",  \"🧑‍🤝‍🧑\",  \"🧑🏿‍🤝‍🧑🏿\",  \"🧑🏿‍🤝‍🧑🏻\",  \"🧑🏿‍🤝‍🧑🏾\",  \"🧑🏿‍🤝‍🧑🏼\",  \"🧑🏿‍🤝‍🧑🏽\",  \"🧑🏻‍🤝‍🧑🏻\",  \"🧑🏻‍🤝‍🧑🏿\",  \"🧑🏻‍🤝‍🧑🏾\",  \"🧑🏻‍🤝‍🧑🏼\",  \"🧑🏻‍🤝‍🧑🏽\",  \"🧑🏾‍🤝‍🧑🏾\",  \"🧑🏾‍🤝‍🧑🏿\",  \"🧑🏾‍🤝‍🧑🏻\",  \"🧑🏾‍🤝‍🧑🏼\",  \"🧑🏾‍🤝‍🧑🏽\",  \"🧑🏼‍🤝‍🧑🏼\",  \"🧑🏼‍🤝‍🧑🏿\",  \"🧑🏼‍🤝‍🧑🏻\",  \"🧑🏼‍🤝‍🧑🏾\",  \"🧑🏼‍🤝‍🧑🏽\",  \"🧑🏽‍🤝‍🧑🏽\",  \"🧑🏽‍🤝‍🧑🏿\",  \"🧑🏽‍🤝‍🧑🏻\",  \"🧑🏽‍🤝‍🧑🏾\",  \"🧑🏽‍🤝‍🧑🏼\",  \"🫂\",  \"👯\",  \"🤼\",  \"🎭\",  \"😣\",  \"🧑\",  \"🧑‍🦲\",  \"🧔\",  \"🚴\",  \"🚴🏿\",  \"🚴🏻\",  \"🚴🏾\",  \"🚴🏼\",  \"🚴🏽\",  \"👱\",  \"⛹️\",  \"⛹\",  \"⛹🏿\",  \"⛹🏻\",  \"⛹🏾\",  \"⛹🏼\",  \"⛹🏽\",  \"🙇\",  \"🙇🏿\",  \"🙇🏻\",  \"🙇🏾\",  \"🙇🏼\",  \"🙇🏽\",  \"🤸\",  \"🤸🏿\",  \"🤸🏻\",  \"🤸🏾\",  \"🤸🏼\",  \"🤸🏽\",  \"🧗\",  \"🧗🏿\",  \"🧗🏻\",  \"🧗🏾\",  \"🧗🏼\",  \"🧗🏽\",  \"🧑‍🦱\",  \"🧑🏿\",  \"🧑🏿‍🦲\",  \"🧔🏿\",  \"👱🏿\",  \"🧑🏿‍🦱\",  \"🧑🏿‍🦰\",  \"🧑🏿‍🦳\",  \"🤦\",  \"🤦🏿\",  \"🤦🏻\",  \"🤦🏾\",  \"🤦🏼\",  \"🤦🏽\",  \"🧑‍🍼\",  \"🧑🏿‍🍼\",  \"🧑🏻‍🍼\",  \"🧑🏾‍🍼\",  \"🧑🏼‍🍼\",  \"🧑🏽‍🍼\",  \"🤺\",  \"🙍\",  \"🙍🏿\",  \"🙍🏻\",  \"🙍🏾\",  \"🙍🏼\",  \"🙍🏽\",  \"🙅\",  \"🙅🏿\",  \"🙅🏻\",  \"🙅🏾\",  \"🙅🏼\",  \"🙅🏽\",  \"🙆\",  \"🙆🏿\",  \"🙆🏻\",  \"🙆🏾\",  \"🙆🏼\",  \"🙆🏽\",  \"💇\",  \"💇🏿\",  \"💇🏻\",  \"💇🏾\",  \"💇🏼\",  \"💇🏽\",  \"💆\",  \"💆🏿\",  \"💆🏻\",  \"💆🏾\",  \"💆🏼\",  \"💆🏽\",  \"🏌️\",  \"🏌\",  \"🏌🏿\",  \"🏌🏻\",  \"🏌🏾\",  \"🏌🏼\",  \"🏌🏽\",  \"🛌\",  \"🛌🏿\",  \"🛌🏻\",  \"🛌🏾\",  \"🛌🏼\",  \"🛌🏽\",  \"🧘\",  \"🧘🏿\",  \"🧘🏻\",  \"🧘🏾\",  \"🧘🏼\",  \"🧘🏽\",  \"🧑‍🦽\",  \"🧑🏿‍🦽\",  \"🧑🏻‍🦽\",  \"🧑🏾‍🦽\",  \"🧑🏼‍🦽\",  \"🧑🏽‍🦽\",  \"🧑‍🦼\",  \"🧑🏿‍🦼\",  \"🧑🏻‍🦼\",  \"🧑🏾‍🦼\",  \"🧑🏼‍🦼\",  \"🧑🏽‍🦼\",  \"🧖\",  \"🧖🏿\",  \"🧖🏻\",  \"🧖🏾\",  \"🧖🏼\",  \"🧖🏽\",  \"🕴️\",  \"🕴\",  \"🕴🏿\",  \"🕴🏻\",  \"🕴🏾\",  \"🕴🏼\",  \"🕴🏽\",  \"🤵\",  \"🤵🏿\",  \"🤵🏻\",  \"🤵🏾\",  \"🤵🏼\",  \"🤵🏽\",  \"🤹\",  \"🤹🏿\",  \"🤹🏻\",  \"🤹🏾\",  \"🤹🏼\",  \"🤹🏽\",  \"🧎\",  \"🧎🏿\",  \"🧎🏻\",  \"🧎🏾\",  \"🧎🏼\",  \"🧎🏽\",  \"🏋️\",  \"🏋\",  \"🏋🏿\",  \"🏋🏻\",  \"🏋🏾\",  \"🏋🏼\",  \"🏋🏽\",  \"🧑🏻\",  \"🧑🏻‍🦲\",  \"🧔🏻\",  \"👱🏻\",  \"🧑🏻‍🦱\",  \"🧑🏻‍🦰\",  \"🧑🏻‍🦳\",  \"🧑🏾\",  \"🧑🏾‍🦲\",  \"🧔🏾\",  \"👱🏾\",  \"🧑🏾‍🦱\",  \"🧑🏾‍🦰\",  \"🧑🏾‍🦳\",  \"🧑🏼\",  \"🧑🏼‍🦲\",  \"🧔🏼\",  \"👱🏼\",  \"🧑🏼‍🦱\",  \"🧑🏼‍🦰\",  \"🧑🏼‍🦳\",  \"🧑🏽\",  \"🧑🏽‍🦲\",  \"🧔🏽\",  \"👱🏽\",  \"🧑🏽‍🦱\",  \"🧑🏽‍🦰\",  \"🧑🏽‍🦳\",  \"🚵\",  \"🚵🏿\",  \"🚵🏻\",  \"🚵🏾\",  \"🚵🏼\",  \"🚵🏽\",  \"🤾\",  \"🤾🏿\",  \"🤾🏻\",  \"🤾🏾\",  \"🤾🏼\",  \"🤾🏽\",  \"🤽\",  \"🤽🏿\",  \"🤽🏻\",  \"🤽🏾\",  \"🤽🏼\",  \"🤽🏽\",  \"🙎\",  \"🙎🏿\",  \"🙎🏻\",  \"🙎🏾\",  \"🙎🏼\",  \"🙎🏽\",  \"🙋\",  \"🙋🏿\",  \"🙋🏻\",  \"🙋🏾\",  \"🙋🏼\",  \"🙋🏽\",  \"🧑‍🦰\",  \"🚣\",  \"🚣🏿\",  \"🚣🏻\",  \"🚣🏾\",  \"🚣🏼\",  \"🚣🏽\",  \"🏃\",  \"🏃🏿\",  \"🏃🏻\",  \"🏃🏾\",  \"🏃🏼\",  \"🏃🏽\",  \"🤷\",  \"🤷🏿\",  \"🤷🏻\",  \"🤷🏾\",  \"🤷🏼\",  \"🤷🏽\",  \"🧍\",  \"🧍🏿\",  \"🧍🏻\",  \"🧍🏾\",  \"🧍🏼\",  \"🧍🏽\",  \"🏄\",  \"🏄🏿\",  \"🏄🏻\",  \"🏄🏾\",  \"🏄🏼\",  \"🏄🏽\",  \"🏊\",  \"🏊🏿\",  \"🏊🏻\",  \"🏊🏾\",  \"🏊🏼\",  \"🏊🏽\",  \"🛀\",  \"🛀🏿\",  \"🛀🏻\",  \"🛀🏾\",  \"🛀🏼\",  \"🛀🏽\",  \"💁\",  \"💁🏿\",  \"💁🏻\",  \"💁🏾\",  \"💁🏼\",  \"💁🏽\",  \"🚶\",  \"🚶🏿\",  \"🚶🏻\",  \"🚶🏾\",  \"🚶🏼\",  \"🚶🏽\",  \"👳\",  \"👳🏿\",  \"👳🏻\",  \"👳🏾\",  \"👳🏼\",  \"👳🏽\",  \"🧑‍🦳\",  \"🫅\",  \"🫅🏿\",  \"🫅🏻\",  \"🫅🏾\",  \"🫅🏼\",  \"🫅🏽\",  \"👲\",  \"👲🏿\",  \"👲🏻\",  \"👲🏾\",  \"👲🏼\",  \"👲🏽\",  \"👰\",  \"👰🏿\",  \"👰🏻\",  \"👰🏾\",  \"👰🏼\",  \"👰🏽\",  \"🧑‍🦯\",  \"🧑🏿‍🦯\",  \"🧑🏻‍🦯\",  \"🧑🏾‍🦯\",  \"🧑🏼‍🦯\",  \"🧑🏽‍🦯\",  \"🧫\",  \"⛏️\",  \"⛏\",  \"🛻\",  \"🥧\",  \"🐖\",  \"🐷\",  \"🐽\",  \"💩\",  \"💊\",  \"🧑‍✈️\",  \"🧑‍✈\",  \"🧑🏿‍✈️\",  \"🧑🏿‍✈\",  \"🧑🏻‍✈️\",  \"🧑🏻‍✈\",  \"🧑🏾‍✈️\",  \"🧑🏾‍✈\",  \"🧑🏼‍✈️\",  \"🧑🏼‍✈\",  \"🧑🏽‍✈️\",  \"🧑🏽‍✈\",  \"🤌\",  \"🤌🏿\",  \"🤌🏻\",  \"🤌🏾\",  \"🤌🏼\",  \"🤌🏽\",  \"🤏\",  \"🤏🏿\",  \"🤏🏻\",  \"🤏🏾\",  \"🤏🏼\",  \"🤏🏽\",  \"🎍\",  \"🍍\",  \"🏓\",  \"🩷\",  \"🏴‍☠️\",  \"🏴‍☠\",  \"🍕\",  \"🪅\",  \"🪧\",  \"🛐\",  \"▶️\",  \"▶\",  \"⏯️\",  \"⏯\",  \"🛝\",  \"🥺\",  \"🪠\",  \"➕\",  \"🐻‍❄️\",  \"🐻‍❄\",  \"🚓\",  \"🚨\",  \"👮\",  \"👮🏿\",  \"👮🏻\",  \"👮🏾\",  \"👮🏼\",  \"👮🏽\",  \"🐩\",  \"🎱\",  \"🍿\",  \"🏤\",  \"📯\",  \"📮\",  \"🍲\",  \"🚰\",  \"🥔\",  \"🪴\",  \"🍗\",  \"💷\",  \"🫗\",  \"😾\",  \"📿\",  \"🫃\",  \"🫃🏿\",  \"🫃🏻\",  \"🫃🏾\",  \"🫃🏼\",  \"🫃🏽\",  \"🫄\",  \"🫄🏿\",  \"🫄🏻\",  \"🫄🏾\",  \"🫄🏼\",  \"🫄🏽\",  \"🤰\",  \"🤰🏿\",  \"🤰🏻\",  \"🤰🏾\",  \"🤰🏼\",  \"🤰🏽\",  \"🥨\",  \"🤴\",  \"🤴🏿\",  \"🤴🏻\",  \"🤴🏾\",  \"🤴🏼\",  \"🤴🏽\",  \"👸\",  \"👸🏿\",  \"👸🏻\",  \"👸🏾\",  \"👸🏼\",  \"👸🏽\",  \"🖨️\",  \"🖨\",  \"🚫\",  \"🟣\",  \"💜\",  \"🟪\",  \"👛\",  \"📌\",  \"🧩\",  \"🐇\",  \"🐰\",  \"🦝\",  \"🏎️\",  \"🏎\",  \"📻\",  \"🔘\",  \"☢️\",  \"☢\",  \"🚃\",  \"🛤️\",  \"🛤\",  \"🌈\",  \"🏳️‍🌈\",  \"🏳‍🌈\",  \"🤚\",  \"🤚🏿\",  \"🤚🏻\",  \"🤚🏾\",  \"🤚🏼\",  \"🤚🏽\",  \"✊\",  \"✊🏿\",  \"✊🏻\",  \"✊🏾\",  \"✊🏼\",  \"✊🏽\",  \"✋\",  \"✋🏿\",  \"✋🏻\",  \"✋🏾\",  \"✋🏼\",  \"✋🏽\",  \"🙌\",  \"🙌🏿\",  \"🙌🏻\",  \"🙌🏾\",  \"🙌🏼\",  \"🙌🏽\",  \"🐏\",  \"🐀\",  \"🪒\",  \"🧾\",  \"⏺️\",  \"⏺\",  \"♻️\",  \"♻\",  \"🍎\",  \"🔴\",  \"🧧\",  \"❗\",  \"🦰\",  \"❤️\",  \"❤\",  \"🏮\",  \"❓\",  \"🟥\",  \"🔻\",  \"🔺\",  \"®️\",  \"®\",  \"😌\",  \"🎗️\",  \"🎗\",  \"🔁\",  \"🔂\",  \"⛑️\",  \"⛑\",  \"🚻\",  \"◀️\",  \"◀\",  \"💞\",  \"🦏\",  \"🎀\",  \"🍙\",  \"🍘\",  \"🤜\",  \"🤜🏿\",  \"🤜🏻\",  \"🤜🏾\",  \"🤜🏼\",  \"🤜🏽\",  \"🗯️\",  \"🗯\",  \"➡️\",  \"➡\",  \"⤵️\",  \"⤵\",  \"↩️\",  \"↩\",  \"⤴️\",  \"⤴\",  \"🫱\",  \"🫱🏿\",  \"🫱🏻\",  \"🫱🏾\",  \"🫱🏼\",  \"🫱🏽\",  \"🫸\",  \"🫸🏿\",  \"🫸🏻\",  \"🫸🏾\",  \"🫸🏼\",  \"🫸🏽\",  \"💍\",  \"🛟\",  \"🪐\",  \"🍠\",  \"🤖\",  \"🪨\",  \"🚀\",  \"🧻\",  \"🗞️\",  \"🗞\",  \"🎢\",  \"🛼\",  \"🤣\",  \"🐓\",  \"🌹\",  \"🏵️\",  \"🏵\",  \"📍\",  \"🏉\",  \"🎽\",  \"👟\",  \"😥\",  \"🧷\",  \"🦺\",  \"⛵\",  \"🍶\",  \"🧂\",  \"🫡\",  \"🥪\",  \"🥻\",  \"🛰️\",  \"🛰\",  \"📡\",  \"🦕\",  \"🎷\",  \"🧣\",  \"🏫\",  \"🧑‍🔬\",  \"🧑🏿‍🔬\",  \"🧑🏻‍🔬\",  \"🧑🏾‍🔬\",  \"🧑🏼‍🔬\",  \"🧑🏽‍🔬\",  \"✂️\",  \"✂\",  \"🦂\",  \"🪛\",  \"📜\",  \"🦭\",  \"💺\",  \"🙈\",  \"🌱\",  \"🤳\",  \"🤳🏿\",  \"🤳🏻\",  \"🤳🏾\",  \"🤳🏼\",  \"🤳🏽\",  \"🐕‍🦺\",  \"🕢\",  \"🕖\",  \"🪡\",  \"🫨\",  \"🥘\",  \"☘️\",  \"☘\",  \"🦈\",  \"🍧\",  \"🌾\",  \"🛡️\",  \"🛡\",  \"⛩️\",  \"⛩\",  \"🚢\",  \"🌠\",  \"🛍️\",  \"🛍\",  \"🛒\",  \"🍰\",  \"🩳\",  \"🚿\",  \"🦐\",  \"🔀\",  \"🤫\",  \"🤘\",  \"🤘🏿\",  \"🤘🏻\",  \"🤘🏾\",  \"🤘🏼\",  \"🤘🏽\",  \"🧑‍🎤\",  \"🧑🏿‍🎤\",  \"🧑🏻‍🎤\",  \"🧑🏾‍🎤\",  \"🧑🏼‍🎤\",  \"🧑🏽‍🎤\",  \"🕡\",  \"🕕\",  \"🛹\",  \"⛷️\",  \"⛷\",  \"🎿\",  \"💀\",  \"☠️\",  \"☠\",  \"🦨\",  \"🛷\",  \"😴\",  \"😪\",  \"🙁\",  \"🙂\",  \"🎰\",  \"🦥\",  \"🛩️\",  \"🛩\",  \"🔹\",  \"🔸\",  \"😻\",  \"☺️\",  \"☺\",  \"😇\",  \"😍\",  \"🥰\",  \"😈\",  \"🤗\",  \"😊\",  \"😎\",  \"🥲\",  \"😏\",  \"🐌\",  \"🐍\",  \"🤧\",  \"🏔️\",  \"🏔\",  \"🏂\",  \"🏂🏿\",  \"🏂🏻\",  \"🏂🏾\",  \"🏂🏼\",  \"🏂🏽\",  \"❄️\",  \"❄\",  \"☃️\",  \"☃\",  \"⛄\",  \"🧼\",  \"⚽\",  \"🧦\",  \"🍦\",  \"🥎\",  \"♠️\",  \"♠\",  \"🍝\",  \"❇️\",  \"❇\",  \"🎇\",  \"✨\",  \"💖\",  \"🙊\",  \"🔊\",  \"🔈\",  \"🔉\",  \"🗣️\",  \"🗣\",  \"💬\",  \"🚤\",  \"🕷️\",  \"🕷\",  \"🕸️\",  \"🕸\",  \"🗓️\",  \"🗓\",  \"🗒️\",  \"🗒\",  \"🐚\",  \"🧽\",  \"🥄\",  \"🚙\",  \"🏅\",  \"🐳\",  \"🦑\",  \"😝\",  \"🏟️\",  \"🏟\",  \"⭐\",  \"🤩\",  \"☪️\",  \"☪\",  \"✡️\",  \"✡\",  \"🚉\",  \"🍜\",  \"🩺\",  \"⏹️\",  \"⏹\",  \"🛑\",  \"⏱️\",  \"⏱\",  \"📏\",  \"🍓\",  \"🧑‍🎓\",  \"🧑🏿‍🎓\",  \"🧑🏻‍🎓\",  \"🧑🏾‍🎓\",  \"🧑🏼‍🎓\",  \"🧑🏽‍🎓\",  \"🎙️\",  \"🎙\",  \"🥙\",  \"☀️\",  \"☀\",  \"⛅\",  \"🌥️\",  \"🌥\",  \"🌦️\",  \"🌦\",  \"🌤️\",  \"🌤\",  \"🌞\",  \"🌻\",  \"🕶️\",  \"🕶\",  \"🌅\",  \"🌄\",  \"🌇\",  \"🦸\",  \"🦸🏿\",  \"🦸🏻\",  \"🦸🏾\",  \"🦸🏼\",  \"🦸🏽\",  \"🦹\",  \"🦹🏿\",  \"🦹🏻\",  \"🦹🏾\",  \"🦹🏼\",  \"🦹🏽\",  \"🍣\",  \"🚟\",  \"🦢\",  \"💦\",  \"🕍\",  \"💉\",  \"👕\",  \"🌮\",  \"🥡\",  \"🫔\",  \"🎋\",  \"🍊\",  \"🚕\",  \"🧑‍🏫\",  \"🧑🏿‍🏫\",  \"🧑🏻‍🏫\",  \"🧑🏾‍🏫\",  \"🧑🏼‍🏫\",  \"🧑🏽‍🏫\",  \"🍵\",  \"🫖\",  \"📆\",  \"🧑‍💻\",  \"🧑🏿‍💻\",  \"🧑🏻‍💻\",  \"🧑🏾‍💻\",  \"🧑🏼‍💻\",  \"🧑🏽‍💻\",  \"🧸\",  \"☎️\",  \"☎\",  \"📞\",  \"🔭\",  \"📺\",  \"🕥\",  \"🕙\",  \"🎾\",  \"⛺\",  \"🧪\",  \"🌡️\",  \"🌡\",  \"🤔\",  \"🩴\",  \"💭\",  \"🧵\",  \"🕞\",  \"🕒\",  \"👎\",  \"👎🏿\",  \"👎🏻\",  \"👎🏾\",  \"👎🏼\",  \"👎🏽\",  \"👍\",  \"👍🏿\",  \"👍🏻\",  \"👍🏾\",  \"👍🏼\",  \"👍🏽\",  \"🎫\",  \"🐅\",  \"🐯\",  \"⏲️\",  \"⏲\",  \"😫\",  \"🚽\",  \"🍅\",  \"👅\",  \"🧰\",  \"🦷\",  \"🪥\",  \"🎩\",  \"🌪️\",  \"🌪\",  \"🖲️\",  \"🖲\",  \"🚜\",  \"™️\",  \"™\",  \"🚆\",  \"🚊\",  \"🚋\",  \"🏳️‍⚧️\",  \"🏳‍⚧️\",  \"🏳️‍⚧\",  \"🏳‍⚧\",  \"⚧️\",  \"⚧\",  \"🚩\",  \"📐\",  \"🔱\",  \"🧌\",  \"🚎\",  \"🏆\",  \"🍹\",  \"🐠\",  \"🎺\",  \"🌷\",  \"🥃\",  \"🦃\",  \"🐢\",  \"🕧\",  \"🕛\",  \"🐫\",  \"🕝\",  \"💕\",  \"🕑\",  \"☂️\",  \"☂\",  \"⛱️\",  \"⛱\",  \"☔\",  \"😒\",  \"🦄\",  \"🔓\",  \"↕️\",  \"↕\",  \"↖️\",  \"↖\",  \"↗️\",  \"↗\",  \"⬆️\",  \"⬆\",  \"🙃\",  \"🔼\",  \"🧛\",  \"🧛🏿\",  \"🧛🏻\",  \"🧛🏾\",  \"🧛🏼\",  \"🧛🏽\",  \"🚦\",  \"📳\",  \"✌️\",  \"✌\",  \"✌🏿\",  \"✌🏻\",  \"✌🏾\",  \"✌🏼\",  \"✌🏽\",  \"📹\",  \"🎮\",  \"📼\",  \"🎻\",  \"🌋\",  \"🏐\",  \"🖖\",  \"🖖🏿\",  \"🖖🏻\",  \"🖖🏾\",  \"🖖🏼\",  \"🖖🏽\",  \"🧇\",  \"🌘\",  \"🌖\",  \"⚠️\",  \"⚠\",  \"🗑️\",  \"🗑\",  \"⌚\",  \"🐃\",  \"🚾\",  \"🔫\",  \"🌊\",  \"🍉\",  \"👋\",  \"👋🏿\",  \"👋🏻\",  \"👋🏾\",  \"👋🏼\",  \"👋🏽\",  \"〰️\",  \"〰\",  \"🌒\",  \"🌔\",  \"🙀\",  \"😩\",  \"💒\",  \"🐋\",  \"🛞\",  \"☸️\",  \"☸\",  \"♿\",  \"🦯\",  \"⚪\",  \"❕\",  \"🏳️\",  \"🏳\",  \"💮\",  \"🦳\",  \"🤍\",  \"⬜\",  \"◽\",  \"◻️\",  \"◻\",  \"❔\",  \"▫️\",  \"▫\",  \"🔳\",  \"🥀\",  \"🎐\",  \"🌬️\",  \"🌬\",  \"🪟\",  \"🍷\",  \"🪽\",  \"😉\",  \"😜\",  \"🛜\",  \"🐺\",  \"👩\",  \"👫\",  \"👫🏿\",  \"👩🏿‍🤝‍👨🏻\",  \"👩🏿‍🤝‍👨🏾\",  \"👩🏿‍🤝‍👨🏼\",  \"👩🏿‍🤝‍👨🏽\",  \"👫🏻\",  \"👩🏻‍🤝‍👨🏿\",  \"👩🏻‍🤝‍👨🏾\",  \"👩🏻‍🤝‍👨🏼\",  \"👩🏻‍🤝‍👨🏽\",  \"👫🏾\",  \"👩🏾‍🤝‍👨🏿\",  \"👩🏾‍🤝‍👨🏻\",  \"👩🏾‍🤝‍👨🏼\",  \"👩🏾‍🤝‍👨🏽\",  \"👫🏼\",  \"👩🏼‍🤝‍👨🏿\",  \"👩🏼‍🤝‍👨🏻\",  \"👩🏼‍🤝‍👨🏾\",  \"👩🏼‍🤝‍👨🏽\",  \"👫🏽\",  \"👩🏽‍🤝‍👨🏿\",  \"👩🏽‍🤝‍👨🏻\",  \"👩🏽‍🤝‍👨🏾\",  \"👩🏽‍🤝‍👨🏼\",  \"👩‍🎨\",  \"👩🏿‍🎨\",  \"👩🏻‍🎨\",  \"👩🏾‍🎨\",  \"👩🏼‍🎨\",  \"👩🏽‍🎨\",  \"👩‍🚀\",  \"👩🏿‍🚀\",  \"👩🏻‍🚀\",  \"👩🏾‍🚀\",  \"👩🏼‍🚀\",  \"👩🏽‍🚀\",  \"👩‍🦲\",  \"🧔‍♀️\",  \"🧔‍♀\",  \"🚴‍♀️\",  \"🚴‍♀\",  \"🚴🏿‍♀️\",  \"🚴🏿‍♀\",  \"🚴🏻‍♀️\",  \"🚴🏻‍♀\",  \"🚴🏾‍♀️\",  \"🚴🏾‍♀\",  \"🚴🏼‍♀️\",  \"🚴🏼‍♀\",  \"🚴🏽‍♀️\",  \"🚴🏽‍♀\",  \"👱‍♀️\",  \"👱‍♀\",  \"⛹️‍♀️\",  \"⛹‍♀️\",  \"⛹️‍♀\",  \"⛹‍♀\",  \"⛹🏿‍♀️\",  \"⛹🏿‍♀\",  \"⛹🏻‍♀️\",  \"⛹🏻‍♀\",  \"⛹🏾‍♀️\",  \"⛹🏾‍♀\",  \"⛹🏼‍♀️\",  \"⛹🏼‍♀\",  \"⛹🏽‍♀️\",  \"⛹🏽‍♀\",  \"🙇‍♀️\",  \"🙇‍♀\",  \"🙇🏿‍♀️\",  \"🙇🏿‍♀\",  \"🙇🏻‍♀️\",  \"🙇🏻‍♀\",  \"🙇🏾‍♀️\",  \"🙇🏾‍♀\",  \"🙇🏼‍♀️\",  \"🙇🏼‍♀\",  \"🙇🏽‍♀️\",  \"🙇🏽‍♀\",  \"🤸‍♀️\",  \"🤸‍♀\",  \"🤸🏿‍♀️\",  \"🤸🏿‍♀\",  \"🤸🏻‍♀️\",  \"🤸🏻‍♀\",  \"🤸🏾‍♀️\",  \"🤸🏾‍♀\",  \"🤸🏼‍♀️\",  \"🤸🏼‍♀\",  \"🤸🏽‍♀️\",  \"🤸🏽‍♀\",  \"🧗‍♀️\",  \"🧗‍♀\",  \"🧗🏿‍♀️\",  \"🧗🏿‍♀\",  \"🧗🏻‍♀️\",  \"🧗🏻‍♀\",  \"🧗🏾‍♀️\",  \"🧗🏾‍♀\",  \"🧗🏼‍♀️\",  \"🧗🏼‍♀\",  \"🧗🏽‍♀️\",  \"🧗🏽‍♀\",  \"👷‍♀️\",  \"👷‍♀\",  \"👷🏿‍♀️\",  \"👷🏿‍♀\",  \"👷🏻‍♀️\",  \"👷🏻‍♀\",  \"👷🏾‍♀️\",  \"👷🏾‍♀\",  \"👷🏼‍♀️\",  \"👷🏼‍♀\",  \"👷🏽‍♀️\",  \"👷🏽‍♀\",  \"👩‍🍳\",  \"👩🏿‍🍳\",  \"👩🏻‍🍳\",  \"👩🏾‍🍳\",  \"👩🏼‍🍳\",  \"👩🏽‍🍳\",  \"👩‍🦱\",  \"💃\",  \"💃🏿\",  \"💃🏻\",  \"💃🏾\",  \"💃🏼\",  \"💃🏽\",  \"👩🏿\",  \"👩🏿‍🦲\",  \"🧔🏿‍♀️\",  \"🧔🏿‍♀\",  \"👱🏿‍♀️\",  \"👱🏿‍♀\",  \"👩🏿‍🦱\",  \"👩🏿‍🦰\",  \"👩🏿‍🦳\",  \"🕵️‍♀️\",  \"🕵‍♀️\",  \"🕵️‍♀\",  \"🕵‍♀\",  \"🕵🏿‍♀️\",  \"🕵🏿‍♀\",  \"🕵🏻‍♀️\",  \"🕵🏻‍♀\",  \"🕵🏾‍♀️\",  \"🕵🏾‍♀\",  \"🕵🏼‍♀️\",  \"🕵🏼‍♀\",  \"🕵🏽‍♀️\",  \"🕵🏽‍♀\",  \"🧝‍♀️\",  \"🧝‍♀\",  \"🧝🏿‍♀️\",  \"🧝🏿‍♀\",  \"🧝🏻‍♀️\",  \"🧝🏻‍♀\",  \"🧝🏾‍♀️\",  \"🧝🏾‍♀\",  \"🧝🏼‍♀️\",  \"🧝🏼‍♀\",  \"🧝🏽‍♀️\",  \"🧝🏽‍♀\",  \"🤦‍♀️\",  \"🤦‍♀\",  \"🤦🏿‍♀️\",  \"🤦🏿‍♀\",  \"🤦🏻‍♀️\",  \"🤦🏻‍♀\",  \"🤦🏾‍♀️\",  \"🤦🏾‍♀\",  \"🤦🏼‍♀️\",  \"🤦🏼‍♀\",  \"🤦🏽‍♀️\",  \"🤦🏽‍♀\",  \"👩‍🏭\",  \"👩🏿‍🏭\",  \"👩🏻‍🏭\",  \"👩🏾‍🏭\",  \"👩🏼‍🏭\",  \"👩🏽‍🏭\",  \"🧚‍♀️\",  \"🧚‍♀\",  \"🧚🏿‍♀️\",  \"🧚🏿‍♀\",  \"🧚🏻‍♀️\",  \"🧚🏻‍♀\",  \"🧚🏾‍♀️\",  \"🧚🏾‍♀\",  \"🧚🏼‍♀️\",  \"🧚🏼‍♀\",  \"🧚🏽‍♀️\",  \"🧚🏽‍♀\",  \"👩‍🌾\",  \"👩🏿‍🌾\",  \"👩🏻‍🌾\",  \"👩🏾‍🌾\",  \"👩🏼‍🌾\",  \"👩🏽‍🌾\",  \"👩‍🍼\",  \"👩🏿‍🍼\",  \"👩🏻‍🍼\",  \"👩🏾‍🍼\",  \"👩🏼‍🍼\",  \"👩🏽‍🍼\",  \"👩‍🚒\",  \"👩🏿‍🚒\",  \"👩🏻‍🚒\",  \"👩🏾‍🚒\",  \"👩🏼‍🚒\",  \"👩🏽‍🚒\",  \"🙍‍♀️\",  \"🙍‍♀\",  \"🙍🏿‍♀️\",  \"🙍🏿‍♀\",  \"🙍🏻‍♀️\",  \"🙍🏻‍♀\",  \"🙍🏾‍♀️\",  \"🙍🏾‍♀\",  \"🙍🏼‍♀️\",  \"🙍🏼‍♀\",  \"🙍🏽‍♀️\",  \"🙍🏽‍♀\",  \"🧞‍♀️\",  \"🧞‍♀\",  \"🙅‍♀️\",  \"🙅‍♀\",  \"🙅🏿‍♀️\",  \"🙅🏿‍♀\",  \"🙅🏻‍♀️\",  \"🙅🏻‍♀\",  \"🙅🏾‍♀️\",  \"🙅🏾‍♀\",  \"🙅🏼‍♀️\",  \"🙅🏼‍♀\",  \"🙅🏽‍♀️\",  \"🙅🏽‍♀\",  \"🙆‍♀️\",  \"🙆‍♀\",  \"🙆🏿‍♀️\",  \"🙆🏿‍♀\",  \"🙆🏻‍♀️\",  \"🙆🏻‍♀\",  \"🙆🏾‍♀️\",  \"🙆🏾‍♀\",  \"🙆🏼‍♀️\",  \"🙆🏼‍♀\",  \"🙆🏽‍♀️\",  \"🙆🏽‍♀\",  \"💇‍♀️\",  \"💇‍♀\",  \"💇🏿‍♀️\",  \"💇🏿‍♀\",  \"💇🏻‍♀️\",  \"💇🏻‍♀\",  \"💇🏾‍♀️\",  \"💇🏾‍♀\",  \"💇🏼‍♀️\",  \"💇🏼‍♀\",  \"💇🏽‍♀️\",  \"💇🏽‍♀\",  \"💆‍♀️\",  \"💆‍♀\",  \"💆🏿‍♀️\",  \"💆🏿‍♀\",  \"💆🏻‍♀️\",  \"💆🏻‍♀\",  \"💆🏾‍♀️\",  \"💆🏾‍♀\",  \"💆🏼‍♀️\",  \"💆🏼‍♀\",  \"💆🏽‍♀️\",  \"💆🏽‍♀\",  \"🏌️‍♀️\",  \"🏌‍♀️\",  \"🏌️‍♀\",  \"🏌‍♀\",  \"🏌🏿‍♀️\",  \"🏌🏿‍♀\",  \"🏌🏻‍♀️\",  \"🏌🏻‍♀\",  \"🏌🏾‍♀️\",  \"🏌🏾‍♀\",  \"🏌🏼‍♀️\",  \"🏌🏼‍♀\",  \"🏌🏽‍♀️\",  \"🏌🏽‍♀\",  \"💂‍♀️\",  \"💂‍♀\",  \"💂🏿‍♀️\",  \"💂🏿‍♀\",  \"💂🏻‍♀️\",  \"💂🏻‍♀\",  \"💂🏾‍♀️\",  \"💂🏾‍♀\",  \"💂🏼‍♀️\",  \"💂🏼‍♀\",  \"💂🏽‍♀️\",  \"💂🏽‍♀\",  \"👩‍⚕️\",  \"👩‍⚕\",  \"👩🏿‍⚕️\",  \"👩🏿‍⚕\",  \"👩🏻‍⚕️\",  \"👩🏻‍⚕\",  \"👩🏾‍⚕️\",  \"👩🏾‍⚕\",  \"👩🏼‍⚕️\",  \"👩🏼‍⚕\",  \"👩🏽‍⚕️\",  \"👩🏽‍⚕\",  \"🧘‍♀️\",  \"🧘‍♀\",  \"🧘🏿‍♀️\",  \"🧘🏿‍♀\",  \"🧘🏻‍♀️\",  \"🧘🏻‍♀\",  \"🧘🏾‍♀️\",  \"🧘🏾‍♀\",  \"🧘🏼‍♀️\",  \"🧘🏼‍♀\",  \"🧘🏽‍♀️\",  \"🧘🏽‍♀\",  \"👩‍🦽\",  \"👩🏿‍🦽\",  \"👩🏻‍🦽\",  \"👩🏾‍🦽\",  \"👩🏼‍🦽\",  \"👩🏽‍🦽\",  \"👩‍🦼\",  \"👩🏿‍🦼\",  \"👩🏻‍🦼\",  \"👩🏾‍🦼\",  \"👩🏼‍🦼\",  \"👩🏽‍🦼\",  \"🧖‍♀️\",  \"🧖‍♀\",  \"🧖🏿‍♀️\",  \"🧖🏿‍♀\",  \"🧖🏻‍♀️\",  \"🧖🏻‍♀\",  \"🧖🏾‍♀️\",  \"🧖🏾‍♀\",  \"🧖🏼‍♀️\",  \"🧖🏼‍♀\",  \"🧖🏽‍♀️\",  \"🧖🏽‍♀\",  \"🤵‍♀️\",  \"🤵‍♀\",  \"🤵🏿‍♀️\",  \"🤵🏿‍♀\",  \"🤵🏻‍♀️\",  \"🤵🏻‍♀\",  \"🤵🏾‍♀️\",  \"🤵🏾‍♀\",  \"🤵🏼‍♀️\",  \"🤵🏼‍♀\",  \"🤵🏽‍♀️\",  \"🤵🏽‍♀\",  \"👩‍⚖️\",  \"👩‍⚖\",  \"👩🏿‍⚖️\",  \"👩🏿‍⚖\",  \"👩🏻‍⚖️\",  \"👩🏻‍⚖\",  \"👩🏾‍⚖️\",  \"👩🏾‍⚖\",  \"👩🏼‍⚖️\",  \"👩🏼‍⚖\",  \"👩🏽‍⚖️\",  \"👩🏽‍⚖\",  \"🤹‍♀️\",  \"🤹‍♀\",  \"🤹🏿‍♀️\",  \"🤹🏿‍♀\",  \"🤹🏻‍♀️\",  \"🤹🏻‍♀\",  \"🤹🏾‍♀️\",  \"🤹🏾‍♀\",  \"🤹🏼‍♀️\",  \"🤹🏼‍♀\",  \"🤹🏽‍♀️\",  \"🤹🏽‍♀\",  \"🧎‍♀️\",  \"🧎‍♀\",  \"🧎🏿‍♀️\",  \"🧎🏿‍♀\",  \"🧎🏻‍♀️\",  \"🧎🏻‍♀\",  \"🧎🏾‍♀️\",  \"🧎🏾‍♀\",  \"🧎🏼‍♀️\",  \"🧎🏼‍♀\",  \"🧎🏽‍♀️\",  \"🧎🏽‍♀\",  \"🏋️‍♀️\",  \"🏋‍♀️\",  \"🏋️‍♀\",  \"🏋‍♀\",  \"🏋🏿‍♀️\",  \"🏋🏿‍♀\",  \"🏋🏻‍♀️\",  \"🏋🏻‍♀\",  \"🏋🏾‍♀️\",  \"🏋🏾‍♀\",  \"🏋🏼‍♀️\",  \"🏋🏼‍♀\",  \"🏋🏽‍♀️\",  \"🏋🏽‍♀\",  \"👩🏻\",  \"👩🏻‍🦲\",  \"🧔🏻‍♀️\",  \"🧔🏻‍♀\",  \"👱🏻‍♀️\",  \"👱🏻‍♀\",  \"👩🏻‍🦱\",  \"👩🏻‍🦰\",  \"👩🏻‍🦳\",  \"🧙‍♀️\",  \"🧙‍♀\",  \"🧙🏿‍♀️\",  \"🧙🏿‍♀\",  \"🧙🏻‍♀️\",  \"🧙🏻‍♀\",  \"🧙🏾‍♀️\",  \"🧙🏾‍♀\",  \"🧙🏼‍♀️\",  \"🧙🏼‍♀\",  \"🧙🏽‍♀️\",  \"🧙🏽‍♀\",  \"👩‍🔧\",  \"👩🏿‍🔧\",  \"👩🏻‍🔧\",  \"👩🏾‍🔧\",  \"👩🏼‍🔧\",  \"👩🏽‍🔧\",  \"👩🏾\",  \"👩🏾‍🦲\",  \"🧔🏾‍♀️\",  \"🧔🏾‍♀\",  \"👱🏾‍♀️\",  \"👱🏾‍♀\",  \"👩🏾‍🦱\",  \"👩🏾‍🦰\",  \"👩🏾‍🦳\",  \"👩🏼\",  \"👩🏼‍🦲\",  \"🧔🏼‍♀️\",  \"🧔🏼‍♀\",  \"👱🏼‍♀️\",  \"👱🏼‍♀\",  \"👩🏼‍🦱\",  \"👩🏼‍🦰\",  \"👩🏼‍🦳\",  \"👩🏽\",  \"👩🏽‍🦲\",  \"🧔🏽‍♀️\",  \"🧔🏽‍♀\",  \"👱🏽‍♀️\",  \"👱🏽‍♀\",  \"👩🏽‍🦱\",  \"👩🏽‍🦰\",  \"👩🏽‍🦳\",  \"🚵‍♀️\",  \"🚵‍♀\",  \"🚵🏿‍♀️\",  \"🚵🏿‍♀\",  \"🚵🏻‍♀️\",  \"🚵🏻‍♀\",  \"🚵🏾‍♀️\",  \"🚵🏾‍♀\",  \"🚵🏼‍♀️\",  \"🚵🏼‍♀\",  \"🚵🏽‍♀️\",  \"🚵🏽‍♀\",  \"👩‍💼\",  \"👩🏿‍💼\",  \"👩🏻‍💼\",  \"👩🏾‍💼\",  \"👩🏼‍💼\",  \"👩🏽‍💼\",  \"👩‍✈️\",  \"👩‍✈\",  \"👩🏿‍✈️\",  \"👩🏿‍✈\",  \"👩🏻‍✈️\",  \"👩🏻‍✈\",  \"👩🏾‍✈️\",  \"👩🏾‍✈\",  \"👩🏼‍✈️\",  \"👩🏼‍✈\",  \"👩🏽‍✈️\",  \"👩🏽‍✈\",  \"🤾‍♀️\",  \"🤾‍♀\",  \"🤾🏿‍♀️\",  \"🤾🏿‍♀\",  \"🤾🏻‍♀️\",  \"🤾🏻‍♀\",  \"🤾🏾‍♀️\",  \"🤾🏾‍♀\",  \"🤾🏼‍♀️\",  \"🤾🏼‍♀\",  \"🤾🏽‍♀️\",  \"🤾🏽‍♀\",  \"🤽‍♀️\",  \"🤽‍♀\",  \"🤽🏿‍♀️\",  \"🤽🏿‍♀\",  \"🤽🏻‍♀️\",  \"🤽🏻‍♀\",  \"🤽🏾‍♀️\",  \"🤽🏾‍♀\",  \"🤽🏼‍♀️\",  \"🤽🏼‍♀\",  \"🤽🏽‍♀️\",  \"🤽🏽‍♀\",  \"👮‍♀️\",  \"👮‍♀\",  \"👮🏿‍♀️\",  \"👮🏿‍♀\",  \"👮🏻‍♀️\",  \"👮🏻‍♀\",  \"👮🏾‍♀️\",  \"👮🏾‍♀\",  \"👮🏼‍♀️\",  \"👮🏼‍♀\",  \"👮🏽‍♀️\",  \"👮🏽‍♀\",  \"🙎‍♀️\",  \"🙎‍♀\",  \"🙎🏿‍♀️\",  \"🙎🏿‍♀\",  \"🙎🏻‍♀️\",  \"🙎🏻‍♀\",  \"🙎🏾‍♀️\",  \"🙎🏾‍♀\",  \"🙎🏼‍♀️\",  \"🙎🏼‍♀\",  \"🙎🏽‍♀️\",  \"🙎🏽‍♀\",  \"🙋‍♀️\",  \"🙋‍♀\",  \"🙋🏿‍♀️\",  \"🙋🏿‍♀\",  \"🙋🏻‍♀️\",  \"🙋🏻‍♀\",  \"🙋🏾‍♀️\",  \"🙋🏾‍♀\",  \"🙋🏼‍♀️\",  \"🙋🏼‍♀\",  \"🙋🏽‍♀️\",  \"🙋🏽‍♀\",  \"👩‍🦰\",  \"🚣‍♀️\",  \"🚣‍♀\",  \"🚣🏿‍♀️\",  \"🚣🏿‍♀\",  \"🚣🏻‍♀️\",  \"🚣🏻‍♀\",  \"🚣🏾‍♀️\",  \"🚣🏾‍♀\",  \"🚣🏼‍♀️\",  \"🚣🏼‍♀\",  \"🚣🏽‍♀️\",  \"🚣🏽‍♀\",  \"🏃‍♀️\",  \"🏃‍♀\",  \"🏃🏿‍♀️\",  \"🏃🏿‍♀\",  \"🏃🏻‍♀️\",  \"🏃🏻‍♀\",  \"🏃🏾‍♀️\",  \"🏃🏾‍♀\",  \"🏃🏼‍♀️\",  \"🏃🏼‍♀\",  \"🏃🏽‍♀️\",  \"🏃🏽‍♀\",  \"👩‍🔬\",  \"👩🏿‍🔬\",  \"👩🏻‍🔬\",  \"👩🏾‍🔬\",  \"👩🏼‍🔬\",  \"👩🏽‍🔬\",  \"🤷‍♀️\",  \"🤷‍♀\",  \"🤷🏿‍♀️\",  \"🤷🏿‍♀\",  \"🤷🏻‍♀️\",  \"🤷🏻‍♀\",  \"🤷🏾‍♀️\",  \"🤷🏾‍♀\",  \"🤷🏼‍♀️\",  \"🤷🏼‍♀\",  \"🤷🏽‍♀️\",  \"🤷🏽‍♀\",  \"👩‍🎤\",  \"👩🏿‍🎤\",  \"👩🏻‍🎤\",  \"👩🏾‍🎤\",  \"👩🏼‍🎤\",  \"👩🏽‍🎤\",  \"🧍‍♀️\",  \"🧍‍♀\",  \"🧍🏿‍♀️\",  \"🧍🏿‍♀\",  \"🧍🏻‍♀️\",  \"🧍🏻‍♀\",  \"🧍🏾‍♀️\",  \"🧍🏾‍♀\",  \"🧍🏼‍♀️\",  \"🧍🏼‍♀\",  \"🧍🏽‍♀️\",  \"🧍🏽‍♀\",  \"👩‍🎓\",  \"👩🏿‍🎓\",  \"👩🏻‍🎓\",  \"👩🏾‍🎓\",  \"👩🏼‍🎓\",  \"👩🏽‍🎓\",  \"🦸‍♀️\",  \"🦸‍♀\",  \"🦸🏿‍♀️\",  \"🦸🏿‍♀\",  \"🦸🏻‍♀️\",  \"🦸🏻‍♀\",  \"🦸🏾‍♀️\",  \"🦸🏾‍♀\",  \"🦸🏼‍♀️\",  \"🦸🏼‍♀\",  \"🦸🏽‍♀️\",  \"🦸🏽‍♀\",  \"🦹‍♀️\",  \"🦹‍♀\",  \"🦹🏿‍♀️\",  \"🦹🏿‍♀\",  \"🦹🏻‍♀️\",  \"🦹🏻‍♀\",  \"🦹🏾‍♀️\",  \"🦹🏾‍♀\",  \"🦹🏼‍♀️\",  \"🦹🏼‍♀\",  \"🦹🏽‍♀️\",  \"🦹🏽‍♀\",  \"🏄‍♀️\",  \"🏄‍♀\",  \"🏄🏿‍♀️\",  \"🏄🏿‍♀\",  \"🏄🏻‍♀️\",  \"🏄🏻‍♀\",  \"🏄🏾‍♀️\",  \"🏄🏾‍♀\",  \"🏄🏼‍♀️\",  \"🏄🏼‍♀\",  \"🏄🏽‍♀️\",  \"🏄🏽‍♀\",  \"🏊‍♀️\",  \"🏊‍♀\",  \"🏊🏿‍♀️\",  \"🏊🏿‍♀\",  \"🏊🏻‍♀️\",  \"🏊🏻‍♀\",  \"🏊🏾‍♀️\",  \"🏊🏾‍♀\",  \"🏊🏼‍♀️\",  \"🏊🏼‍♀\",  \"🏊🏽‍♀️\",  \"🏊🏽‍♀\",  \"👩‍🏫\",  \"👩🏿‍🏫\",  \"👩🏻‍🏫\",  \"👩🏾‍🏫\",  \"👩🏼‍🏫\",  \"👩🏽‍🏫\",  \"👩‍💻\",  \"👩🏿‍💻\",  \"👩🏻‍💻\",  \"👩🏾‍💻\",  \"👩🏼‍💻\",  \"👩🏽‍💻\",  \"💁‍♀️\",  \"💁‍♀\",  \"💁🏿‍♀️\",  \"💁🏿‍♀\",  \"💁🏻‍♀️\",  \"💁🏻‍♀\",  \"💁🏾‍♀️\",  \"💁🏾‍♀\",  \"💁🏼‍♀️\",  \"💁🏼‍♀\",  \"💁🏽‍♀️\",  \"💁🏽‍♀\",  \"🧛‍♀️\",  \"🧛‍♀\",  \"🧛🏿‍♀️\",  \"🧛🏿‍♀\",  \"🧛🏻‍♀️\",  \"🧛🏻‍♀\",  \"🧛🏾‍♀️\",  \"🧛🏾‍♀\",  \"🧛🏼‍♀️\",  \"🧛🏼‍♀\",  \"🧛🏽‍♀️\",  \"🧛🏽‍♀\",  \"🚶‍♀️\",  \"🚶‍♀\",  \"🚶🏿‍♀️\",  \"🚶🏿‍♀\",  \"🚶🏻‍♀️\",  \"🚶🏻‍♀\",  \"🚶🏾‍♀️\",  \"🚶🏾‍♀\",  \"🚶🏼‍♀️\",  \"🚶🏼‍♀\",  \"🚶🏽‍♀️\",  \"🚶🏽‍♀\",  \"👳‍♀️\",  \"👳‍♀\",  \"👳🏿‍♀️\",  \"👳🏿‍♀\",  \"👳🏻‍♀️\",  \"👳🏻‍♀\",  \"👳🏾‍♀️\",  \"👳🏾‍♀\",  \"👳🏼‍♀️\",  \"👳🏼‍♀\",  \"👳🏽‍♀️\",  \"👳🏽‍♀\",  \"👩‍🦳\",  \"🧕\",  \"🧕🏿\",  \"🧕🏻\",  \"🧕🏾\",  \"🧕🏼\",  \"🧕🏽\",  \"👰‍♀️\",  \"👰‍♀\",  \"👰🏿‍♀️\",  \"👰🏿‍♀\",  \"👰🏻‍♀️\",  \"👰🏻‍♀\",  \"👰🏾‍♀️\",  \"👰🏾‍♀\",  \"👰🏼‍♀️\",  \"👰🏼‍♀\",  \"👰🏽‍♀️\",  \"👰🏽‍♀\",  \"👩‍🦯\",  \"👩🏿‍🦯\",  \"👩🏻‍🦯\",  \"👩🏾‍🦯\",  \"👩🏼‍🦯\",  \"👩🏽‍🦯\",  \"🧟‍♀️\",  \"🧟‍♀\",  \"👢\",  \"👚\",  \"👒\",  \"👡\",  \"👭\",  \"👭🏿\",  \"👩🏿‍🤝‍👩🏻\",  \"👩🏿‍🤝‍👩🏾\",  \"👩🏿‍🤝‍👩🏼\",  \"👩🏿‍🤝‍👩🏽\",  \"👭🏻\",  \"👩🏻‍🤝‍👩🏿\",  \"👩🏻‍🤝‍👩🏾\",  \"👩🏻‍🤝‍👩🏼\",  \"👩🏻‍🤝‍👩🏽\",  \"👭🏾\",  \"👩🏾‍🤝‍👩🏿\",  \"👩🏾‍🤝‍👩🏻\",  \"👩🏾‍🤝‍👩🏼\",  \"👩🏾‍🤝‍👩🏽\",  \"👭🏼\",  \"👩🏼‍🤝‍👩🏿\",  \"👩🏼‍🤝‍👩🏻\",  \"👩🏼‍🤝‍👩🏾\",  \"👩🏼‍🤝‍👩🏽\",  \"👭🏽\",  \"👩🏽‍🤝‍👩🏿\",  \"👩🏽‍🤝‍👩🏻\",  \"👩🏽‍🤝‍👩🏾\",  \"👩🏽‍🤝‍👩🏼\",  \"👯‍♀️\",  \"👯‍♀\",  \"🤼‍♀️\",  \"🤼‍♀\",  \"🚺\",  \"🪵\",  \"🥴\",  \"🗺️\",  \"🗺\",  \"🪱\",  \"😟\",  \"🎁\",  \"🔧\",  \"✍️\",  \"✍\",  \"✍🏿\",  \"✍🏻\",  \"✍🏾\",  \"✍🏼\",  \"✍🏽\",  \"🩻\",  \"🧶\",  \"🥱\",  \"🟡\",  \"💛\",  \"🟨\",  \"💴\",  \"☯️\",  \"☯\",  \"🪀\",  \"🤪\",  \"🦓\",  \"🤐\",  \"🧟\",  \"🇦🇽\", \n    ]\n# import emoji\n# all_emojis = [emoji.emojize(x) for x in emoji.EMOJI_DATA]\n# # \n# # الحصول على قائمة جميع الرموز التعبيرية\n# for i in all_emojis :\n#     with open(\"EMOJIS\", \"a\", encoding=\"utf-8\") as file:\n#         file.write(f\" \\\"{i}\\\", \")",
+        "detail": "chat.emojis",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "kind": 6,
+        "importPath": "chat.models",
+        "description": "chat.models",
+        "peekOfCode": "class Message(models.Model):\n    msg = models.TextField(max_length=2400,unique=False,default=\"\")\n    created_by = models.ForeignKey(User,related_name=\"created_by\",on_delete=models.CASCADE)\n    created_to = models.ForeignKey(User,related_name='created_to',on_delete=models.CASCADE)\n    created_dt = models.DateTimeField(auto_now_add=True)\n    image = models.ImageField(default=\"user.png\",null=True,upload_to=\"images/\")\n    # video = models.FileField(upload_to='video/', null=True, validators=[FileExtensionValidator(allowed_extensions=['MOV', 'avi', 'mp4', 'webm', 'mkv'])])\n    # image = models.FileField(upload_to='video/', null=True, validators=[FileExtensionValidator(allowed_extensions=['MOV', 'avi', 'mp4', 'webm', 'mkv',\"png\"])])\n    def __str__(self):\n        return f\"From {self.created_by.username} to {self.created_to.username}\"",
+        "detail": "chat.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "chat.urls",
+        "description": "chat.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"msg/\", msg, name=\"msg\"),\n    path(\"msg/<users_id>/\", msg2, name=\"msg_id\"),\n]",
+        "detail": "chat.urls",
+        "documentation": {}
+    },
+    {
+        "label": "msg",
+        "kind": 2,
+        "importPath": "chat.views",
+        "description": "chat.views",
+        "peekOfCode": "def msg(request):\n    user = User.objects.exclude(id=request.user.id)\n    context = {\"users\": user}\n    return render(request, 'all_screan.html', context)\n@login_required\ndef msg2(request, users_id):\n    # الحصول على المستخدم الهدف باستخدام معرفه\n    createdTo = get_object_or_404(User, pk=users_id)\n    # استعلام لجلب الرسائل بين المنشئ والمستقبل\n    messages = Message.objects.filter(",
+        "detail": "chat.views",
+        "documentation": {}
+    },
+    {
+        "label": "msg2",
+        "kind": 2,
+        "importPath": "chat.views",
+        "description": "chat.views",
+        "peekOfCode": "def msg2(request, users_id):\n    # الحصول على المستخدم الهدف باستخدام معرفه\n    createdTo = get_object_or_404(User, pk=users_id)\n    # استعلام لجلب الرسائل بين المنشئ والمستقبل\n    messages = Message.objects.filter(\n        Q(created_by=request.user, created_to=createdTo) |\n        Q(created_by=createdTo, created_to=request.user)\n        ).order_by('-created_dt')\n    # استعلام لجلب جميع المستخدمين باستثناء المستخدم الحالي\n    users = User.objects.exclude(id=request.user.id)",
+        "detail": "chat.views",
+        "documentation": {}
+    },
+    {
+        "label": "CryptographyAppConfig",
+        "kind": 6,
+        "importPath": "cryptography_app.apps",
+        "description": "cryptography_app.apps",
+        "peekOfCode": "class CryptographyAppConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'cryptography_app'",
+        "detail": "cryptography_app.apps",
+        "documentation": {}
+    },
+    {
+        "label": "en_morse",
+        "kind": 2,
+        "importPath": "cryptography_app.full_cipher",
+        "description": "cryptography_app.full_cipher",
+        "peekOfCode": "def en_morse(plain_text):\n    cipher_text=m(plain_text).stringToMorse()\n    print(cipher_text)\n    return cipher_text\ndef de_morse(cipher):\n    plain_text=m(cipher).morseToString()\n    print(plain_text)\n    return plain_text\n############ ( شفرة قيصر  caesar ) ############\ndef en_caesar (plain_text,key):",
+        "detail": "cryptography_app.full_cipher",
+        "documentation": {}
+    },
+    {
+        "label": "de_morse",
+        "kind": 2,
+        "importPath": "cryptography_app.full_cipher",
+        "description": "cryptography_app.full_cipher",
+        "peekOfCode": "def de_morse(cipher):\n    plain_text=m(cipher).morseToString()\n    print(plain_text)\n    return plain_text\n############ ( شفرة قيصر  caesar ) ############\ndef en_caesar (plain_text,key):\n    letters = [\"A\",\"B\",\"C\",\"D\",\"E\",\"F\",\"G\",\"H\",\"I\",\"J\",\"K\",\"L\",\"M\",\"N\",\"O\",\"P\",\"Q\",\"R\",\"S\",\"T\",\"U\",\"V\",\"W\",\"X\",\"Y\",\"Z\"]\n    cipher_list = []\n    for pl in  plain_text:\n        x=0",
+        "detail": "cryptography_app.full_cipher",
+        "documentation": {}
+    },
+    {
+        "label": "en_caesa",
+        "kind": 2,
+        "importPath": "cryptography_app.full_cipher",
+        "description": "cryptography_app.full_cipher",
+        "peekOfCode": "def en_caesar (plain_text,key):\n    letters = [\"A\",\"B\",\"C\",\"D\",\"E\",\"F\",\"G\",\"H\",\"I\",\"J\",\"K\",\"L\",\"M\",\"N\",\"O\",\"P\",\"Q\",\"R\",\"S\",\"T\",\"U\",\"V\",\"W\",\"X\",\"Y\",\"Z\"]\n    cipher_list = []\n    for pl in  plain_text:\n        x=0\n        if ord(pl) == 32:\n            cipher_list.append(pl)\n        for l in letters:\n            if l == pl :\n                cipher_key = (x+key)%26",
+        "detail": "cryptography_app.full_cipher",
+        "documentation": {}
+    },
+    {
+        "label": "de_caesar",
+        "kind": 2,
+        "importPath": "cryptography_app.full_cipher",
+        "description": "cryptography_app.full_cipher",
+        "peekOfCode": "def de_caesar(cipher,key):\n    letters = [\"A\",\"B\",\"C\",\"D\",\"E\",\"F\",\"G\",\"H\",\"I\",\"J\",\"K\",\"L\",\"M\",\"N\",\"O\",\"P\",\"Q\",\"R\",\"S\",\"T\",\"U\",\"V\",\"W\",\"X\",\"Y\",\"Z\"]\n    plain_list = []\n    for ci in  cipher:\n        x=0\n        if ord(ci) == 32:\n            plain_list.append(ci)\n        for l in letters:\n            if l == ci :\n                cipher_key = (x-key)%26",
+        "detail": "cryptography_app.full_cipher",
+        "documentation": {}
+    },
+    {
+        "label": "en_mono_alpha_betic",
+        "kind": 2,
+        "importPath": "cryptography_app.full_cipher",
+        "description": "cryptography_app.full_cipher",
+        "peekOfCode": "def en_mono_alpha_betic(plain_text):\n    letters = [\"A\",\"B\",\"C\",\"D\",\"E\",\"F\",\"G\",\"H\",\"I\",\"J\",\"K\",\"L\",\"M\",\"N\",\"O\",\"P\",\"Q\",\"R\",\"S\",\"T\",\"U\",\"V\",\"W\",\"X\",\"Y\",\"Z\",\" \"]\n    key     = [\"E\",\"Y\",\"O\",\"L\",\"P\",\"R\",\"N\",\"V\",\"F\",\"I\",\"G\",\"Z\",\"Q\",\"K\",\"S\",\"C\",\"D\",\"U\",\"H\",\"M\",\"B\",\"X\",\"A\",\"W\",\"J\",\"T\",\" \"]\n    cipher_list=[]\n    for p in plain_text:\n        x =0\n        for l in letters:\n            if  l == p:\n                cipher_list.append(key[x])\n            x=x+1",
+        "detail": "cryptography_app.full_cipher",
+        "documentation": {}
+    },
+    {
+        "label": "de_mono_alpha_betic",
+        "kind": 2,
+        "importPath": "cryptography_app.full_cipher",
+        "description": "cryptography_app.full_cipher",
+        "peekOfCode": "def de_mono_alpha_betic(cipher_text):\n    key     = [\"A\",\"B\",\"C\",\"D\",\"E\",\"F\",\"G\",\"H\",\"I\",\"J\",\"K\",\"L\",\"M\",\"N\",\"O\",\"P\",\"Q\",\"R\",\"S\",\"T\",\"U\",\"V\",\"W\",\"X\",\"Y\",\"Z\",\" \"]\n    letters = [\"E\",\"Y\",\"O\",\"L\",\"P\",\"R\",\"N\",\"V\",\"F\",\"I\",\"G\",\"Z\",\"Q\",\"K\",\"S\",\"C\",\"D\",\"U\",\"H\",\"M\",\"B\",\"X\",\"A\",\"W\",\"J\",\"T\",\" \"]\n    plain_list=[]\n    for c in cipher_text:\n        x =0\n        for l in letters:\n            if  l == c:\n                plain_list.append(key[x])\n            x=x+1",
+        "detail": "cryptography_app.full_cipher",
+        "documentation": {}
+    },
+    {
+        "label": "loop_key_vigener",
+        "kind": 2,
+        "importPath": "cryptography_app.full_cipher",
+        "description": "cryptography_app.full_cipher",
+        "peekOfCode": "def loop_key_vigener(plain_text,key):\n    loop_list_key = []\n    while len(plain_text) >= len(loop_list_key):\n        if  len(plain_text) == len(loop_list_key):\n            break\n        for k in key :\n            if  len(plain_text) == len(loop_list_key):\n                break\n            loop_list_key.append(k)\n    return loop_list_key",
+        "detail": "cryptography_app.full_cipher",
+        "documentation": {}
+    },
+    {
+        "label": "index_text",
+        "kind": 2,
+        "importPath": "cryptography_app.full_cipher",
+        "description": "cryptography_app.full_cipher",
+        "peekOfCode": "def index_text(text):\n    letters = [\"A\",\"B\",\"C\",\"D\",\"E\",\"F\",\"G\",\"H\",\"I\",\"J\",\"K\",\"L\",\"M\",\"N\",\"O\",\"P\",\"Q\",\"R\",\"S\",\"T\",\"U\",\"V\",\"W\",\"X\",\"Y\",\"Z\"]\n    ind = []\n    for te in text:\n        x = 0\n        for le in letters:\n            if le == te :\n                index_text = x\n                ind.append(index_text)\n            x=x+1 ",
+        "detail": "cryptography_app.full_cipher",
+        "documentation": {}
+    },
+    {
+        "label": "index_key",
+        "kind": 2,
+        "importPath": "cryptography_app.full_cipher",
+        "description": "cryptography_app.full_cipher",
+        "peekOfCode": "def index_key(text,key):\n    key_index = []\n    letters = [\"A\",\"B\",\"C\",\"D\",\"E\",\"F\",\"G\",\"H\",\"I\",\"J\",\"K\",\"L\",\"M\",\"N\",\"O\",\"P\",\"Q\",\"R\",\"S\",\"T\",\"U\",\"V\",\"W\",\"X\",\"Y\",\"Z\"]\n    key = loop_key_vigener(text,key)\n    for k in key : \n        x=0\n        for le in letters:\n            if le ==k:\n                key_ind=x\n                key_index.append(key_ind)",
+        "detail": "cryptography_app.full_cipher",
+        "documentation": {}
+    },
+    {
+        "label": "en_vigener",
+        "kind": 2,
+        "importPath": "cryptography_app.full_cipher",
+        "description": "cryptography_app.full_cipher",
+        "peekOfCode": "def en_vigener(plain_text,key):\n    letters = [\"A\",\"B\",\"C\",\"D\",\"E\",\"F\",\"G\",\"H\",\"I\",\"J\",\"K\",\"L\",\"M\",\"N\",\"O\",\"P\",\"Q\",\"R\",\"S\",\"T\",\"U\",\"V\",\"W\",\"X\",\"Y\",\"Z\"]\n    cipher_list=[]\n    ind_key1 = index_key(plain_text,key)\n    ind_text = index_text(plain_text)\n    for i in range(len(ind_text)):\n        cipher_ind = ((ind_text[i]+ind_key1[i])%26)\n        cipher_list.append(letters[cipher_ind])\n    cipher_text =\"\".join(cipher_list)\n    return cipher_text",
+        "detail": "cryptography_app.full_cipher",
+        "documentation": {}
+    },
+    {
+        "label": "de_vigener",
+        "kind": 2,
+        "importPath": "cryptography_app.full_cipher",
+        "description": "cryptography_app.full_cipher",
+        "peekOfCode": "def de_vigener(cipher_text,key):\n    letters = [\"A\",\"B\",\"C\",\"D\",\"E\",\"F\",\"G\",\"H\",\"I\",\"J\",\"K\",\"L\",\"M\",\"N\",\"O\",\"P\",\"Q\",\"R\",\"S\",\"T\",\"U\",\"V\",\"W\",\"X\",\"Y\",\"Z\"]\n    plin_list=[]\n    ind_key1 = index_key(cipher_text,key)\n    ind_text = index_text(cipher_text)\n    for i in range(len(ind_text)):\n        cipher_ind = ((ind_text[i]-ind_key1[i])%26)\n        plin_list.append(letters[cipher_ind])\n    plin_text =\"\".join(plin_list)\n    return plin_text",
+        "detail": "cryptography_app.full_cipher",
+        "documentation": {}
+    },
+    {
+        "label": "key_list",
+        "kind": 2,
+        "importPath": "cryptography_app.full_cipher",
+        "description": "cryptography_app.full_cipher",
+        "peekOfCode": "def key_list(key,letters):\n    key_list = []\n    for k in key:\n        for le in letters:\n            if le == k and k not in key_list:\n                key_list.append(k)\n    return key_list\ndef key_finesh(key,letters):\n    key_list = list(key)\n    for k in key_list:",
+        "detail": "cryptography_app.full_cipher",
+        "documentation": {}
+    },
+    {
+        "label": "key_finesh",
+        "kind": 2,
+        "importPath": "cryptography_app.full_cipher",
+        "description": "cryptography_app.full_cipher",
+        "peekOfCode": "def key_finesh(key,letters):\n    key_list = list(key)\n    for k in key_list:\n        for le in letters:\n            if le not in key_list:\n                key_list.append(le)\n    return key_list\ndef en_mixed(plain_text,key):\n    letters = [\"A\",\"B\",\"C\",\"D\",\"E\",\"F\",\"G\",\"H\",\"I\",\"J\",\"K\",\"L\",\"M\",\"N\",\"O\",\"P\",\"Q\",\"R\",\"S\",\"T\",\"U\",\"V\",\"W\",\"X\",\"Y\",\"Z\"]\n    key_lis = key_list(key,letters)",
+        "detail": "cryptography_app.full_cipher",
+        "documentation": {}
+    },
+    {
+        "label": "en_mixed",
+        "kind": 2,
+        "importPath": "cryptography_app.full_cipher",
+        "description": "cryptography_app.full_cipher",
+        "peekOfCode": "def en_mixed(plain_text,key):\n    letters = [\"A\",\"B\",\"C\",\"D\",\"E\",\"F\",\"G\",\"H\",\"I\",\"J\",\"K\",\"L\",\"M\",\"N\",\"O\",\"P\",\"Q\",\"R\",\"S\",\"T\",\"U\",\"V\",\"W\",\"X\",\"Y\",\"Z\"]\n    key_lis = key_list(key,letters)\n    finesh_key = key_finesh(key_lis,letters)\n    cipher_list = []\n    for plain in plain_text:\n        x=0\n        for le in letters:\n            if plain == le :\n                cipher_list.append(finesh_key[x])",
+        "detail": "cryptography_app.full_cipher",
+        "documentation": {}
+    },
+    {
+        "label": "de_mixed",
+        "kind": 2,
+        "importPath": "cryptography_app.full_cipher",
+        "description": "cryptography_app.full_cipher",
+        "peekOfCode": "def de_mixed(cipher_text,key):\n    letters = [\"A\",\"B\",\"C\",\"D\",\"E\",\"F\",\"G\",\"H\",\"I\",\"J\",\"K\",\"L\",\"M\",\"N\",\"O\",\"P\",\"Q\",\"R\",\"S\",\"T\",\"U\",\"V\",\"W\",\"X\",\"Y\",\"Z\"]\n    key_lis = key_list(key,letters)\n    finesh_key = key_finesh(key_lis,letters)\n    plain_list = []\n    for cipher in cipher_text:\n        x=0\n        for k in finesh_key:\n            if cipher == k :\n                plain_list.append(letters[x])",
+        "detail": "cryptography_app.full_cipher",
+        "documentation": {}
+    },
+    {
+        "label": "key_matrex",
+        "kind": 2,
+        "importPath": "cryptography_app.full_cipher",
+        "description": "cryptography_app.full_cipher",
+        "peekOfCode": "def key_matrex(key,letters):\n    key_input = []\n    for k in key :\n        if k == \"J\":\n            key_input.append(\"I\")\n        else:\n            key_input.append(k)\n    key_list0=[]\n    for k in key_input:\n        for le in letters:",
+        "detail": "cryptography_app.full_cipher",
+        "documentation": {}
+    },
+    {
+        "label": "en_beliver",
+        "kind": 2,
+        "importPath": "cryptography_app.full_cipher",
+        "description": "cryptography_app.full_cipher",
+        "peekOfCode": "def en_beliver(plain_text,key):\n    letters = [\"A\",\"B\",\"C\",\"D\",\"E\",\"F\",\"G\",\"H\",\"I\",\"K\",\"L\",\"M\",\"N\",\"O\",\"P\",\"Q\",\"R\",\"S\",\"T\",\"U\",\"V\",\"W\",\"X\",\"Y\",\"Z\"]\n    key =key_matrex(key,letters)\n    x = 0\n    plain_list = []\n    for i in range(len(plain_text)):\n        if plain_text != plain_text[x-1]and x>0:\n            plain_list.append(plain_text[x])\n        elif x==0:\n            plain_list.append(plain_text[x])",
+        "detail": "cryptography_app.full_cipher",
+        "documentation": {}
+    },
+    {
+        "label": "de_beliver",
+        "kind": 2,
+        "importPath": "cryptography_app.full_cipher",
+        "description": "cryptography_app.full_cipher",
+        "peekOfCode": "def de_beliver(cipher_text,key0):\n    letters = [\"A\",\"B\",\"C\",\"D\",\"E\",\"F\",\"G\",\"H\",\"I\",\"K\",\"L\",\"M\",\"N\",\"O\",\"P\",\"Q\",\"R\",\"S\",\"T\",\"U\",\"V\",\"W\",\"X\",\"Y\",\"Z\"]\n    key =key_matrex(key0,letters)\n    x=0\n    c1 = 0\n    c2 = 0\n    r1 = 0\n    r2 = 0\n    plain_list = [] \n    loop =int(len(cipher_text)/2)",
+        "detail": "cryptography_app.full_cipher",
+        "documentation": {}
+    },
+    {
+        "label": "en_morse",
+        "kind": 2,
+        "importPath": "cryptography_app.t",
+        "description": "cryptography_app.t",
+        "peekOfCode": "def en_morse(plain_text):\n    cipher_text=m(plain_text).stringToMorse()\n    print(cipher_text)\n    return cipher_text\ndef de_morse(cipher):\n    plain_text=m(cipher).morseToString()\n    print(plain_text)\n    return plain_text",
+        "detail": "cryptography_app.t",
+        "documentation": {}
+    },
+    {
+        "label": "de_morse",
+        "kind": 2,
+        "importPath": "cryptography_app.t",
+        "description": "cryptography_app.t",
+        "peekOfCode": "def de_morse(cipher):\n    plain_text=m(cipher).morseToString()\n    print(plain_text)\n    return plain_text",
+        "detail": "cryptography_app.t",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "cryptography_app.urls",
+        "description": "cryptography_app.urls",
+        "peekOfCode": "urlpatterns = [\n    path('cryptography/',cryptography,name='cryptography'),\n    # path('cryptography/done/',outt,name='outt'),\n]",
+        "detail": "cryptography_app.urls",
+        "documentation": {}
+    },
+    {
+        "label": "cryptography",
+        "kind": 2,
+        "importPath": "cryptography_app.views",
+        "description": "cryptography_app.views",
+        "peekOfCode": "def cryptography(request):\n    outtext = \"\"\n    type_crept = \"\"\n    if request.method == 'POST':\n        type_crepto = request.POST['type_crepto']\n        type_crept = type_crepto\n        cipher_Type = request.POST['cipher_Type']\n        key = request.POST['key'].upper()\n        text = request.POST['text'].upper()\n        if type_crepto == \"encryption\":",
+        "detail": "cryptography_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "post.migrations.0001_initial",
+        "description": "post.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Post',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "post.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "post.migrations.0002_alter_post_post_img",
+        "description": "post.migrations.0002_alter_post_post_img",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('post', '0001_initial'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='post',\n            name='post_img',\n            field=models.ImageField(default=None, null=True, upload_to='post_img/'),\n        ),",
+        "detail": "post.migrations.0002_alter_post_post_img",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "post.migrations.0003_alter_post_post_img",
+        "description": "post.migrations.0003_alter_post_post_img",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('post', '0002_alter_post_post_img'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='post',\n            name='post_img',\n            field=models.ImageField(default='user.png', null=True, upload_to='post_img/'),\n        ),",
+        "detail": "post.migrations.0003_alter_post_post_img",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "post.migrations.0004_alter_post_post_img",
+        "description": "post.migrations.0004_alter_post_post_img",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('post', '0003_alter_post_post_img'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='post',\n            name='post_img',\n            field=models.ImageField(null=True, upload_to='post_img/'),\n        ),",
+        "detail": "post.migrations.0004_alter_post_post_img",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "post.migrations.0005_post_profile_picture_post",
+        "description": "post.migrations.0005_post_profile_picture_post",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('post', '0004_alter_post_post_img'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='post',\n            name='profile_picture_post',\n            field=models.ImageField(null=True, upload_to='send_post_img/'),\n        ),",
+        "detail": "post.migrations.0005_post_profile_picture_post",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "post.migrations.0006_dair",
+        "description": "post.migrations.0006_dair",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('post', '0005_post_profile_picture_post'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Dair',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('dair_img', models.ImageField(null=True, upload_to='dair_img/')),",
+        "detail": "post.migrations.0006_dair",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "post.migrations.0007_auto_20230930_2243",
+        "description": "post.migrations.0007_auto_20230930_2243",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('post', '0006_dair'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='dair',\n            name='profile_picture_dair',\n            field=models.ImageField(null=True, upload_to='send_dair_img/'),\n        ),",
+        "detail": "post.migrations.0007_auto_20230930_2243",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "post.migrations.0008_dair_username_d",
+        "description": "post.migrations.0008_dair_username_d",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('post', '0007_auto_20230930_2243'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='dair',\n            name='username_d',\n            field=models.ForeignKey(default=1, on_delete=django.db.models.deletion.CASCADE, to=settings.AUTH_USER_MODEL),",
+        "detail": "post.migrations.0008_dair_username_d",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "post.migrations.0009_alter_dair_username_d",
+        "description": "post.migrations.0009_alter_dair_username_d",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('post', '0008_dair_username_d'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='dair',\n            name='username_d',\n            field=models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, to=settings.AUTH_USER_MODEL),",
+        "detail": "post.migrations.0009_alter_dair_username_d",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "post.migrations.0010_rename_username_d_dair_username",
+        "description": "post.migrations.0010_rename_username_d_dair_username",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('post', '0009_alter_dair_username_d'),\n    ]\n    operations = [\n        migrations.RenameField(\n            model_name='dair',\n            old_name='username_d',\n            new_name='username',\n        ),",
+        "detail": "post.migrations.0010_rename_username_d_dair_username",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "post.migrations.0011_auto_20231014_1829",
+        "description": "post.migrations.0011_auto_20231014_1829",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('post', '0010_rename_username_d_dair_username'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='dair',\n            name='dair_img',\n        ),\n        migrations.RemoveField(",
+        "detail": "post.migrations.0011_auto_20231014_1829",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "post.migrations.0012_remove_dair_dair_created_date",
+        "description": "post.migrations.0012_remove_dair_dair_created_date",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('post', '0011_auto_20231014_1829'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='dair',\n            name='dair_created_date',\n        ),\n    ]",
+        "detail": "post.migrations.0012_remove_dair_dair_created_date",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "post.migrations.0013_auto_20231014_1831",
+        "description": "post.migrations.0013_auto_20231014_1831",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('post', '0012_remove_dair_dair_created_date'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='dair',\n            name='dair_img',\n            field=models.ImageField(null=True, upload_to='dair_img/'),",
+        "detail": "post.migrations.0013_auto_20231014_1831",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "post.migrations.0014_auto_20231014_1832",
+        "description": "post.migrations.0014_auto_20231014_1832",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('post', '0013_auto_20231014_1831'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='dair',\n            name='dair_img',\n        ),\n        migrations.RemoveField(",
+        "detail": "post.migrations.0014_auto_20231014_1832",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "post.migrations.0015_auto_20231014_1833",
+        "description": "post.migrations.0015_auto_20231014_1833",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('post', '0014_auto_20231014_1832'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='dair',\n            name='dair_img',\n            field=models.ImageField(null=True, upload_to='dair_img/'),\n        ),",
+        "detail": "post.migrations.0015_auto_20231014_1833",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "post.migrations.0016_auto_20231014_1835",
+        "description": "post.migrations.0016_auto_20231014_1835",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('post', '0015_auto_20231014_1833'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='dair',\n            name='dair_img',\n        ),",
+        "detail": "post.migrations.0016_auto_20231014_1835",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "post.migrations.0017_dair_dair_created_date",
+        "description": "post.migrations.0017_dair_dair_created_date",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('post', '0016_auto_20231014_1835'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='dair',\n            name='dair_created_date',\n            field=models.DateTimeField(default=django.utils.timezone.now),\n        ),",
+        "detail": "post.migrations.0017_dair_dair_created_date",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "post.migrations.0018_auto_20231014_2051",
+        "description": "post.migrations.0018_auto_20231014_2051",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('post', '0017_dair_dair_created_date'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='dair',\n            name='dair_created_date',\n        ),\n        migrations.AddField(",
+        "detail": "post.migrations.0018_auto_20231014_2051",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "post.migrations.0019_auto_20231015_1253",
+        "description": "post.migrations.0019_auto_20231015_1253",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('post', '0018_auto_20231014_2051'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='dair',\n            name='dair_img',\n        ),\n        migrations.RemoveField(",
+        "detail": "post.migrations.0019_auto_20231015_1253",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "post.migrations.0020_alter_dair_username",
+        "description": "post.migrations.0020_alter_dair_username",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('post', '0019_auto_20231015_1253'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='dair',\n            name='username',\n            field=models.OneToOneField(on_delete=django.db.models.deletion.CASCADE, to=settings.AUTH_USER_MODEL),",
+        "detail": "post.migrations.0020_alter_dair_username",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "post.migrations.0021_dairpost",
+        "description": "post.migrations.0021_dairpost",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('post', '0020_alter_dair_username'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='DairPost',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('dair_img', models.ImageField(null=True, upload_to='dair_img/')),",
+        "detail": "post.migrations.0021_dairpost",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "post.migrations.0022_auto_20231016_2304",
+        "description": "post.migrations.0022_auto_20231016_2304",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('post', '0021_dairpost'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='dair',\n            name='dair_created_date',\n        ),\n        migrations.AddField(",
+        "detail": "post.migrations.0022_auto_20231016_2304",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "post.migrations.0023_dairpost_username",
+        "description": "post.migrations.0023_dairpost_username",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('post', '0022_auto_20231016_2304'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='dairpost',\n            name='username',\n            field=models.ForeignKey(blank=True, null=True, on_delete=django.db.models.deletion.CASCADE, to=settings.AUTH_USER_MODEL),",
+        "detail": "post.migrations.0023_dairpost_username",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "post.migrations.0024_alter_dairpost_dair_created_date",
+        "description": "post.migrations.0024_alter_dairpost_dair_created_date",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('post', '0023_dairpost_username'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='dairpost',\n            name='dair_created_date',\n            field=models.DateTimeField(auto_now=True),\n        ),",
+        "detail": "post.migrations.0024_alter_dairpost_dair_created_date",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "post.migrations.0025_alter_dairpost_dair_created_date",
+        "description": "post.migrations.0025_alter_dairpost_dair_created_date",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('post', '0024_alter_dairpost_dair_created_date'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='dairpost',\n            name='dair_created_date',\n            field=models.DateTimeField(default=django.utils.timezone.now),\n        ),",
+        "detail": "post.migrations.0025_alter_dairpost_dair_created_date",
+        "documentation": {}
+    },
+    {
+        "label": "PostConfig",
+        "kind": 6,
+        "importPath": "post.apps",
+        "description": "post.apps",
+        "peekOfCode": "class PostConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'post'",
+        "detail": "post.apps",
+        "documentation": {}
+    },
+    {
+        "label": "get_video_duration",
+        "kind": 2,
+        "importPath": "post.cut_video",
+        "description": "post.cut_video",
+        "peekOfCode": "def get_video_duration(video_file):\n    # استخدم MoviePy للحصول على مدة الفيديو\n    clip = VideoFileClip(video_file.temporary_file_path())\n    duration = clip.duration\n    clip.close()\n    return duration\ndef trim_video(video_file, start_time, end_time):\n    # استخدم MoviePy لقص الفيديو بين الأوقات المحددة\n    clip = VideoFileClip(video_file.temporary_file_path()).subclip(start_time, end_time)\n    trimmed_video_file = clip.write_videofile(video_file.temporary_file_path(), codec=\"libx264\")",
+        "detail": "post.cut_video",
+        "documentation": {}
+    },
+    {
+        "label": "trim_video",
+        "kind": 2,
+        "importPath": "post.cut_video",
+        "description": "post.cut_video",
+        "peekOfCode": "def trim_video(video_file, start_time, end_time):\n    # استخدم MoviePy لقص الفيديو بين الأوقات المحددة\n    clip = VideoFileClip(video_file.temporary_file_path()).subclip(start_time, end_time)\n    trimmed_video_file = clip.write_videofile(video_file.temporary_file_path(), codec=\"libx264\")\n    clip.close()\n    return trimmed_video_file\ndef get_media_type(file):\n    # احتسب نوع الملف (فيديو أو صورة) استنادًا إلى امتداد الملف\n    file_extension = file.name.split('.')[-1].lower()\n    if file_extension in ['mp4', 'avi', 'mov', 'mkv']:",
+        "detail": "post.cut_video",
+        "documentation": {}
+    },
+    {
+        "label": "get_media_type",
+        "kind": 2,
+        "importPath": "post.cut_video",
+        "description": "post.cut_video",
+        "peekOfCode": "def get_media_type(file):\n    # احتسب نوع الملف (فيديو أو صورة) استنادًا إلى امتداد الملف\n    file_extension = file.name.split('.')[-1].lower()\n    if file_extension in ['mp4', 'avi', 'mov', 'mkv']:\n        return 'video'\n    elif file_extension in ['jpg', 'jpeg', 'png', 'gif']:\n        return 'image'\n    else:\n        return 'unknown'",
+        "detail": "post.cut_video",
+        "documentation": {}
+    },
+    {
+        "label": "Post",
+        "kind": 6,
+        "importPath": "post.models",
+        "description": "post.models",
+        "peekOfCode": "class Post(models.Model):\n    username  = models.ForeignKey(User,on_delete=models.CASCADE)\n    profile_picture_post =models.ImageField(null=True,upload_to=\"send_post_img/\")\n    post_text = models.TextField(max_length=2400,unique=False,default=\"\")\n    post_img  = models.ImageField(null=True,upload_to=\"post_img/\")\n    post_created_date = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return f\"Post by {self.username.username}\"\n# class Dair(models.Model):\n#     username = models.ForeignKey(User, on_delete=models.CASCADE)",
+        "detail": "post.models",
+        "documentation": {}
+    },
+    {
+        "label": "Dair",
+        "kind": 6,
+        "importPath": "post.models",
+        "description": "post.models",
+        "peekOfCode": "class Dair(models.Model):\n    username = models.OneToOneField(User, on_delete=models.CASCADE)\n    profile_picture_dair =models.ImageField(null=True,upload_to=\"send_dair_img/\")\n    def __str__(self):\n        return f\"Dair by {self.username.username}\"\nclass DairPost(models.Model):\n    dair = models.ForeignKey(Dair, related_name='dair_posts', on_delete=models.CASCADE)\n    username = models.ForeignKey(User, on_delete=models.CASCADE, blank=True, null=True)  # يمكنك جعله خياريًا إذا كنت ترغب في ذلك\n    dair_img = models.ImageField(null=True, upload_to=\"dair_img/\")\n    dair_video = models.FileField(upload_to='dair_videos/', null=True)",
+        "detail": "post.models",
+        "documentation": {}
+    },
+    {
+        "label": "DairPost",
+        "kind": 6,
+        "importPath": "post.models",
+        "description": "post.models",
+        "peekOfCode": "class DairPost(models.Model):\n    dair = models.ForeignKey(Dair, related_name='dair_posts', on_delete=models.CASCADE)\n    username = models.ForeignKey(User, on_delete=models.CASCADE, blank=True, null=True)  # يمكنك جعله خياريًا إذا كنت ترغب في ذلك\n    dair_img = models.ImageField(null=True, upload_to=\"dair_img/\")\n    dair_video = models.FileField(upload_to='dair_videos/', null=True)\n    dair_created_date = models.DateTimeField(default=timezone.now)\n    def __str__(self):\n        return f\"Dair ID: {self.username.username}, DairPost ID: {self.id}\"\n    def save(self, *args, **kwargs):\n        if not self.username:",
+        "detail": "post.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "post.urls",
+        "description": "post.urls",
+        "peekOfCode": "urlpatterns = [\n    path('post/', post, name='post'),\n    path(\"post/add_dair\", add_dair, name=\"dair\"),\n    path('post/dair/<str:username>/<int:dair_post_id>/', dair_views, name='dair_views'),\n]",
+        "detail": "post.urls",
+        "documentation": {}
+    },
+    {
+        "label": "add_dair",
+        "kind": 2,
+        "importPath": "post.views",
+        "description": "post.views",
+        "peekOfCode": "def add_dair(request):\n    user = request.user\n    try:\n        # يحاول البحث عن دار مرتبطة بالمستخدم\n        dair = Dair.objects.get(username=user)\n    except Dair.DoesNotExist:\n        # إذا لم تكن هناك دار مرتبطة بالمستخدم، سيتم إنشاء واحدة\n        dair = Dair.objects.create(username=user, profile_picture_dair=user.userprofile.profile_picture)\n    if request.method == 'POST':\n        dair_img_and_video_file_input = request.FILES.get('dair_img_and_video_file_input', settings.MEDIA_URL + \"cv.png\")",
+        "detail": "post.views",
+        "documentation": {}
+    },
+    {
+        "label": "post",
+        "kind": 2,
+        "importPath": "post.views",
+        "description": "post.views",
+        "peekOfCode": "def post(request):\n    user = request.user\n    posts = Post.objects.all()\n    dairs = Dair.objects.all()\n    if request.method == 'POST':\n        add_image_post = request.FILES.get(\n            'add_image_post', settings.MEDIA_URL + \"cv.png\")\n        post_text = request.POST.get('post_text', '').strip()\n        dair_img_and_video_file_input = request.FILES.get(\n            'dair_img_and_video_file_input', settings.MEDIA_URL + \"cv.png\")",
+        "detail": "post.views",
+        "documentation": {}
+    },
+    {
+        "label": "dair_views1",
+        "kind": 2,
+        "importPath": "post.views",
+        "description": "post.views",
+        "peekOfCode": "def dair_views1(request, username, dair_post_id):\n    user = get_object_or_404(User, username=username)\n    users = User.objects.all()\n    current_user = get_object_or_404(User, username=username)\n    dair_posts = DairPost.objects.filter(dair__username=current_user).order_by('dair_created_date')\n    current_dair = get_object_or_404(DairPost, id=dair_post_id, dair__username=user)\n    previous_post = None\n    next_post = None\n    # البحث عن العناصر السابقة والتالية\n    for i, post in enumerate(dair_posts):",
+        "detail": "post.views",
+        "documentation": {}
+    },
+    {
+        "label": "dair_views",
+        "kind": 2,
+        "importPath": "post.views",
+        "description": "post.views",
+        "peekOfCode": "def dair_views(request, username, dair_post_id):\n    users = get_object_or_404(User, username=username)\n    current_post = get_object_or_404(DairPost, username=users, id=dair_post_id)\n    dair_posts = DairPost.objects.filter(dair__username=users).order_by('dair_created_date')\n    current_dair = get_object_or_404(DairPost, id=dair_post_id, dair__username=users)\n    # ابحث عن المستخدم السابق والمستخدم التالي والمنشور الأول الخاص بهما\n    previous_user = Dair.objects.filter(id__lt=users.dair.id).order_by('-id').first()\n    next_user = Dair.objects.filter(id__gt=users.dair.id).order_by('id').first()\n    first_post_of_previous_user = DairPost.objects.filter(username=previous_user.username).first() if previous_user else None\n    first_post_of_next_user = DairPost.objects.filter(username=next_user.username).first() if next_user else None",
+        "detail": "post.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "proj.asgi",
+        "description": "proj.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "proj.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "proj.settings",
+        "description": "proj.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-dkwvz_c7df3)(#vl*^fnrb=yol)&y#=s=d&5l+i+0qseiz0+2t'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = [\"192.168.1.215\",\"127.0.0.1\"]\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "proj.settings",
+        "description": "proj.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-dkwvz_c7df3)(#vl*^fnrb=yol)&y#=s=d&5l+i+0qseiz0+2t'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = [\"192.168.1.215\",\"127.0.0.1\"]\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "proj.settings",
+        "description": "proj.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = [\"192.168.1.215\",\"127.0.0.1\"]\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "proj.settings",
+        "description": "proj.settings",
+        "peekOfCode": "ALLOWED_HOSTS = [\"192.168.1.215\",\"127.0.0.1\"]\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'users',",
+        "detail": "proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "proj.settings",
+        "description": "proj.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'users',\n    \"chat\",\n    \"cryptography_app\",",
+        "detail": "proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "proj.settings",
+        "description": "proj.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'proj.urls'",
+        "detail": "proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "proj.settings",
+        "description": "proj.settings",
+        "peekOfCode": "ROOT_URLCONF = 'proj.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "proj.settings",
+        "description": "proj.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "proj.settings",
+        "description": "proj.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'proj.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.2/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "proj.settings",
+        "description": "proj.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/3.2/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "proj.settings",
+        "description": "proj.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "proj.settings",
+        "description": "proj.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\n# Default primary key field type",
+        "detail": "proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "proj.settings",
+        "description": "proj.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field",
+        "detail": "proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "proj.settings",
+        "description": "proj.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "proj.settings",
+        "description": "proj.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "proj.settings",
+        "description": "proj.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nLOGOUT_REDIRECT_URL = 'singin'\nLOGIN_REDIRECT_URL = 'msg'",
+        "detail": "proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "proj.settings",
+        "description": "proj.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nLOGOUT_REDIRECT_URL = 'singin'\nLOGIN_REDIRECT_URL = 'msg'\nLOGIN_URL= 'singin'\n# EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\n# EMAIL_HOST = 'smtp.gmail.com'\n# EMAIL_PORT = 587\n# EMAIL_USE_TLS = True\n# EMAIL_HOST_USER = 'abdmoklss@gmail.com'\n# EMAIL_HOST_PASSWORD = 'dynamite@Boom'",
+        "detail": "proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LOGOUT_REDIRECT_URL",
+        "kind": 5,
+        "importPath": "proj.settings",
+        "description": "proj.settings",
+        "peekOfCode": "LOGOUT_REDIRECT_URL = 'singin'\nLOGIN_REDIRECT_URL = 'msg'\nLOGIN_URL= 'singin'\n# EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\n# EMAIL_HOST = 'smtp.gmail.com'\n# EMAIL_PORT = 587\n# EMAIL_USE_TLS = True\n# EMAIL_HOST_USER = 'abdmoklss@gmail.com'\n# EMAIL_HOST_PASSWORD = 'dynamite@Boom'\nEMAIL_BACKEND = \"django.core.mail.backends.console.EmailBackend\"",
+        "detail": "proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LOGIN_REDIRECT_URL",
+        "kind": 5,
+        "importPath": "proj.settings",
+        "description": "proj.settings",
+        "peekOfCode": "LOGIN_REDIRECT_URL = 'msg'\nLOGIN_URL= 'singin'\n# EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\n# EMAIL_HOST = 'smtp.gmail.com'\n# EMAIL_PORT = 587\n# EMAIL_USE_TLS = True\n# EMAIL_HOST_USER = 'abdmoklss@gmail.com'\n# EMAIL_HOST_PASSWORD = 'dynamite@Boom'\nEMAIL_BACKEND = \"django.core.mail.backends.console.EmailBackend\"\nMEDIA_URL = '/media/'",
+        "detail": "proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_BACKEND",
+        "kind": 5,
+        "importPath": "proj.settings",
+        "description": "proj.settings",
+        "peekOfCode": "EMAIL_BACKEND = \"django.core.mail.backends.console.EmailBackend\"\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'static/media')\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [os.path.join(BASE_DIR, 'static')]\n# لي اضافة المكالمات \nTWILIO_ACCOUNT_SID = 'YOUR_TWILIO_ACCOUNT_SID'\nTWILIO_AUTH_TOKEN = 'YOUR_TWILIO_AUTH_TOKEN'",
+        "detail": "proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "proj.settings",
+        "description": "proj.settings",
+        "peekOfCode": "MEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'static/media')\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [os.path.join(BASE_DIR, 'static')]\n# لي اضافة المكالمات \nTWILIO_ACCOUNT_SID = 'YOUR_TWILIO_ACCOUNT_SID'\nTWILIO_AUTH_TOKEN = 'YOUR_TWILIO_AUTH_TOKEN'",
+        "detail": "proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "proj.settings",
+        "description": "proj.settings",
+        "peekOfCode": "MEDIA_ROOT = os.path.join(BASE_DIR, 'static/media')\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [os.path.join(BASE_DIR, 'static')]\n# لي اضافة المكالمات \nTWILIO_ACCOUNT_SID = 'YOUR_TWILIO_ACCOUNT_SID'\nTWILIO_AUTH_TOKEN = 'YOUR_TWILIO_AUTH_TOKEN'",
+        "detail": "proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "proj.settings",
+        "description": "proj.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\nSTATICFILES_DIRS = [os.path.join(BASE_DIR, 'static')]\n# لي اضافة المكالمات \nTWILIO_ACCOUNT_SID = 'YOUR_TWILIO_ACCOUNT_SID'\nTWILIO_AUTH_TOKEN = 'YOUR_TWILIO_AUTH_TOKEN'",
+        "detail": "proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_DIRS",
+        "kind": 5,
+        "importPath": "proj.settings",
+        "description": "proj.settings",
+        "peekOfCode": "STATICFILES_DIRS = [os.path.join(BASE_DIR, 'static')]\n# لي اضافة المكالمات \nTWILIO_ACCOUNT_SID = 'YOUR_TWILIO_ACCOUNT_SID'\nTWILIO_AUTH_TOKEN = 'YOUR_TWILIO_AUTH_TOKEN'",
+        "detail": "proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TWILIO_ACCOUNT_SID",
+        "kind": 5,
+        "importPath": "proj.settings",
+        "description": "proj.settings",
+        "peekOfCode": "TWILIO_ACCOUNT_SID = 'YOUR_TWILIO_ACCOUNT_SID'\nTWILIO_AUTH_TOKEN = 'YOUR_TWILIO_AUTH_TOKEN'",
+        "detail": "proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TWILIO_AUTH_TOKEN",
+        "kind": 5,
+        "importPath": "proj.settings",
+        "description": "proj.settings",
+        "peekOfCode": "TWILIO_AUTH_TOKEN = 'YOUR_TWILIO_AUTH_TOKEN'",
+        "detail": "proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "proj.urls",
+        "description": "proj.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', include('users.urls')),  # تضمين تطبيق المستخدمين\n    path('', include('chat.urls')),   # تضمين تطبيق الدردشة\n    path('', include('cryptography_app.urls')),  # تضمين تطبيق التشفير\n    path('', include('post.urls')),  \n] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)",
+        "detail": "proj.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "proj.wsgi",
+        "description": "proj.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "proj.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "users.migrations.0001_initial",
+        "description": "users.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='UserProfile',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "users.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "users.migrations.0002_auto_20230908_2218",
+        "description": "users.migrations.0002_auto_20230908_2218",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('users', '0001_initial'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='userprofile',\n            name='profile_image',\n        ),\n        migrations.AddField(",
+        "detail": "users.migrations.0002_auto_20230908_2218",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "users.migrations.0003_alter_userprofile_profile_picture",
+        "description": "users.migrations.0003_alter_userprofile_profile_picture",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('users', '0002_auto_20230908_2218'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='userprofile',\n            name='profile_picture',\n            field=models.ImageField(default='/static/media/user.png', upload_to='profile_pictures/'),\n        ),",
+        "detail": "users.migrations.0003_alter_userprofile_profile_picture",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "users.migrations.0004_alter_userprofile_profile_picture",
+        "description": "users.migrations.0004_alter_userprofile_profile_picture",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('users', '0003_alter_userprofile_profile_picture'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='userprofile',\n            name='profile_picture',\n            field=models.ImageField(default='default.jpg', upload_to='profile_pictures/'),\n        ),",
+        "detail": "users.migrations.0004_alter_userprofile_profile_picture",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "users.migrations.0005_alter_userprofile_profile_picture",
+        "description": "users.migrations.0005_alter_userprofile_profile_picture",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('users', '0004_alter_userprofile_profile_picture'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='userprofile',\n            name='profile_picture',\n            field=models.ImageField(default='default.jpg', null=True, upload_to='profile_picture/'),\n        ),",
+        "detail": "users.migrations.0005_alter_userprofile_profile_picture",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "users.migrations.0006_auto_20230910_2004",
+        "description": "users.migrations.0006_auto_20230910_2004",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('users', '0005_alter_userprofile_profile_picture'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='userprofile',\n            name='profile_picture_background',\n            field=models.ImageField(default='profile_picture_background/default.png', null=True, upload_to='profile_picture_background/'),\n        ),",
+        "detail": "users.migrations.0006_auto_20230910_2004",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "users.migrations.0007_userprofile_phone_number",
+        "description": "users.migrations.0007_userprofile_phone_number",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('users', '0006_auto_20230910_2004'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='userprofile',\n            name='phone_number',\n            field=phonenumber_field.modelfields.PhoneNumberField(max_length=128, null=True, region=None),\n        ),",
+        "detail": "users.migrations.0007_userprofile_phone_number",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "users.migrations.0008_alter_userprofile_phone_number",
+        "description": "users.migrations.0008_alter_userprofile_phone_number",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('users', '0007_userprofile_phone_number'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='userprofile',\n            name='phone_number',\n            field=phonenumber_field.modelfields.PhoneNumberField(max_length=15, region=None),\n        ),",
+        "detail": "users.migrations.0008_alter_userprofile_phone_number",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "users.migrations.0009_auto_20230923_2245",
+        "description": "users.migrations.0009_auto_20230923_2245",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('users', '0008_alter_userprofile_phone_number'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='userprofile',\n            name='profile_picture',\n            field=models.ImageField(default='profile_picture/default.png', upload_to='profile_picture/'),\n        ),",
+        "detail": "users.migrations.0009_auto_20230923_2245",
+        "documentation": {}
+    },
+    {
+        "label": "UsersConfig",
+        "kind": 6,
+        "importPath": "users.apps",
+        "description": "users.apps",
+        "peekOfCode": "class UsersConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'users'",
+        "detail": "users.apps",
+        "documentation": {}
+    },
+    {
+        "label": "UserProfile",
+        "kind": 6,
+        "importPath": "users.models",
+        "description": "users.models",
+        "peekOfCode": "class UserProfile(models.Model):\n    user = models.OneToOneField(User, on_delete=models.CASCADE)\n    profile_picture = models.ImageField(default=\"profile_picture/default.png\",upload_to=\"profile_picture/\")\n    profile_picture_background =models.ImageField(default=\"profile_picture_background/default.jpeg\",upload_to=\"profile_picture_background/\")\n    phone_number = PhoneNumberField(max_length=15)",
+        "detail": "users.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "users.urls",
+        "description": "users.urls",
+        "peekOfCode": "urlpatterns = [\n    path('',singin,name='singin'),\n    path(\"singup/\", singup, name=\"singup\"),\n    path('logout/',auth_views.LogoutView.as_view(),name='logout'),\n    path(\"password_change/\",password_change,name=\"password_change\"),\n    path('password_reset/', auth_views.PasswordResetView.as_view(template_name=\"password_reset_email.html\"), name='password_reset'), \n    path('password_reset/done/',auth_views.PasswordResetDoneView.as_view(template_name=\"password_done_sen_maile.html\"),name='password_reset_done'),\n    path('reser/<uidb64>/<token>/',auth_views.PasswordResetConfirmView.as_view(template_name=\"password_reset_confirm.html\"),name='password_reset_confirm'),\n    path('reser/done/',auth_views.PasswordResetCompleteView.as_view(template_name=\"password_reset_complete.html\"),name='password_reset_complete'),\n    path(\"userprofile/\",user_profile, name=\"user_profile\"),",
+        "detail": "users.urls",
+        "documentation": {}
+    },
+    {
+        "label": "singin",
+        "kind": 2,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "def singin(request):\n    if request.method == 'POST':\n        username = request.POST['username'].lower()\n        password = request.POST['password']\n        user = authenticate(request, username=username, password=password)\n        if user is not None:\n            # تسجيل المستخدم إذا تم التحقق من بيانات تسجيل الدخول بنجاح\n            login(request, user)\n            messages.success(request, 'تم تسجيل الدخول بنجاح.')\n            return redirect('user_profile')  # إعادة توجيه المستخدم إلى صفحة أخرى بعد تسجيل الدخول",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "singup",
+        "kind": 2,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "def singup(request):\n    if request.method == \"POST\":\n        username = request.POST.get('username', '').lower()\n        email = request.POST.get('email', '')\n        password1 = request.POST.get('password1', '')\n        password2 = request.POST.get('password2', '')\n        phone_number = request.POST.get('phone_number', '')\n        # التحقق من عدم استخدام البريد الإلكتروني أو رقم الهاتف مسبقًا\n        if User.objects.filter(email=email).exists():\n            messages.error(request, 'البريد الإلكتروني مستخدم بالفعل.')",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "password_change",
+        "kind": 2,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "def password_change(request):\n    user = request.user\n    if request.method == 'POST':\n        old_password = request.POST[\"old_password\"]\n        if user.check_password(old_password):\n            new_password1 = request.POST[\"new_password1\"]\n            new_password2 = request.POST[\"new_password2\"]\n            if new_password1 == new_password2:\n                user.set_password(new_password2)\n                user.save()",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "user_profile",
+        "kind": 2,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "def user_profile(request):\n    # user = request.user\n    context ={ \n        # 'user': user,\n            }\n    # print(user.first_name)\n    return render(request, 'user_profile.html',context)  # عرض صفحة ملف تعريف المستخدم\n@login_required\ndef edit_profile(request):\n    if request.method == 'POST':",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "edit_profile",
+        "kind": 2,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "def edit_profile(request):\n    if request.method == 'POST':\n        user = request.user\n        new_first_name = request.POST.get('first_name', '').title()\n        new_last_name = request.POST.get('last_name', '').lower()\n        new_email = request.POST.get('email', '')\n        new_phone_number = request.POST.get('phone_number', '')\n        user.first_name = new_first_name\n        user.last_name = new_last_name\n        user.email = new_email",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'proj.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
